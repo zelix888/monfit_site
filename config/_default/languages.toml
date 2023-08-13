@@ -1,8 +1,22 @@
 # toml-docs-start lang-main
+[it]
+    languageName = "Italiano"
+    contentDir = "content/it"
+    weight = 1
+    [it.params.head]
+        tagline = "Il Monferrato che non ti aspetti"
+    [it.params.feature]
+        link = "chi-sono"
+        caption = "Chi sono"
+    [it.params.footer]
+        license = "Quest'opera è distribuita con Licenza Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+        socialTitle = "Seguimi"
+        socialCaption = "Specialista informatico appassionato del Monferrato"
+
 [en]
     languageName = "English"
     contentDir = "content/en"
-    weight = 1
+    weight = 2
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
@@ -16,16 +30,3 @@
         socialCaption = "It specialist keen on Monferrato's trails"
 # toml-docs-end lang-param
 
-[it]
-    languageName = "Italiano"
-    contentDir = "content/it"
-    weight = 2
-    [it.params.head]
-        tagline = "Il Monferrato che non ti aspetti"
-    [it.params.feature]
-        link = "chi-sono"
-        caption = "Chi sono"
-    [it.params.footer]
-        license = "Quest'opera è distribuita con Licenza Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
-        socialTitle = "Seguimi"
-        socialCaption = "Specialista informatico appassionato del Monferrato"
