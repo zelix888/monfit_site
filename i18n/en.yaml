@@ -150,7 +150,7 @@
 
 # Search
 - id: ui_search
-  translation: "Search this site..."
+  translation: "Search on this site..."
 - id: ui_no_results
   translation: "No results for"
 
