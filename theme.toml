@@ -1,7 +1,7 @@
 name = "Monfit"
 license = "MIT"
 licenselink = "https://github.com/gethinode/hinode/blob/main/LICENSE"
-description = "Un semplice blog dove scoprire nuovi sentieri per vivere il Monferrato in modo diverso."
+description = "Blog dedicato alla ricerca di nuovi percorsi del Monferrato."
 homepage = "https://monfit.netlify.com"
 demosite = "https://monfit.netlify.com"
 tags = ["blog", "documentation", "minimal", "modern", "customizable", "search", "bootstrap", "monferrato", "trails", "sentieri", "percorsi", "travels", "viaggi"]

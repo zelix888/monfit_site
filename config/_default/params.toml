@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Un semplice blog dove scoprire nuovi sentieri per vivere il Monferrato in modo diverso."
+    description = "Blog dedicato alla ricerca di nuovi percorsi del Monferrato."
     enableDarkMode = true
     modes = ["light", "dark"]
 # toml-docs-end main
@@ -141,13 +141,13 @@
     type = "Organization"
     name = "Monfit"
     locale = "en-US"
-    # twitter = ""
+    # twitter = "https://twitter.com/gethinode"
     # linkedIn = ""
     github = "https://github.com/zelix888/monfit"
     section = "blog"
     [author]
         name = "Marco Aiolo"
-        # twitter = ""
+        # twitter = "https://twitter.com/markdumay"
         linkedin = "https://www.linkedin.com/in/marcoaiolo/"
         github = "https://github.com/zelix888/"
     [logo]
