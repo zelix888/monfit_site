@@ -11,7 +11,7 @@
     [it.params.footer]
         license = "Quest'opera è distribuita con Licenza Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
         socialTitle = "Seguimi"
-        socialCaption = "Specialista informatico appassionato del Monferrato"
+        socialCaption = "Informatico atipico appassionato di viaggi e sport"
 
 [en]
     languageName = "English"
@@ -27,6 +27,6 @@
     [en.params.footer]
         license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
         socialTitle = "Follow me"
-        socialCaption = "It specialist keen on Monferrato's trails"
+        socialCaption = "Atypical IT specialist keen on travels and sport"
 # toml-docs-end lang-param
 
