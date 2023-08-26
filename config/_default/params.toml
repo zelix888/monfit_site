@@ -141,13 +141,13 @@
     type = "Organization"
     name = "Monfit"
     locale = "en-US"
-    # twitter = "https://twitter.com/gethinode"
+    # twitter = ""
     # linkedIn = ""
     github = "https://github.com/zelix888/monfit"
     section = "blog"
     [author]
         name = "Marco Aiolo"
-        # twitter = "https://twitter.com/markdumay"
+        # twitter = ""
         linkedin = "https://www.linkedin.com/in/marcoaiolo/"
         github = "https://github.com/zelix888/"
     [logo]
