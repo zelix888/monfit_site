@@ -1,6 +1,6 @@
 ---
 title: About
-description: Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+description: Welcome to Monfit!
 date: 2022-04-11
 updated: 2023-06-26
 showComments: false
@@ -8,36 +8,27 @@ showComments: false
 
 <p class="text-center"><svg class="img-fluid w-50"><use href="/img/logo_var.svg#logo"></use></svg></p>
 
-<section class="section section-sm mt-5 mb-5">
-    <div class="container-fluid">
-        <div class="row justify-content-center text-center">
-            <div class="col-lg-4">
-                <i class="fa-brands fa-bootstrap fa-2xl"></i>
-                <h2 class="h4">Bootstrap framework</h2>
-                <p>Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.</p>
-            </div>
-            <div class="col-lg-4">
-                <i class="fa-solid fa-magnifying-glass fa-2xl"></i>
-                <h2 class="h4">Full text search</h2>
-                <p>Search your site with FlexSearch, a full-text search library with zero dependencies.</p>
-            </div>
-            <div class="col-lg-4">
-                <i class="fa-solid fa-code fa-2xl"></i>
-                <h2 class="h4">Development tools</h2>
-                <p>Use Node Package Manager to automate the build process and to keep track of dependencies.</p>
-            </div>
-        </div>
-    </div>
-</section>
+<img align="right" src="https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" width="300" class="rounded" />
 
-Additional features include:
+Hi, this is Marco Aiolo,
 
-* Switching between light mode and dark mode
-* Support for multiple languages
-* Reusable Bootstrap components through configurable shortcodes and partials
-* Versioned documentation, including sidebar navigation and version switcher
-* Embedded comments through light-weight integration with GitHub via [utteranc.es]({{< param "links.utterances" >}})
-* Reponsive image handling for multiple screen sizes and resolutions
-* Optimized search results, scoring 100 points for SEO on [PageSpeed Insights]({{< param "links.pagespeed" >}})
-* Secure by default, scoring A+ on [Mozilla Observatory test]({{< param "links.observatory" >}})
-{.tickmark}
+creator of this blog dedicated to finding new routes in the Monferrato area.
+
+This idea stems from my deep desire to enhance this place by introducing you to picturesque medieval villages and letting you admire enchanting landscapes while sitting on big benches scattered around the area.
+
+On my blog you will find a series of articles on the most striking paths you can easily download on your smartphone, with detailed descriptions of the difficulty levels, distances, and points of interest along the way.
+
+Monfit is not just a blog, it is an invitation to rediscover the pleasure of walking, an opportunity to slow down the hectic pace of life, to connect with nature and, last but not least, to fully enjoy the surrounding beauty that we often fail to appreciate.
+
+{{< image src="https://images.unsplash.com/photo-1471289660181-7feae98d61ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" ratio="21x9" class="rounded">}}
+Photo by <a href="https://unsplash.com/@gaetanocessati">Gaetano Cessati </a> on <a href="https://unsplash.com/photos/d91HDmCta0k">Unsplash</a> 
+
+So, let’s meet on social media to share information, useful tips, facts and much more about this territory.
+
+I’m looking forward to it and enjoy your walks!
+
+# Collaborators
+
+# Social links
+
+# Credits
