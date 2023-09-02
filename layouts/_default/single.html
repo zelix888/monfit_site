@@ -12,7 +12,9 @@
             {{ $datestr | i18n "postedOnDate" -}}
             {{ if ne $datestr $lastmodstr -}}&nbsp;({{ $lastmodstr | i18n "lastModified" }}){{ end }} &bull;
             {{ .ReadingTime | lang.FormatNumber 0 }}&nbsp;{{ i18n "minutesShort" }} {{ i18n "read" }} &bull;
-            {{ .WordCount | lang.FormatNumber 0 }}&nbsp;{{ i18n "words" }}
+            {{ .WordCount | lang.FormatNumber 0 }}&nbsp;{{ i18n "words" }} <br>
+            {{  if .Param "author.display_name" }} {{.Param "author.display_name" | i18n "createdby" }}{{end}}
+
         </small>
 
         {{- if gt (len (.GetTerms "tags")) 0 -}}

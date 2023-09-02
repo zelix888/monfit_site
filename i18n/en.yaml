@@ -5,6 +5,8 @@
   translation: "Posted on {{ . }}"
 - id: lastModified
   translation: "Last modified on {{ . }}"
+- id: createdby
+  translation: "Created by {{ . }} "
 - id: translationsLabel
   translation: "Other languages: "
 - id: translationsSeparator

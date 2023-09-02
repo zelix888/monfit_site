@@ -1,8 +1,10 @@
 ---
+author:
+  display_name: Marco Aiolo
 title: About
 description: Welcome to Monfit!
-date: 2022-04-11
-updated: 2023-06-26
+date: 2023-08-15
+modified: 2023-09-03
 showComments: false
 ---
 
