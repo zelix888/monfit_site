@@ -26,6 +26,9 @@ defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = true
 # toml-docs-end language
 
+[imaging]
+  quality = 100
+  
 # toml-docs-start redirect
 [outputFormats.REDIR]
 mediaType = "text/netlify"
