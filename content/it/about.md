@@ -1,49 +1,45 @@
 ---
+author:
+  display_name: Marco Aiolo
 slug: chi-sono
 title: Chi sono
-description: Een blog en documentatie thema voor Hugo gebaseerd op Bootstrap 5.
-date: 2023-07-15
+description: Benvenuto su Monfit!
+date: 2023-08-15
+modified: 2023-09-09
 showComments: false
 ---
 
 <p class="text-center"><svg class="img-fluid w-50"><use href="/img/logo_var.svg#logo"></use></svg></p>
 
-<section class="section section-sm mt-5">
-  <div class="container-fluid">
-    <div class="row justify-content-center text-center">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-4">
-        <i class="fa-brands fa-bootstrap fa-2xl"></i>
-        <h2 class="h4">Bootstrap raamwerk</h2>
-        <p>Bouw snelle websites geschikt voor mobiele en desktop schermen met Bootstrap 5. Pas de site eenvoudig aan met bronbestanden in Sass.</p>
-      </div>
-      <div class="col-lg-4">
-        <i class="fa-solid fa-magnifying-glass fa-2xl"></i>
-        <h2 class="h4">Volledig doorzoekbaar</h2>
-        <p>Doorzoek je site met FlexSearch, een software bibliotheek zonder afhankelijkheden.</p>
-      </div>
-      <div class="col-lg-4">
-      <i class="fa-solid fa-code fa-2xl"></i>
-        <h2 class="h4">Ontwikkelgereedschap</h2>
-        <p>Gebruik Node Package Manager om het bouwproces inclusief versiebeheer volledig te automatiseren.</p>
-      </div>
-    </div>
-  </div>
-</section>
+Ciao, sono Marco Aiolo, creatore di questo blog dedicato alla ricerca di nuovi percorsi nel Monferrato.
 
-Overige functies:
+<p class="text-center"><img src="https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" class="img-fluid w-50 rounded"/></p>
 
-* Omschakelen tussen donkere en lichte modus
-* Ondersteuning voor meerdere talen
-* Herbruikbare Bootstrap componenten via shortcodes en partials
-* Versiebeheer van documentatiepagina's, inclusief secundaire navigatie en selectie van versies
-* Integreren van commentaar via [utteranc.es]({{< param "links.utterances" >}})
-* Optimalisering van foto's voor meerdere schermafmetingen en resoluties
-* Optimale zoekresultaten, met 100 punten voor SEO volgens [PageSpeed Insights]({{< param "links.pagespeed" >}})
-* Veilige communicatie, met een score van A+ volgens [Mozilla Observatory]({{< param "links.observatory" >}})
-{.tickmark}
+L'idea nasce dal mio profondo desiderio di valorizzare questo luogo, facendovi conoscere pittoreschi borghi medievali e ammirare paesaggi incantevoli seduti su panchine giganti, disseminate nella zona.
 
-Hinode is geinspireerd door de volgende thema's:
+Sul mio blog troverete una serie di articoli sui tracciati più suggestivi, scaricabili sui vostri smartphone, con descrizioni accurate sulle difficoltà, distanze e punti d'interesse lungo il percorso.
 
-* [Blist](https://github.com/apvarun/blist-hugo-theme) - een blog thema voor Hugo op basis van Tailwind CSS.
-* [Doks](https://github.com/h-enk/doks) - een Hugo thema voor het bouwen van veilige, snelle, en SEO-geoptimaliseerde documentatiesites, die je eenvoudig kunt actualiseren en aanpassen.
+Monfit non è soltanto un blog, ma un invito a riscoprire il piacere di camminare, un'occasione per rallentare i ritmi frenetici della vita, per connettersi con la natura e non meno importante, per godere appieno delle bellezze circostanti che spesso non apprezziamo a dovere.
+
+<figure class="figure">
+  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@docagile">Roby Allario</a> on <a href="https://unsplash.com/photos/PyDjtEPkHfM">Unsplash</a></figcaption>
+</figure>
+
+Che dire, non resta che incontrarci sui social per condividere, informazioni, consigli pratici, storie e tant'altro su questo territorio.
+
+Vi aspetto, e buone passeggiate!
+
+## Collaboratori
+
+<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Angelica Piccaluga** - Traduzione sito web <a class="btn btn-danger" type="button"><i class="fa-brands fa-instagram"></i></a> 
+    <a class="btn btn-primary" type="button"><i class="fa-brands fa-facebook"></i></a>
+
+<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Noemi Aiolo** - Designer del logo <a class="btn btn-danger" type="button"><i class="fa-brands fa-instagram"></i></a> 
+    <a class="btn btn-primary" type="button"><i class="fa-brands fa-facebook"></i></a>
+
+## Link social
+
+## Crediti
+
+Monfit è basato su [Hinode](https://github.com/gethinode/hinode) - Un semplice tema di documentazione e blog per il vostro sito realizzato con Hugo.

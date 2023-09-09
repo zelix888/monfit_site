@@ -4,7 +4,7 @@ author:
 title: About
 description: Welcome to Monfit!
 date: 2023-08-15
-modified: 2023-09-03
+modified: 2023-09-09
 showComments: false
 ---
 
@@ -30,25 +30,17 @@ So, let’s meet on social media to share information, useful tips, facts and mu
 
 I’m looking forward to it and enjoy your walks!
 
-
-
 ## Collaborators
 
-<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Angelica Piccaluga** - Website translator <a class="btn btn-danger" type="button">
-      <span> <i class="fa-brands fa-instagram"></i> </span> <span>Instagram</span>
-    </a>
-    <a class="btn btn-primary" type="button">
-      <span> <i class="fa-brands fa-facebook"></i></span> <span>Facebook</span>
-    </a>
+<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Angelica Piccaluga** - Website translation <a class="btn btn-danger" type="button"><i class="fa-brands fa-instagram"></i></a> 
+    <a class="btn btn-primary" type="button"><i class="fa-brands fa-facebook"></i></a>
 
-<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Noemi Aiolo** - Logo designer <a class="btn btn-danger" type="button">
-      <span> <i class="fa-brands fa-instagram"></i> </span> <span>Instagram</span>
-    </a>
-    <a class="btn btn-primary" type="button">
-      <span> <i class="fa-brands fa-facebook"></i></span> <span>Facebook</span>
-    </a>
+<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Noemi Aiolo** - Logo designer <a class="btn btn-danger" type="button"><i class="fa-brands fa-instagram"></i></a> 
+    <a class="btn btn-primary" type="button"><i class="fa-brands fa-facebook"></i></a>
 
 ## Social links
 
 ## Credits
+
+Monfit is based on [Hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site.
 

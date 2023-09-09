@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Blog dedicato alla ricerca di nuovi percorsi del Monferrato."
+    description = "Blog dedicato alla ricerca di nuovi percorsi nel Monferrato."
     enableDarkMode = true
     modes = ["light", "dark"]
 # toml-docs-end main

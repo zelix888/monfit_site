@@ -4,7 +4,7 @@
     contentDir = "content/it"
     weight = 1
     [it.params.head]
-        tagline = "Il Monferrato che non ti aspetti"
+        tagline = "Discovering by walking"
     [it.params.feature]
         link = "chi-sono"
         caption = "Chi sono"
@@ -20,7 +20,7 @@
 # toml-docs-end lang-main
 # toml-docs-start lang-param
     [en.params.head]
-        tagline = "The Monferrato you don't expect"
+        tagline = "Discovering by walking"
     [en.params.feature]
         link = "about"
         caption = "About"
