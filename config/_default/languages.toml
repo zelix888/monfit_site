@@ -30,7 +30,7 @@
         socialCaption = "Atypical IT Expert keen on travels and sport"
 
 [de]
-    languageName = "German"
+    languageName = "Deutsch"
     contentDir = "content/de"
     weight = 3
 # toml-docs-end lang-main
