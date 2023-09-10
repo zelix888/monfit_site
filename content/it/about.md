@@ -23,7 +23,7 @@ Monfit non è soltanto un blog, ma un invito a riscoprire il piacere di camminar
 
 <figure class="figure">
   <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@docagile">Roby Allario</a> on <a href="https://unsplash.com/photos/PyDjtEPkHfM">Unsplash</a></figcaption>
+  <figcaption class="figure-caption">Foto di <a href="https://unsplash.com/@docagile">Roby Allario</a> su <a href="https://unsplash.com/photos/PyDjtEPkHfM">Unsplash</a></figcaption>
 </figure>
 
 Che dire, non resta che incontrarci sui social per condividere, informazioni, consigli pratici, storie e tant'altro su questo territorio.

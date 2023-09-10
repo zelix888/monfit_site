@@ -27,6 +27,22 @@
     [en.params.footer]
         license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
         socialTitle = "Follow me"
-        socialCaption = "Atypical IT specialist keen on travels and sport"
+        socialCaption = "Atypical IT Expert keen on travels and sport"
+
+[de]
+    languageName = "German"
+    contentDir = "content/de"
+    weight = 3
+# toml-docs-end lang-main
+# toml-docs-start lang-param
+    [de.params.head]
+        tagline = "Discovering by walking"
+    [de.params.feature]
+        link = "über-mitch"
+        caption = "Über mitch"
+    [de.params.footer]
+        license = "Lizenziert unter Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+        socialTitle = "Folgt mir"
+        socialCaption = "Untypischer IT-Spezialist, reise- und sportbegeistert"
 # toml-docs-end lang-param
 
