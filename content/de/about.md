@@ -1,8 +1,8 @@
 ---
 author:
   display_name: Marco Aiolo
-slug: über-mitch
-title: Über mitch
+slug: über-mich
+title: Über mich
 description: Willkommen bei Monfit!
 date: 2023-08-15
 modified: 2023-09-09
@@ -30,23 +30,23 @@ Nun bleibt es nur noch, uns über die sozialen Medien zu treffen, um Information
  
 Ich freue mich darauf und wünsche euch viel Spaß beim Wandern!
 
-## Collaborators
+## Mitarbeiter
 
-<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Angelica Piccaluga** - Website translation 
+<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Angelica Piccaluga** - Website-Übersetzung 
 
 
 <a class="btn btn-danger" type="button"><i class="fa-brands fa-instagram"></i></a> 
 <a class="btn btn-primary" type="button"><i class="fa-brands fa-facebook"></i></a>
 
 
-<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Noemi Aiolo** - Logo designer 
+<img src="https://images.unsplash.com/photo-1504600770771-fb03a6961d33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=50&q=80" class="border border-dark rounded-circle img-thumbnail"> **Noemi Aiolo** - Logo-Designer 
 
 <a class="btn btn-danger" type="button"><i class="fa-brands fa-instagram"></i></a> 
 <a class="btn btn-primary" type="button"><i class="fa-brands fa-facebook"></i></a>
 
-## Social links
+## Social-Links
 
 ## Credits
 
-Monfit is based on [Hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site.
+Monfit basiert auf [Hinode](https://github.com/gethinode/hinode) - Ein einfaches Dokumentations- und Blog-Theme für Ihre Website, erstellt mit Hugo.
 

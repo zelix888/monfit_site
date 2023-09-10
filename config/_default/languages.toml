@@ -38,11 +38,11 @@
     [de.params.head]
         tagline = "Discovering by walking"
     [de.params.feature]
-        link = "über-mitch"
-        caption = "Über mitch"
+        link = "über-mich"
+        caption = "Über mich"
     [de.params.footer]
         license = "Lizenziert unter Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
-        socialTitle = "Folgt mir"
+        socialTitle = "Folge mir"
         socialCaption = "Untypischer IT-Spezialist, reise- und sportbegeistert"
 # toml-docs-end lang-param
 
