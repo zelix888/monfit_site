@@ -97,7 +97,7 @@
     [sections.guides]
         title = "Guides"
         layout = "card"
-        sort = "title"
+        sort = "date"
         reverse = false
         nested = true
         cols = 1
@@ -110,6 +110,20 @@
         style = "border-1 card-emphasize"
         homepage = 3
         separator = false
+    [sections.villages]
+        title = "Villages"
+        sort = "date"
+        reverse = true
+        nested = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
 # toml-docs-end sections
 
 [favicon]

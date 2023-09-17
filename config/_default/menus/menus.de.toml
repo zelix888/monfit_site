@@ -9,14 +9,19 @@
   weight = 20
 
 [[main]]
+  name = "Dörfer"
+  pageRef = "/dörfer/"
+  weight = 30  
+
+[[main]]
   name = "Leitfaden"
   pageRef = "/leitfaden/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Tags"
   pageRef = "/tags/"
-  weight = 40
+  weight = 50
 
 [[social]]
   name = "LinkedIn"
