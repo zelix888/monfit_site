@@ -19,13 +19,13 @@ if (document.getElementById(mapID) !== null) {
 const mapID2 = 'map2'
 
 if (document.getElementById(mapID2) !== null) {
-  const map2 = L.map(mapID2).setView([45.0077, 8.2573], 13)
+  const map2 = L.map(mapID2).setView([45.0815, 8.3895], 15)
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map2);
   
-  fetch("https://raw.githubusercontent.com/sammigachuhi/geojson_files/main/cities-geojson.geojson")
+  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).geojson")
     .then((response) =>{
         return response.json()
     })
