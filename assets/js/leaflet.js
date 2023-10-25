@@ -19,7 +19,7 @@ if (document.getElementById(mapID) !== null) {
 const mapID2 = 'map2'
 
 if (document.getElementById(mapID2) !== null) {
-  const map2 = L.map(mapID2).setView([45.0815, 8.3895], 15)
+  const map2 = L.map(mapID2).setView([45.0815, 8.3895], 14)
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
