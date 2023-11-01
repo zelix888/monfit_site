@@ -48,5 +48,7 @@ Ich freue mich darauf und wünsche euch viel Spaß beim Wandern!
 
 ## Credits
 
-Monfit basiert auf [Hinode](https://github.com/gethinode/hinode) - Ein einfaches Dokumentations- und Blog-Theme für Ihre Website, erstellt mit Hugo.
+Monfit basiert auf:
+- [Hinode](https://github.com/gethinode/hinode) - Ein einfaches Dokumentations- und Blog-Theme für Ihre Website, erstellt mit Hugo.
+- [Brouter](https://brouter.de/brouter/index.html) - Eine Routing-Engine, die entwickelt wurde, um optimale Radfahr-Routen unter Verwendung von OpenStreetMap- und Höhendaten zu berechnen.
 

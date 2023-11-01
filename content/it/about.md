@@ -48,4 +48,6 @@ Vi aspetto, e buone passeggiate!
 
 ## Crediti
 
-Monfit è basato su [Hinode](https://github.com/gethinode/hinode) - Un semplice tema di documentazione e blog per il vostro sito realizzato con Hugo.
+Monfit è basato su:
+- [Hinode](https://github.com/gethinode/hinode) - Un semplice tema di documentazione e blog per il vostro sito realizzato con Hugo.
+- [Brouter](https://brouter.de/brouter/index.html) - Un motore di instradamento progettato per calcolare percorsi ciclistici ottimali utilizzando OpenStreetMap e dati altimetrici.

@@ -48,5 +48,8 @@ I’m looking forward to it and enjoy your walks!
 
 ## Credits
 
-Monfit is based on [Hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site.
+Monfit is based on:
+- [Hinode](https://github.com/gethinode/hinode) - A clean documentation and blog theme for your Hugo site.
+- [BRouter](https://brouter.de/brouter/index.html) - A routing engine designed to calculate optimal cycling routes using OpenStreetMap and elevation data.
+
 
