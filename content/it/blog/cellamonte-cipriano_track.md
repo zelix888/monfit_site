@@ -47,13 +47,13 @@ Da qui, proseguendo verso *Via Dante Barbano*,  ci inoltreremo verso il caratter
 
 Continuiamo dritto per circa 300 m in *Via Dante Barbano* fino a incontrare una piccola altura su cui è posizionata la piccola **Chiesa di San Quirico [^3]**.
 
-Proseguiamo su *Via Cipriano Cei* per altri 300 m fino a quando non raggiungiamo un piccolo sentiero sulla destra che ci conduce verso una zona boscosa.
+Proseguiamo su *Via Cipriano Cei* per altri 300 m fino a quando non raggiungiamo un piccolo sentiero sulla destra che si addentra in un'area boscosa.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Scendiamo lungo il sentiero e immergiamoci completamente nella vegetazione del bosco fino ad arrivare a una zona pianeggiante.
+Scendendo lungo il sentiero ci ritroviamo completamente immersi nella vegetazione boschiva che ci conduce verso una zona pianeggiante..
 
-Proseguiamo dritto fino ad arrivare a una ripida salita, costeggiando i filari, giungendo all'incrocio tra *Strada Calcinara e *Strada Provinciale 37*.
+Procediamo dritto fino ad arrivare a una ripida salita che costeggia i filari, per giungere poi all’incrocio tra *Strada Calcinara* e *Strada Provinciale 37*.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
