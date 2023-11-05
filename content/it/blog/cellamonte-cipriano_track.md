@@ -31,6 +31,11 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 ## Altimetria
 
+<figure class="figure">
+  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/fb06b437c2c7705705a46af77b461c97f69acf91/images/Cella_Monte/Elevation/Elevation_Cella_Monte_Percorso_Cipriano_920x275.png" class="figure-img img-fluid rounded">
+</figure>
+
+
 {{< accordion >}}
   {{< accordion-item header="Cosa indicano i colori?" >}}
     Indica se un percorso è stato **Testato :white_check_mark:**, ovvero perlustrato in ogni suo tratto direttamente dall'autore dell'articolo oppure se invece è stato solamente **Progettato :computer:**, ovvero disegnato attraverso algoritmi di instradamento sulle mappe di OSM.
