@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte-percorso_cipriano"
 title: "Cella Monte - Percorso Cipriano 2.9 Km"
+js: https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.js
 date: 2023-11-01
 tags: ["cella monte", "rosignano", "monferrato", "intermedia", "percorso", "cipriano"]
 thumbnail: https://www.italywhere.com/wp-content/uploads/2022/06/shutterstock_2010548228-1200x800.jpg
@@ -25,19 +26,6 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 {{< accordion >}}
   {{< accordion-item header="Cosa indica lo stato?" >}}
-    Indica se un percorso è stato **Testato :white_check_mark:**, ovvero perlustrato in ogni suo tratto direttamente dall'autore dell'articolo oppure se invece è stato solamente **Progettato :computer:**, ovvero disegnato attraverso algoritmi di instradamento sulle mappe di OSM.
-  {{< /accordion-item >}}
-{{< /accordion >}}
-
-## Altimetria
-
-<figure class="figure">
-  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/fb06b437c2c7705705a46af77b461c97f69acf91/images/Cella_Monte/Elevation/Elevation_Cella_Monte_Percorso_Cipriano_920x275.png" class="figure-img img-fluid rounded">
-</figure>
-
-
-{{< accordion >}}
-  {{< accordion-item header="Cosa indicano i colori?" >}}
     Indica se un percorso è stato **Testato :white_check_mark:**, ovvero perlustrato in ogni suo tratto direttamente dall'autore dell'articolo oppure se invece è stato solamente **Progettato :computer:**, ovvero disegnato attraverso algoritmi di instradamento sulle mappe di OSM.
   {{< /accordion-item >}}
 {{< /accordion >}}
