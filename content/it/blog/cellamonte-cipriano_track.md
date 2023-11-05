@@ -3,7 +3,6 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte-percorso_cipriano"
 title: "Cella Monte - Percorso Cipriano 2.9 Km"
-js: https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.js
 date: 2023-11-01
 tags: ["cella monte", "rosignano", "monferrato", "intermedia", "percorso", "cipriano"]
 thumbnail: https://www.italywhere.com/wp-content/uploads/2022/06/shutterstock_2010548228-1200x800.jpg
@@ -57,9 +56,15 @@ Dopo circa 600 m giungeremo e vedremo sulla destra la **Chiesa Madonna delle Gra
 <figure class="figure">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
 " class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato da <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
+  <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
+Dopo averla superata, proseguiamo nell'omonima **Strada Madonna delle Grazie** leggermente sopraelevata per 100 m fino ad arrivare alla nostra **Destinazione** situata nella **Panchina Gigante n. 41 "Rosso Grignolino"** da cui potrete godere di uno splendido panorama sui filari.
+
+<figure class="figure">
+  <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">Panchina Gigante n. 41 “Rosso Grignolino" - <a href="https://www.comune.rosignanomonferrato.al.it/it-it/vivere-il-comune/cosa-vedere/big-bench-panchina-gigante-rosso-grignolino-45175-1-00e5f36d1613cd50ea2e0b7caa0c4128">Comune Rosignano Monferrato</a></figcaption>
+</figure>
 
 
 ## Punti di interesse
