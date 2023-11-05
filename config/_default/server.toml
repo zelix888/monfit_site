@@ -8,11 +8,11 @@ for = '/**'
     Content-Security-Policy = """\
         default-src 'self'; \
         script-src 'self' \
-            https://utteranc.es/client.js; \
+            https://utteranc.es/client.js https://cdnjs.cloudflare.com/; \
         style-src 'self' https://utteranc.es https://fonts.googleapis.com https://www.youtube.com https://raw.githubusercontent.com https://tile.openstreetmap.org; \
         object-src 'none'; \
         base-uri 'self'; \
-        connect-src 'self' https://raw.githubusercontent.com; \
+        connect-src 'self' https://raw.githubusercontent.com https://cdnjs.cloudflare.com/; \
         font-src 'self' https://fonts.gstatic.com; \
         frame-src 'self' https://utteranc.es https://www.youtube-nocookie.com https://www.youtube.com https://www.google.com; \
         img-src 'self' https://i.vimeocdn.com https://i.ytimg.com https://tile.openstreetmap.org https://www.w3schools.com/ https://images.unsplash.com https://img.icons8.com/ https://raw.githubusercontent.com https://*.wikimedia.org; \
