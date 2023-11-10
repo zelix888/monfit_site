@@ -49,9 +49,9 @@ Procediamo dritto fino ad arrivare a una ripida salita che costeggia i filari, p
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Giriamo a destra sulla *Strada Provinciale 37* ammirando il paesaggio della campagna circostante tra le colline del territorio di Rosignano Monferrato.
+Giriamo a destra sulla *Strada Provinciale 37* e ad attenderci il paesaggio campestre circostante tra le colline del territorio di Rosignano Monferrato.
 
-Dopo circa 600 m giungeremo e vedremo sulla destra la **Chiesa Madonna delle Grazie**. 
+Dopo circa 600 m farà capolino sulla destra la **Chiesa Madonna delle Grazie**. 
 
 <figure class="figure">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
@@ -59,7 +59,7 @@ Dopo circa 600 m giungeremo e vedremo sulla destra la **Chiesa Madonna delle Gra
   <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
-Dopo averla superata, proseguiamo nell'omonima **Strada Madonna delle Grazie** leggermente sopraelevata per 100 m fino ad arrivare alla nostra **Destinazione** situata nella **Panchina Gigante n. 41 "Rosso Grignolino"** da cui potrete godere di uno splendido panorama sui filari.
+Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** leggermente sopraelevata per 100 m fino a raggiungere la nostra **Destinazione**, nonché la **Panchina Gigante n. 41 "Rosso Grignolino"**; da lì potremo ammirare uno splendido panorama sui filari.
 
 <figure class="figure">
   <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
