@@ -41,11 +41,11 @@ const finish = L.icon({
 
 L.marker([45.07474205271855, 8.39181661605835], {
     icon: start,
-  }).addTo(map2).bindPopup("Start");
+  }).addTo(map2)
 
   L.marker([45.08447772710751, 8.389872014522554], {
     icon: finish,
-  }).addTo(map2).bindPopup("Finish");  
+  }).addTo(map2)
     
   fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).geojson")
     .then((response) =>{
