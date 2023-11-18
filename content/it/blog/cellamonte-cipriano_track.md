@@ -29,6 +29,18 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
   {{< /accordion-item >}}
 {{< /accordion >}}
 
+## Altimetria 
+
+<figure class="figure">
+  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/8572cc90449fba42baf3543b4753f58a0dfe3b47/routes/Cella_Monte/Elevation-Cella%20Monte%20-%20Percorso%20Cipriano%20(2.9km).png" class="figure-img img-fluid w-100 rounded">
+</figure>
+
+{{< accordion >}}
+  {{< accordion-item header="Cosa indicano i colori?" >}}
+    Indica se un percorso è stato **Testato :white_check_mark:**, ovvero perlustrato in ogni suo tratto direttamente dall'autore dell'articolo oppure se invece è stato solamente **Progettato :computer:**, ovvero disegnato attraverso algoritmi di instradamento sulle mappe di OSM.
+  {{< /accordion-item >}}
+{{< /accordion >}}
+
 ## Descrizione percorso
 
 La **Partenza** è situata presso il piccolo parcheggio di *Via Gian Giacomo Francia 1*. In mancanza di posti, come alternativa, si può scendere e parcheggiare in *Via Dante Barbano 10*.
