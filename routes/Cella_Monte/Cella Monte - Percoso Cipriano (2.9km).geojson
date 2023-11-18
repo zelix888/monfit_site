@@ -1076,12 +1076,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Start",
-        "type": "from",
-        "iconSize": [85, 90],
-        "iconAnchor": [38, 86],
-        "popupAnchor": [0, -80],
-        "iconUrl": "https://raw.githubusercontent.com/zelix888/monfit_site/9c8505ca290ed34fb820d14bfbf7e6ae54348e37/images/icons/start.png"
+        "name": "from",
+        "type": "from"
       },
       "geometry": {
         "type": "Point",
@@ -1094,12 +1090,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Finish",
-        "type": "to",
-        "iconSize": [85, 90],
-        "iconAnchor": [38, 86],
-        "popupAnchor": [0, -80],
-        "iconUrl": "https://raw.githubusercontent.com/zelix888/monfit_site/9c8505ca290ed34fb820d14bfbf7e6ae54348e37/images/icons/finish.png"
+        "name": "to",
+        "type": "to"
       },
       "geometry": {
         "type": "Point",
