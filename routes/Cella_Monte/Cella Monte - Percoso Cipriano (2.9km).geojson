@@ -1076,8 +1076,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "from",
-        "type": "from"
+        "name": "Start",
+        "type": "from",
+        "iconSize": [85, 90],
+        "iconAnchor": [38, 86],
+        "popupAnchor": [0, -80],
+        "iconUrl": "http://magicemi.byethost10.com/img/vub.png"
       },
       "geometry": {
         "type": "Point",
@@ -1090,8 +1094,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "to",
-        "type": "to"
+        "name": "Finish",
+        "type": "to",
+        "iconSize": [85, 90],
+        "iconAnchor": [38, 86],
+        "popupAnchor": [0, -80],
+        "iconUrl": "http://magicemi.byethost10.com/img/vub.png"
       },
       "geometry": {
         "type": "Point",
