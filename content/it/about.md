@@ -21,8 +21,8 @@ Sul mio blog troverete una serie di articoli sui tracciati più suggestivi, scar
 
 Monfit non è soltanto un blog, ma un invito a riscoprire il piacere di camminare, un'occasione per rallentare i ritmi frenetici della vita, per connettersi con la natura e non meno importante, per godere appieno delle bellezze circostanti che spesso non apprezziamo a dovere.
 
-<figure class="figure text-center">
-  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid w-75 rounded">
+<figure class="figure">
+  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Foto di <a href="https://unsplash.com/@docagile">Roby Allario</a> su <a href="https://unsplash.com/photos/PyDjtEPkHfM">Unsplash</a></figcaption>
 </figure>
 

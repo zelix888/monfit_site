@@ -21,8 +21,8 @@ In meinem Blog findet ihr eine Reihe von Artikeln über die eindrucksvollsten Wa
  
 Monfit ist nicht nur ein Blog, sondern eine regelrechte Einladung, die Freude am Wandern wiederzuentdecken, eine Gelegenheit, die Hektik des Lebens zu entschleunigen, sich mit der Natur zu verbinden und nicht zuletzt die Schönheiten der Umgebung zu genießen, die wir oft nicht richtig zu schätzen wissen.
 
-<figure class="figure text-center">
-  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid w-75 rounded">
+<figure class="figure">
+  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Foto von <a href="https://unsplash.com/@docagile">Roby Allario</a> auf <a href="https://unsplash.com/photos/PyDjtEPkHfM">Unsplash</a></figcaption>
 </figure>
 

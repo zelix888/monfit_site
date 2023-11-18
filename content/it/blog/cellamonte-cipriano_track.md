@@ -68,16 +68,16 @@ Giriamo a destra sulla *Strada Provinciale 37* e ad attenderci il paesaggio camp
 
 Dopo circa 600 m farà capolino sulla destra la **Chiesa Madonna delle Grazie**. 
 
-<figure class="figure text-center">
+<figure class="figure">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
-" class="figure-img img-fluid w-75 rounded">
+" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
 Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** leggermente sopraelevata per 100 m fino a raggiungere la nostra **Destinazione**, nonché la **Panchina Gigante n. 41 "Rosso Grignolino"**; da lì potremo ammirare uno splendido panorama sui filari.
 
-<figure class="figure text-center">
-  <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid w-75 rounded">
+<figure class="figure">
+  <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Panchina Gigante n. 41 “Rosso Grignolino" - <a href="https://www.comune.rosignanomonferrato.al.it/it-it/vivere-il-comune/cosa-vedere/big-bench-panchina-gigante-rosso-grignolino-45175-1-00e5f36d1613cd50ea2e0b7caa0c4128">Comune Rosignano Monferrato</a></figcaption>
 </figure>
 

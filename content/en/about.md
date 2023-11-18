@@ -21,8 +21,8 @@ On my blog you will find a series of articles on the most striking paths you can
 
 Monfit is not just a blog, it is an invitation to rediscover the pleasure of walking, an opportunity to slow down the hectic pace of life, to connect with nature and, last but not least, to fully enjoy the surrounding beauty that we often fail to appreciate.
 
-<figure class="figure text-center">
-  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid w-75 rounded">
+<figure class="figure">
+  <img src="https://images.unsplash.com/photo-1591543869019-6e72da9e8ea6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1933&q=80" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Photo by <a href="https://unsplash.com/@docagile">Roby Allario</a> on <a href="https://unsplash.com/photos/PyDjtEPkHfM">Unsplash</a></figcaption>
 </figure>
 
