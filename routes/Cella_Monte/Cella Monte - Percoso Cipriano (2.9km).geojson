@@ -6,12 +6,12 @@
       "properties": {
         "creator": "BRouter-1.7.2",
         "name": "Cella Monte - Percoso Cipriano (2.9km)",
-        "track-length": "2862",
-        "filtered ascend": "99",
-        "plain-ascend": "39",
-        "total-time": "2235",
-        "total-energy": "86208",
-        "cost": "4996",
+        "track-length": 2862,
+        "filtered ascend": 99,
+        "plain-ascend": 39,
+        "total-time": 2235,
+        "total-energy": 86208,
+        "cost": 4996,
         "messages": [
           [
             "Longitude",
@@ -1090,48 +1090,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "via1",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.387686014175417,
-          45.07789220426907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "via2",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.386116921901705,
-          45.07963654582495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "via3",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.390692770481111,
-          45.08501329081745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "to",
         "type": "to"
       },
@@ -1141,7 +1099,8 @@
           8.389872014522554,
           45.08447772710751
         ]
-      }
+      },
+      "id": 3
     }
   ]
 }

@@ -67,7 +67,9 @@ Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** le
 </figure>
 
 
-## Punti di interesse
+## Mappa
+
+<div id="map2" class="ratio ratio-16x9 w-100 rounded"></div>
 
 ## Foto
 
