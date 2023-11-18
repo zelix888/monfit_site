@@ -3,7 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte-percorso_cipriano"
 title: "Cella Monte - Percorso Cipriano 2.9 Km"
-date: 2023-11-01
+date: 2023-11-18
 tags: ["cella monte", "rosignano", "monferrato", "intermedia", "percorso", "cipriano"]
 thumbnail: https://www.italywhere.com/wp-content/uploads/2022/06/shutterstock_2010548228-1200x800.jpg
 photoCredits: <a href="https://unsplash.com/@kfred">Karl Fredrickson</a>
@@ -47,25 +47,24 @@ Scendendo lungo il sentiero ci ritroviamo completamente immersi nella vegetazion
 
 Procediamo dritto fino ad arrivare a una ripida salita che costeggia i filari, per giungere poi all’incrocio tra *Strada Calcinara* e *Strada Provinciale 37*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
 
 Giriamo a destra sulla *Strada Provinciale 37* e ad attenderci il paesaggio campestre circostante tra le colline del territorio di Rosignano Monferrato.
 
 Dopo circa 600 m farà capolino sulla destra la **Chiesa Madonna delle Grazie**. 
 
-<figure class="figure">
+<figure class="figure text-center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
-" class="figure-img img-fluid rounded">
+" class="figure-img img-fluid w-75 rounded">
   <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
 Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** leggermente sopraelevata per 100 m fino a raggiungere la nostra **Destinazione**, nonché la **Panchina Gigante n. 41 "Rosso Grignolino"**; da lì potremo ammirare uno splendido panorama sui filari.
 
-<figure class="figure">
-  <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
+<figure class="figure text-center">
+  <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid w-75 rounded">
   <figcaption class="figure-caption">Panchina Gigante n. 41 “Rosso Grignolino" - <a href="https://www.comune.rosignanomonferrato.al.it/it-it/vivere-il-comune/cosa-vedere/big-bench-panchina-gigante-rosso-grignolino-45175-1-00e5f36d1613cd50ea2e0b7caa0c4128">Comune Rosignano Monferrato</a></figcaption>
 </figure>
-
 
 ## Mappa
 
