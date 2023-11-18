@@ -85,7 +85,7 @@ Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** le
 
 <div id="map2" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://raw.githubusercontent.com/zelix888/monfit_site/0376e0b9ebb72e1f11304250653501c751713cb3/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).geojson" state="enabled" >}}Download GPX file{{< /button >}}
+{{< button color="primary" href="https://github.com/zelix888/monfit_site/blob/52070b7d78fd5fb770e8c674aafc352e723333c2/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).gpx" state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Foto
 
