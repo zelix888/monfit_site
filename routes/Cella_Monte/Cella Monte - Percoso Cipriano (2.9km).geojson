@@ -1072,35 +1072,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "from",
-        "type": "from"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.391816616058351,
-          45.07474205271855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "to",
-        "type": "to"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.389872014522554,
-          45.08447772710751
-        ]
-      },
-      "id": 3
     }
   ]
 }

@@ -24,7 +24,29 @@ if (document.getElementById(mapID2) !== null) {
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map2);
-  
+
+  const start = L.icon({
+  iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png",
+  iconSize: [25, 41], // size of the icon
+  iconAnchor: [12, 35], // changed marker icon position
+  popupAnchor: [0, -60], // changed popup position
+});
+
+const finish = L.icon({
+    iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png",
+    iconSize: [25, 41], // size of the icon
+    iconAnchor: [12, 35], // changed marker icon position
+    popupAnchor: [0, -60], // changed popup position
+  });
+
+L.marker([45.07474205271855, 8.39181661605835], {
+    icon: start,
+  }).addTo(map2);
+
+  L.marker([45.08447772710751, 8.389872014522554], {
+    icon: finish,
+  }).addTo(map2);  
+    
   fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).geojson")
     .then((response) =>{
         return response.json()
