@@ -17,7 +17,7 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 | Distanza | 2.9 Km  |
 | Difficoltà | Intermedia :warning: (il percorso presenta tratti attraversati da veicoli a motore) |
 | Superficie | 47% Asfalto 53% Terra  |
-| Dislivello - Ascesa totale | 137 m - 45 m |
+| Dislivello  | 95 m :arrow_down: - 60 m :arrow_up: |
 | Durata | 36 min |
 | Territori attraversati | Cella Monte e Rosignano Monferrato |
 | Stato | Progettato :computer: |
@@ -32,12 +32,15 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 ## Altimetria 
 
 <figure class="figure">
-  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/8572cc90449fba42baf3543b4753f58a0dfe3b47/routes/Cella_Monte/Elevation-Cella%20Monte%20-%20Percorso%20Cipriano%20(2.9km).png" class="figure-img img-fluid w-100 rounded">
+  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/9203daf0f5596ad95de313ecf5a56b0b704e52b3/routes/Cella_Monte/Elevation-Cella%20Monte%20-%20Percorso%20Cipriano%20(2.9km).png" class="figure-img img-fluid w-100 rounded">
 </figure>
 
 {{< accordion >}}
   {{< accordion-item header="Cosa indicano i colori?" >}}
-    Indica se un percorso è stato **Testato :white_check_mark:**, ovvero perlustrato in ogni suo tratto direttamente dall'autore dell'articolo oppure se invece è stato solamente **Progettato :computer:**, ovvero disegnato attraverso algoritmi di instradamento sulle mappe di OSM.
+    I colori spaziano dalle tonalità più chiare a quelle più scure del **Rosso** e del **Verde**. </br>
+    Il **Rosso** rappresenta le salite :arrow_upper_right:. </br>
+    Il **Verde** rappresenta le discese :arrow_lower_right:. </br>
+    Più la tonalità è scura e più la pendenza è maggiore (con punte massime fino al 18%).
   {{< /accordion-item >}}
 {{< /accordion >}}
 
@@ -80,7 +83,9 @@ Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** le
 
 ## Mappa
 
-<div id="map2" class="ratio ratio-16x9 w-100 rounded"></div>
+<div id="map2" class="ratio ratio-16x9 w-100 rounded"></div> </br>
+
+{{< button color="primary" href="https://raw.githubusercontent.com/zelix888/monfit_site/0376e0b9ebb72e1f11304250653501c751713cb3/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).geojson" state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Foto
 
