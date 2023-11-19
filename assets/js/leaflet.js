@@ -13,13 +13,12 @@ if (document.getElementById(mapID) !== null) {
   new L.GPX(gpx, {
   async: true,
   marker_options: {
-    wptIconUrls: {
-      '': 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-wpt.png',
-    },
+    
     startIconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-start.png',
     endIconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-end.png',
     shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
     wptIconUrls: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-wpt.png'
+    
   }
 }).on('addpoint', function(e) {
   console.log('Added ' + e.point_type + ' point: ' + e.point.name);
