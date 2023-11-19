@@ -10,13 +10,11 @@
 <wpt lat="44.349158996303224" lon="9.157827857897633">
     <ele>105.3</ele>
     <name>Start</name>
-    <desc>Start</desc>
     <sym>Letter A, Blue</sym>
 </wpt>
 <wpt lat="44.34862488417778" lon="9.160215854644777">
     <ele>118.3</ele>
-    <name>End</name>
-    <desc>Finish</desc>
+    <name>Finish</name>
     <sym>Letter B, Blue</sym>
 </wpt>
 <wpt lat="44.34872862054283" lon="9.159091466903064">
