@@ -32,7 +32,7 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 ## Altimetria 
 
 <figure class="figure">
-  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Elevation-Cella%20Monte%20-%20Cipriano%20Track.png" class="figure-img img-fluid w-100 rounded">
+  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Elevation-Cella%20Monte%20-%20Percorso%20Cipriano%20(2.9km).png" class="figure-img img-fluid w-100 rounded">
 </figure>
 
 {{< accordion >}}
