@@ -10,7 +10,17 @@ if (document.getElementById(mapID) !== null) {
   }).addTo(map);
   
   var gpx = 'https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Cipriano%20Track.gpx'; // URL to your GPX file or the GPX itself
-  new L.GPX(gpx, {async: true}).on('loaded', function(e) {
+  new L.GPX(gpx, {
+  async: true,
+  marker_options: {
+    startIconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-start.png',
+    endIconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-end.png',
+    shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
+    wptIconUrls: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-wpt.png'
+  }
+}).on('addpoint', function(e) {
+  console.log('Added ' + e.point_type + ' point: ' + e.point.name);
+}).on('loaded', function(e) {
   map.fitBounds(e.target.getBounds());
 }).addTo(map);
   
