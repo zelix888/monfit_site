@@ -9,12 +9,12 @@
  <wpt lat="45.07474205271855" lon="8.391816616058351">
  <name>Start</name>
  <sym>Start</sym>
- <type>from</type>
+ <type>start</type>
  </wpt>
  <wpt lat="45.08447772710751" lon="8.389872014522554">
  <name>Finish</name>
  <sym>End</sym>
- <type>to</type>
+ <type>end</type>
  </wpt>
  <trk>
   <name>Cella Monte - Percoso Cipriano (2.9km)</name>
