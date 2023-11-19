@@ -9,7 +9,7 @@ if (document.getElementById(mapID) !== null) {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
   
-  var gpx = 'https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Camogli%20(0.2km)_2.gpx'; // URL to your GPX file or the GPX itself
+  var gpx = 'https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Camogli.gpx'; // URL to your GPX file or the GPX itself
   new L.GPX(gpx, {
   async: true,
   marker_options: {
@@ -62,7 +62,7 @@ L.marker([45.07474205271855, 8.39181661605835], {
     icon: finish,
   }).addTo(map2)
     
-  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Cipriano%20Track.geojson")
+  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella.geojson")
     .then((response) =>{
         return response.json()
     })
