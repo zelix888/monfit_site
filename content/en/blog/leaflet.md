@@ -4,6 +4,7 @@ title: "Leaflet demo"
 date: 2023-05-23
 description: "Demo of an image map powered by Leaflet."
 tags: ["theme"]
+js: https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js
 thumbnail: img/map.jpg
 photoCredits: <a href="https://unsplash.com/@geojango_maps">GeoJango Maps</a>
 photoSource: <a href="https://unsplash.com/photos/Z8UgB80_46w">Unsplash</a>

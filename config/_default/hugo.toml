@@ -115,6 +115,13 @@ home = ["HTML", "RSS", "REDIR"]
     source = "node_modules/flexsearch/dist"
     target = "assets/js/vendor/flexsearch"
     includeFiles = "*.bundle.js"
+  [[module.mounts]]
+    source = "node_modules/leaflet-gpx"
+    target = "assets/js/vendor/leaflet-gpx"
+  [[module.mounts]]
+    source = "node_modules/leaflet-gpx"
+    target = "static/css/images"
+    includeFiles = "*.png"
 # toml-docs-end javascript
   [[module.mounts]]
     source = "node_modules/@fortawesome/fontawesome-free/webfonts"

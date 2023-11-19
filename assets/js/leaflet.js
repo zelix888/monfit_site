@@ -9,9 +9,11 @@ if (document.getElementById(mapID) !== null) {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
   
-  L.marker([51.5, -0.09]).addTo(map)
-      .bindPopup('A pretty CSS popup.<br> Easily customizable.')
-      .openPopup();
+  var gpx = 'https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Cipriano%20Track.gpx'; // URL to your GPX file or the GPX itself
+  new L.GPX(gpx, {async: true}).on('loaded', function(e) {
+  map.fitBounds(e.target.getBounds());
+}).addTo(map);
+  
 }
 
 //Mappa con coordinate JSON
@@ -47,7 +49,7 @@ L.marker([45.07474205271855, 8.39181661605835], {
     icon: finish,
   }).addTo(map2)
     
-  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Percoso%20Cipriano%20(2.9km).geojson")
+  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Cipriano%20Track.geojson")
     .then((response) =>{
         return response.json()
     })

@@ -75,5 +75,8 @@
   },
   "hugo-bin": {
     "buildTags": "extended"
+  },
+  "dependencies": {
+    "leaflet-gpx": "^1.7.0"
   }
 }
