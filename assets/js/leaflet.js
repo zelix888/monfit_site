@@ -20,10 +20,9 @@ if (document.getElementById(mapID) !== null) {
     },
     startIconUrl: false,
     endIconUrl: false,
-    shadowUrl: false, 
+    shadowUrl: false 
   }
-}).on('addpoint', function(e) {
-  console.log('Added ' + e.point_type + ' point: ' + e.point.name);
+  
 }).on('loaded', function(e) {
   map.fitBounds(e.target.getBounds());
 }).addTo(map);
