@@ -1,6 +1,5 @@
 //Mappa normale di esempio 
 
-
 const mapID = 'map'
 
 if (document.getElementById(mapID) !== null) {
@@ -29,7 +28,6 @@ if (document.getElementById(mapID) !== null) {
 }).addTo(map);
   
 }
-
 
 //Mappa con coordinate JSON
 
