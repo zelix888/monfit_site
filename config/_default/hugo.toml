@@ -100,7 +100,7 @@ home = ["HTML", "RSS", "REDIR"]
     target = "static/fonts"
   [[module.mounts]]
     source = "node_modules/leaflet/dist"
-    target = "assets/js/critical/leaflet"
+    target = "assets/js/vendor/leaflet"
     includeFiles = "leaflet.js"
   [[module.mounts]]
     source = "node_modules/leaflet/dist/images"
@@ -108,7 +108,7 @@ home = ["HTML", "RSS", "REDIR"]
     includeFiles = "*.png"
   [[module.mounts]]
     source = "node_modules/leaflet-gpx"
-    target = "assets/js/critical/leaflet-gpx"
+    target = "assets/js/vendor/leaflet-gpx"
   [[module.mounts]]
     source = "node_modules/leaflet-gpx"
     target = "static/css/images"
