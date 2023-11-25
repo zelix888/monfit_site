@@ -6,16 +6,8 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
  creator="bikerouter.de 2023.20">
- <wpt lat="45.07474205271855" lon="8.391816616058351">
- <name>Start</name>
- <sym>Start</sym>
- <type>start</type>
- </wpt>
- <wpt lat="45.08447772710751" lon="8.389872014522554">
- <name>Finish</name>
- <sym>End</sym>
- <type>end</type>
- </wpt>
+ <wpt lat="45.07474205271855" lon="8.391816616058351"><name>Start</name><type>from</type></wpt>
+ <wpt lat="45.08447772710751" lon="8.389872014522554"><name>Finish</name><type>to</type></wpt>
  <trk>
   <name>Cella Monte - Cipriano</name>
   <link href="https://brouter.m11n.de/#map=19/45.07466/8.39014/standard&amp;lonlats=8.391817,45.074742;8.387686,45.077892;8.386117,45.079637;8.390693,45.085013;8.389872,45.084478&amp;profile=hiking-beta">
