@@ -31,7 +31,7 @@ L.marker([45.07474205271855, 8.39181661605835], {
     icon: finish,
   }).addTo(map2)
     
-  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella.geojson")
+  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/aadfc16eae2355cb70c510200fe2a8bda66dbf34/routes/Cella_Monte/Cella%20Monte%20-%20Cipriano.geojson")
     .then((response) =>{
         return response.json()
     })
