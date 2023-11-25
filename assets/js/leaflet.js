@@ -1,34 +1,3 @@
-//Mappa normale di esempio 
-
-const mapID = 'map'
-
-if (document.getElementById(mapID) !== null) {
-  const map = L.map(mapID).setView([51.505, -0.09], 13)
-
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }).addTo(map);
-  
-  var gpx = 'https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Camogli.gpx'; // URL to your GPX file or the GPX itself
-  new L.GPX(gpx, {
-  async: true,
-  marker_options: {
-    wptIconUrls: {
-      'Waypoint': 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-wpt.png',
-      'Letter A, Blue':'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-start.png',
-      'Letter B, Blue': 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-end.png',
-    },
-    startIconUrl: false,
-    endIconUrl: false,
-    shadowUrl: false 
-  }
-  
-}).on('loaded', function(e) {
-  map.fitBounds(e.target.getBounds());
-}).addTo(map);
-  
-}
-
 //Mappa con coordinate JSON
 
 const mapID2 = 'map2'

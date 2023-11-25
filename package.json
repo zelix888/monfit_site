@@ -66,7 +66,6 @@
     "hugo-bin": "^0.111.0",
     "i": "^0.3.7",
     "leaflet": "^1.9.4",
-    "leaflet-gpx": "^1.7.0",
     "markdownlint-cli2": "^0.8.1",
     "postcss-cli": "^10.1.0",
     "purgecss-whitelister": "^2.4.0",

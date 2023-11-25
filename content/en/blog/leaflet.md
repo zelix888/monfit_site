@@ -8,9 +8,6 @@ thumbnail: img/map.jpg
 photoCredits: <a href="https://unsplash.com/@geojango_maps">GeoJango Maps</a>
 photoSource: <a href="https://unsplash.com/photos/Z8UgB80_46w">Unsplash</a>
 ---
-# Mappa standard
-
-<div id="map" class="ratio ratio-16x9 w-100 rounded"></div>
 
 # Frame Google
 
