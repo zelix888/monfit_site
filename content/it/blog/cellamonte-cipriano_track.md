@@ -85,7 +85,7 @@ Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** le
 
 <div id="map2" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/1c514504-75ca-4af3-ac32-ff951c4f9756" state="enabled" >}}Download GPX file{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/b757977b-6f6b-4370-aa29-8623a3185b85" state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Foto
 
