@@ -4,63 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "from",
-        "type": "from"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.391816616058351,
-          45.07474205271855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "via2",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.386116921901705,
-          45.07963654582495
-        ]
-      },
-      "id": 3
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "via3",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.390692770481111,
-          45.08501329081745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "to",
-        "type": "to"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.389872014522554,
-          45.08447772710751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "creator": "BRouter-1.7.2",
         "name": "Cella Monte - Percoso Cipriano (2.9km)",
         "track-length": 2862,
@@ -1133,7 +1076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "from",
+        "name": "Start",
         "type": "from"
       },
       "geometry": {
@@ -1142,54 +1085,13 @@
           8.391816616058351,
           45.07474205271855
         ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "via1",
-        "type": "via"
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.387686014175417,
-          45.07789220426907
-        ]
-      }
+      "id": 1
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "via2",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.386116921901705,
-          45.07963654582495
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "via3",
-        "type": "via"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.390692770481111,
-          45.08501329081745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "to",
+        "name": "Finish",
         "type": "to"
       },
       "geometry": {
@@ -1198,7 +1100,8 @@
           8.389872014522554,
           45.08447772710751
         ]
-      }
+      },
+      "id": 2
     }
   ]
 }
