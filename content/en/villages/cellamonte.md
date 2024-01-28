@@ -18,7 +18,7 @@ Apparently the name derives from the wine cells that were dug into the sandstone
 
 The entire Monferrato region and the Cella Monte area in particular is characterised by the copious presence of the so-called Pietra da Cantoni, a Miocene building stone, formed by limestone and marly marine layers that have been dated to the Burdigalian-Langhiano (20 to 14 million years ago) on the basis of the microfossils they contain.
 
-## Point of interest
+## Points of interest
 
 1. **The historic centre**: Cella Monte is a medieval village with narrow, picturesque streets that still retains its ancient charm. The stone houses, craft workshops and quiet atmosphere make it a fascinating place to visit.
 
