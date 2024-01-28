@@ -23,11 +23,11 @@ Tutto il Monferrato e il territorio di Cella Monte in particolare è caratterizz
 
 1. **Il centro storico**: Cella Monte è un borgo medievale con stradine strette e suggestive, che conserva ancora il suo antico fascino. Le case in pietra, le botteghe artigiane e l'atmosfera tranquilla lo rendono un luogo affascinante da visitare.
 
-2. **La Chiesa parrocchiale dei Santi Quirico e Giulietta**: Situata in cima a una collina dal verde rigoglioso. La sua facciata, un vero gioiello architettonico, si apre con un portale adornato da un arco di pietra sormontato da una lunetta.
+2. **La Chiesa parrocchiale dei Santi Quirico e Giulietta**: situata in cima a una collina dal verde rigoglioso vanta un'ammirabile facciata, un vero gioiello architettonico, che si apre con un portale adornato da un arco di pietra sormontato da una lunetta.
 
-3. **Palazzo Volta**: Originariamente casa parrocchiale, oggi ospita l'**Ecomuseo della Pietra da Cantoni**, incantevole luogo dove storia e arte si fondono in un connubio perfetto. 
+3. **Palazzo Volta**: originariamente casa parrocchiale, oggi ospita l'**Ecomuseo della Pietra da Cantoni**, incantevole luogo dove storia e arte si fondono in un connubio perfetto. 
 
-6. **Gli "Infernòt"**: Piccole camere scavate nella Pietra da Cantoni senza luce né aerazione, che rappresentano una tipicità del territorio del Monferrato. Questi spazi sotterranei, solitamente raggiungibili attraverso una cantina, grazie alle condizioni di temperatura e umidità costanti, sono luoghi ideali per la conservazione del vino imbottigliato.
+6. **Gli "Infernòt"**: piccole camere scavate nella Pietra da Cantoni senza luce né aerazione, che rappresentano una tipicità del territorio del Monferrato. Questi spazi sotterranei, solitamente raggiungibili attraverso una cantina, grazie alle condizioni di temperatura e umidità costanti, sono luoghi ideali per la conservazione del vino imbottigliato.
 
 ## Itinerari
 
@@ -35,12 +35,12 @@ Tutto il Monferrato e il territorio di Cella Monte in particolare è caratterizz
 
 ## Eventi
 
-1. **Sagra Regionale del Tartufo Bianco in Valle Ghenza**: Ogni anno, a novembre, si tiene a Cella Monte la Sagra del tartufo bianco, un evento molto atteso che celebra uno dei prodotti più prelibati e caratteristici del territorio. Durante la sagra si possono degustare piatti a base di tartufo e partecipare a escursioni per la ricerca e la raccolta di questo fungo.
+1. **Sagra Regionale del Tartufo Bianco in Valle Ghenza**: ogni anno, a novembre, si tiene a Cella Monte la Sagra del tartufo bianco, un evento molto atteso che celebra uno dei prodotti più prelibati e caratteristici del territorio. Durante la sagra si possono degustare piatti a base di tartufo e partecipare a escursioni per la ricerca e la raccolta di questo fungo.
 
-2. **Le colline sono in Fiore**: Nel mese di maggio prende vita questo affascinante evento primaverile, un'occasione per i visitatori per ammirare la bellezza di questi addobbi floreali lungo la via centrale del paese. Una competizione originale tra residenti dove ogni anno il tema ispiratore si rinnova, regalando sempre nuove sorprese e emozioni.
+2. **Le colline sono in Fiore**: nel mese di maggio prende vita questo affascinante evento primaverile, un'occasione per i visitatori per ammirare la bellezza di questi addobbi floreali lungo la via centrale del paese. Una competizione originale tra residenti dove ogni anno il tema ispiratore si rinnova, regalando sempre nuove sorprese e emozioni.
 Per coloro che apprezzano particolarmente le rose, sarà a disposizione una mappa che guiderà alla scoperta degli esemplari più preziosi, piantati nei luoghi più suggestivi del paese. 
 
-3. **Jazz:Re:Found Festival**: A settembre prende vita questo suggestivo evento musicale che nasce dalla fusione della musica black (in particolare il jazz) con la musica elettronica moderna. Emerge come punto di incontro tra la tradizione storica e il futuro, affiancando il fascino vintage dei festival jazz ai progressi innovativi dei club contemporanei. Jazz:Re:Found rappresenta l'unione di diversi linguaggi musicali, di narrazioni e di spettatori eterogenei, dando vita a un'esplosione di suoni, emozioni e richiami melodici.
+3. **Jazz:Re:Found Festival**: a settembre prende vita questo suggestivo evento musicale che nasce dalla fusione della musica black (in particolare il jazz) con la musica elettronica moderna. Emerge come punto di incontro tra la tradizione storica e il futuro, affiancando il fascino vintage dei festival jazz ai progressi innovativi dei club contemporanei. Jazz:Re:Found rappresenta l'unione di diversi linguaggi musicali, di narrazioni e di spettatori eterogenei, dando vita a un'esplosione di suoni, emozioni e richiami melodici.
 
 ## Curiosità
 
