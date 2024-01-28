@@ -19,7 +19,7 @@ Das Dorf Cella Monte liegt eingebettet in den sanften Hügeln des Monferrato Cas
 Anscheinend rührt der Name von den Weinkellern her, die in der Antike in den Sandstein gegraben wurden und das weite Gebiet einnahmen, in dem die ersten Wohnhäuser errichtet wurden. Eine andere Hypothese besagt, dass der Name auf kleine Klöster zurückgeht (Celle). Der Name Cella taucht in vielen Dokumenten auf: In einem Diplom von Kaiser Arrigo V.(1116), in einer Konzession von Kaiser Friedrich I. an Guglielmo,
 Markgraf von Monferrato (1164), in einer öffentlichen Urkunde von Kaiser Friedrich II. und in einem Diplom von Kaiser Karl IV. (1355), das die Überlegenheit der "Monferrini marchesi über Cella"bestätigt.
 
-TDas gesamte Monferrato und insbesondere das
+Das gesamte Monferrato und insbesondere das
 Gebiet von Cella Monte zeichnet sich durch das reiche Vorkommen des so genannten "Pietra da Cantoni" aus, einem Baustein aus dem Miozän, der aus kalkhaltigen und mergeligen Meeresschichten besteht, die aufgrund der darin enthaltenen Mikrofossilien auf das
 Burdigalian-Langhiano (vor 20 bis 14 Millionen Jahren) datiert wurden.
 
