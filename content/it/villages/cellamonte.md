@@ -27,7 +27,7 @@ Tutto il Monferrato e il territorio di Cella Monte in particolare è caratterizz
 
 3. **Palazzo Volta**: originariamente casa parrocchiale, oggi ospita l'**Ecomuseo della Pietra da Cantoni**, incantevole luogo dove storia e arte si fondono in un connubio perfetto. 
 
-6. **Gli "Infernòt"**: piccole camere scavate nella Pietra da Cantoni senza luce né aerazione, che rappresentano una tipicità del territorio del Monferrato. Questi spazi sotterranei, solitamente raggiungibili attraverso una cantina, grazie alle condizioni di temperatura e umidità costanti, sono luoghi ideali per la conservazione del vino imbottigliato.
+4. **Gli "Infernòt"**: piccole camere scavate nella Pietra da Cantoni senza luce né aerazione, che rappresentano una tipicità del territorio del Monferrato. Questi spazi sotterranei, solitamente raggiungibili attraverso una cantina, grazie alle condizioni di temperatura e umidità costanti, sono luoghi ideali per la conservazione del vino imbottigliato.
 
 ## Itinerari
 

@@ -26,7 +26,7 @@ The entire Monferrato region and the Cella Monte area in particular is character
 
 3. **Palazzo Volta**: originally a parish house, it now houses the **Ecomuseo della Pietra da Cantoni**,  an enchanting place where history and art come together in a perfect harmony. 
 
-6. **The "Infernòt"**: small chambers dug into the 'Pietra da Cantoni' with no lighting or ventilation, a typical feature of the Monferrato area.
+4. **The "Infernòt"**: small chambers dug into the 'Pietra da Cantoni' with no lighting or ventilation, a typical feature of the Monferrato area.
 These underground spaces, usually accessible through a cellar, are ideal places for storing bottled wine due to the constant temperature and humidity conditions.
 
 ## Routes
