@@ -74,7 +74,7 @@ Dopo circa 600 m farà capolino sulla destra la **Chiesa Madonna delle Grazie**.
   <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
-Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** leggermente sopraelevata per 100 m fino a raggiungere la nostra **Destinazione**, nonché la **Panchina Gigante n. 41 "Rosso Grignolino"**; da lì potremo ammirare uno splendido panorama sui filari.
+Dopo averla superata, procediamo sull'omonima *Strada Madonna delle Grazie* leggermente sopraelevata per 100 m fino a raggiungere la nostra **Destinazione**, nonché la **Panchina Gigante n. 41 "Rosso Grignolino"**; da lì potremo ammirare uno splendido panorama sui filari.
 
 <figure class="figure">
   <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
@@ -85,7 +85,7 @@ Dopo averla superata, procediamo sull'omonima **Strada Madonna delle Grazie** le
 
 <div id="map2" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/b757977b-6f6b-4370-aa29-8623a3185b85" state="enabled" >}}Download GPX file{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/b757977b-6f6b-4370-aa29-8623a3185b85" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Foto
 
