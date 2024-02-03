@@ -58,7 +58,7 @@ We continue along *Via Cipriano Cei* for another 300 m until we reach a small pa
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-SDescending along the path, we find ourselves completely immersed in the forest vegetation, which leads us to a flat area.
+Descending along the path, we find ourselves completely immersed in the forest vegetation, which leads us to a flat area.
 
 We proceed straight ahead until we reach a steep slope that runs alongside the rows of vines, and then on to the junction between *Strada Calcinara* and *Strada Provinciale 37*.
 
@@ -74,7 +74,7 @@ After about 600 m, the **Madonna delle Grazie Church** will peep out on the righ
   <figcaption class="figure-caption">Madonna delle Grazie Church - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
-DAfter walking past it, we proceed along the slightly elevated *Strada Madonna delle Grazie* for 100 m until we reach our **Destination**, the **Big Bench No. 41 'Rosso Grignolino'**; from there we can enjoy a wonderful view over the rows of vines.
+After walking past it, we proceed along the slightly elevated *Strada Madonna delle Grazie* for 100 m until we reach our **Destination**, the **Big Bench No. 41 'Rosso Grignolino'**; from there we can enjoy a wonderful view over the rows of vines.
 
 <figure class="figure">
   <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
