@@ -15,7 +15,7 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 | Detail | Wert |
 | -- | ----------- |
 | Entfernung | 2.9 Km  |
-| Schwierigkeit | Mittel :warning: (die Route hat Abschnitte, die von Kraftfahrzeugen befahren) |
+| Schwierigkeit | Mittel :warning: (die Route hat Abschnitte, die von Kraftfahrzeugen befahren werden) |
 | Oberfläche | 47% Asphalt 53% Erde  |
 | Höhenunterschied  | 95 m :arrow_down: - 60 m :arrow_up: |
 | Dauer | 36 min |
@@ -25,7 +25,7 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 {{< accordion >}}
   {{< accordion-item header="Was besagt der Zustand?" >}}
-    Er gibt an, ob eine Route **Getestet :white_check_mark:** wurde, d. h. in ihrer Gesamtheit direkt vom Autor des Artikels erkundet wurde, oder ob sie nur **Entworfen :computer:** wurde, d. h. durchRouting-Algorithmen auf OSM-Karten entworfen wurde.
+    Er gibt an, ob eine Route **getestet :white_check_mark:** wurde, d. h. in ihrer Gesamtheit direkt vom Autor des Artikels erkundet wurde, oder ob sie nur **entworfen :computer:** wurde, d. h. durch Routing-Algorithmen auf OSM-Karten entworfen wurde.
   {{< /accordion-item >}}
 {{< /accordion >}}
 
@@ -38,13 +38,13 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 {{< accordion >}}
   {{< accordion-item header="Was zeigen die Farben an?" >}}
     Die Farben reichen von helleren bis zu dunkleren Farbtönen von **Rot** und **Grün**. </br>
-    **Rotsteht** ür die Aufstiege :arrow_upper_right:. </br>
+    **Rot** steht für die Aufstiege :arrow_upper_right:. </br>
     **Grün** steht für die Abstiege :arrow_lower_right:. </br>
     Je dunkler der Farbton, desto steiler ist die Steigung (mit Spitzenwerten von bis zu 18%).
   {{< /accordion-item >}}
 {{< /accordion >}}
 
-## Beschreibung der Route
+## Routenbeschreibung
 
 Der **Start** befindet sich auf dem kleinen Parkplatz in *Via Gian Giacomo Francia 1*. Sollte es dort keine Parkplätze geben, kann man alternativ auch in *Via Dante Barbano 10* parken.
 
@@ -60,7 +60,7 @@ Wir folgen der *Via Cipriano Cei* für weitere 300 m, bis wir rechts einen klein
 
 Wir begeben uns auf dem Pfad bergab und tauchen in die Waldvegetation ein, die uns zu einem ebenen Gebiet führt.
 
-Wir gehen geradeausweiter, bis wir einen steilen Abhang erreichen, der an den Rebzeilen entlangführt, und dann bis zur Abzweigung der *Strada Calcinara* und der *Strada Provinciale 37*.
+Wir gehen geradeaus weiter, bis wir einen steilen Abhang erreichen, der an den Rebzeilen entlangführt, und dann bis zur Abzweigung der *Strada Calcinara* und der *Strada Provinciale 37*.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
 
