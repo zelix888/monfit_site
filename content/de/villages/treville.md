@@ -13,26 +13,19 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 ## Einführung
 
-Das Dorf Cella Monte liegt eingebettet in den sanften Hügeln des Monferrato Casalese.
+Das Dorf Treville, das den Spitznamen "Balkon über den Alpen" trägt, liegt im Unteren Monferrato an der Grenze zur Provinz Asti.
 
-Anscheinend rührt der Name von den Weinkellern her, die in der Antike in den Sandstein gegraben wurden und das weite Gebiet einnahmen, in dem die ersten Wohnhäuser errichtet wurden. Eine andere Hypothese besagt, dass der Name auf kleine Klöster zurückgeht (Celle). Der Name Cella taucht in vielen Dokumenten auf: In einem Diplom von Kaiser Arrigo V.(1116), in einer Konzession von Kaiser Friedrich I. an Guglielmo,
-Markgraf von Monferrato (1164), in einer öffentlichen Urkunde von Kaiser Friedrich II. und in einem Diplom von Kaiser Karl IV. (1355), das die Überlegenheit der "Monferrini marchesi über Cella"bestätigt.
+Der Name Treville (von lateinisch "drei Landhäuser") taucht erstmals in einer alten Urkunde aus dem Jahr 1202 auf, in der der Markgraf Bonifacio I. Aleramo das Lehen an den Adligen Anselmo Musso di Paciliano überträgt. Die örtlichen Statuten aus dem Jahr 1303 gehören zu den ältesten des Monferrato.
 
-Das gesamte Monferrato und insbesondere das
-Gebiet von Cella Monte zeichnet sich durch das reiche Vorkommen des so genannten "Pietra da Cantoni" aus, einem Baustein aus dem Miozän, der aus kalkhaltigen und mergeligen Meeresschichten besteht, die aufgrund der darin enthaltenen Mikrofossilien auf das
-Burdigalian-Langhiano (vor 20 bis 14 Millionen Jahren) datiert wurden.
+In der Zeit der mantuanischen Herrschaft ging Treville von den Gonzaga auf Giulio Strozzi im Jahr 1590 und dann auf Gerolamo Amarotto de' Andreasi im Jahr 1602 über. Im Jahr 1699 wurde das Lehen von Giacomo Bartolomeo Gozani erworben, dessen illustre Familie den Bau des Palazzo Treville in Casale Monferrato in Auftrag gab. Ab 1713 kam Treville unter die Kontrolle der Savoyer und folgte den Wechselfällen des savoyischen Königshauses.
 
 ## Sehenswertes
 
-1. **Das historische Zentrum**: Cella Monte ist ein mittelalterliches Dorf mit engen, malerischen Gassen, das seinen alten Charme bewahrt hat.
-Die Steinhäuser, die Handwerksbetriebe und die ruhige Atmosphäre machen es zu einem faszinierenden Ort, den man unbedingt besuchen sollte.
+1. **Pfarrkirche von Sant’Ambrogio**: eine der ältesten Kirchen der Gegend, die 1782 geweiht wurde. Ihr Bau wurde von der örtlichen Gemeinde finanziert und dem Architekten Evasio Andrea De Gioanni anvertraut. Sie beherbergt wertvolle Kunstwerke, darunter Gemälde und religiöse Skulpturen. Das imposante Profil der Kirche überragt einen wunderschönen Balkon, von dem aus man an klaren Tagen die Pracht des Alpenbogens betrachten kann.
 
-2. **Die Pfarrkirche der Heiligen Quirico und Giulietta**: Sie befindet sich auf einem üppig grünen Hügel. Ihre Fassade, ein wahres architektonisches Juwel, öffnet sich mit einem Portal, das von einem Steinbogen mit einer Lünette gekrönt wird..
+2. **Kirche von San Quirico**: Sie liegt inmitten der Weinberge nördlich der Altstadt und ist ein mittelalterliches Beispiel, das noch in der Gegend erhalten ist. Sie wurde im 12. Jahrhundert erbaut und war das religiöse Wahrzeichen des heute verschwundenen Dorfes Arliate. Von großem Interesse sind die Graffiti, die die mittelalterlichen Pilger innerhalb und außerhalb der Pfarrkirche hinterlassen haben.
 
-3. **Palazzo Volta**: Ursprünglich ein Pfarrhaus, beherbergt es heute das **Ecomuseo della Pietra da Cantoni**, einen bezaubernden Ort, an dem Geschichte und Kunst eine perfekte Verbindung eingehen. 
-
-4. **Die "Infernòt"**: Es handelt sich um kleine, in die Pietra da Cantoni gegrabene Kammern ohne Licht und Belüftung, und gelten als typisches Merkmal des Monferrato. Diese unterirdischen Räume, die in der Regel über einen Keller erreicht werden, sind
-dank der konstanten Temperatur- und Feuchtigkeitsbedingungen ein idealer Ort für die Lagerung von Flaschenweinen.
+3. **Das Gemeindehaus Devasini**: Es ist das kulturelle Zentrum von Treville. Dieses imposante Gebäude wurde vor 18 Jahren von der Gemeinde erworben und restauriert. Es beherbergt die Gemeindebibliothek, die Veranstaltungen für Jugendliche organisiert, die Städtische Sammlung der Werke von Mario Surbone und zwei Säle für Konferenzen und Konzerte, die von Luca Solerio veranstaltet werden. Im geräumigen Keller kann man eine antike Weinpresse, ein Eishaus und einen Infernot bewundern, die alle aus der "Pietra da Cantoni" gehauen wurden.
 
 ## Routen
 
@@ -40,15 +33,5 @@ dank der konstanten Temperatur- und Feuchtigkeitsbedingungen ein idealer Ort fü
 
 ## Veranstaltungen
 
-1. **Sagra Regionale del Tartufo Bianco (Regionales Festival der weißen Trüffel) in Valle Ghenza**: Jedes Jahr im November findet in Cella Monte die Sagra del Tartufo Bianco statt, eine mit Spannung erwartete Veranstaltung, bei der eines der köstlichsten und charakteristischsten Produkte der Region gefeiert wird. Während des Festes kann man Trüffelgerichte probieren und an Ausflügen zur Suche und zum Sammeln dieses Pilzes teilnehmen.
+1. **Treville in festa**: eine jährliche Veranstaltung, die im Sommer stattfindet und etwa 4 Tage im August dauert. Es handelt sich um eine symphonische und kulinarische Veranstaltung, bei der lokale Köstlichkeiten präsentiert werden, um die kulinarische Tradition des Monferrato einem breiten Publikum vorzustellen.
 
-2. **Le colline sono in Fiore (Die Hügel blühen)**: Im Mai erwacht dieses faszinierende Frühlingsereignis zum Leben, bei dem die Besucher die Schönheit der Blumendekorationen entlang der zentralen Straße der Stadt bewundern können. Ein origineller Wettbewerb zwischen den Einwohnern, bei dem jedes Jahr ein neues, inspirierendes Thema gewählt wird, das immer wieder neue Überraschungen und Emotionen bietet. Für diejenigen, die Rosen besonders zu schätzen wissen, wird eine Karte zur Verfügung stehen, um die wertvollsten Exemplare zu entdecken, die an den eindrucksvollsten Orten des Dorfes gepflanzt sind. 
-
-3. **Jazz:Re:Found Festival**: Im September erwacht dieses stimmungsvolle Musikereignis durch die Verschmelzung von Black Music (insbesondere
-Jazz) mit moderner elektronischer Musik zum Leben. Es ist einTreffpunkt zwischen historischer Tradition und Zukunft, der den Vintage-Charme von Jazzfestivals mit den innovativen Fortschritten zeitgenössischer Clubs verbindet. Jazz:Re:Found steht für das Zusammentreffen verschiedener musikalischer Sprachen, Erzählungen und heterogener Publikumsgruppen, was zu einer Explosion von Klängen, Emotionen und melodischen Bezügen führt.
-
-## Merkwürdigkeiten
-
-Bei einem Spaziergang durch die Straßen von Cella Monte stößt man auf eine unglaubliche Entdeckung: eine in die Mauer eingelassene Muschel.
-Dieser einfache Fund versetzt uns in die Zeit vor Millionen von Jahren zurück, als dieses Land
-vom Meer überflutet war und die Hügel des Monferrato faszinierende Archipele waren. Heute ist diese Muschel aus Meeressandstein ein greifbares Zeichen für die außergewöhnliche Entwicklung, die unseren Planeten verändert hat.
