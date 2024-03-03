@@ -72,3 +72,44 @@ if (document.getElementById(mapID1) !== null) {
       console.log(`This is the error: ${error}`)
   })
 }
+
+// Mappa Treville - Percorso Devasini 
+
+const mapID2 = 'map_treville_devasini'
+
+if (document.getElementById(mapID2) !== null) {
+  const map_treville_devasini = L.map(mapID2).setView([45.1003, 8.3610], 14)
+
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map_treville_devasini);
+    
+  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Treville/Treville%20-%20Devasini.geojson")
+    .then((response) =>{
+        return response.json()
+    })
+    .then((data) => {
+      L.geoJson(data, {
+        pointToLayer: function (feature, latlng) {
+          if (feature.properties.type == "from") {
+            return L.marker(latlng, {
+              icon: greenIcon 
+            });
+          } else if (feature.properties.type == "to") {
+            return L.marker(latlng, {
+              icon: redIcon 
+            });
+          } else if (feature.properties.type == "via") {
+            return L.marker(latlng, {
+              icon: blueIcon 
+            });
+          }
+          
+        }
+      }).bindPopup((layer) => {
+          return `${layer.feature.properties.name}`}).addTo(map_treville_devasini);
+  })
+  .catch((error) => {
+      console.log(`This is the error: ${error}`)
+  })
+}
