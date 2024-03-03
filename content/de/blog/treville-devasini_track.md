@@ -2,7 +2,7 @@
 author:
   display_name: Marco Aiolo
 slug: "treville-devasini-route"
-title: "Treville - Devasini-Route 2.9 Km"
+title: "Treville - Devasini-Route 3.6 Km"
 date: 2024-03-03
 tags: ["treville", "mittel", "route", "devasini"]
 thumbnail: https://www.vitacasalese.it/wp-content/uploads/2020/06/TREVILLE-SAN-QUIRICO.jpeg
@@ -14,11 +14,11 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 | Detail | Wert |
 | -- | ----------- |
-| Entfernung | 3.3 Km  |
+| Entfernung | 3.6 Km  |
 | Schwierigkeit | Mittel :warning: (die Route hat Abschnitte, die von Kraftfahrzeugen befahren werden) |
-| Oberfläche | 52% Asphalt 27% Erde 21% Schotter |
-| Höhenunterschied  | 106 m :arrow_down: - 106 m :arrow_up: |
-| Dauer | 43 min |
+| Oberfläche | 55% Asphalt 26% Erde 19% Schotter |
+| Höhenunterschied  | 115 m :arrow_down: - 115 m :arrow_up: |
+| Dauer | 46 min |
 | Durchfahrenes Gebiet | Treville |
 | Zustand | Entworfen :computer: |
 {.table .table-striped}

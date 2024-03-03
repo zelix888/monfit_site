@@ -1,7 +1,7 @@
 ---
 author:
   display_name: Marco Aiolo
-title: "Treville - Devasini route 3.3 Km"
+title: "Treville - Devasini route 3.6 Km"
 date: 2024-03-03
 tags: ["treville", "intermediate", "route", "devasini"]
 thumbnail: https://www.vitacasalese.it/wp-content/uploads/2020/06/TREVILLE-SAN-QUIRICO.jpeg
@@ -13,11 +13,11 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 | Details | Value |
 | -- | ----------- |
-| Distance | 3.3 Km  |
+| Distance | 3.6 Km  |
 | Difficulty | Intermediate :warning: (the route has sections crossed by motor vehicles) |
-| Surface | 52% Asphalt 27% Earth 21% Gravel |
-| Height difference  | 106 m :arrow_down: - 106 m :arrow_up: |
-| Duration | 43 min |
+| Surface | 55% Asphalt 26% Earth 19% Gravel |
+| Height difference  | 115 m :arrow_down: - 115 m :arrow_up: |
+| Duration | 46 min |
 | Area crossed | Treville |
 | State | Designed :computer: |
 {.table .table-striped}
