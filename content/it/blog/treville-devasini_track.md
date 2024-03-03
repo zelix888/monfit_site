@@ -85,7 +85,7 @@ Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonva
 
 <div id="map_treville_devasini" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/b757977b-6f6b-4370-aa29-8623a3185b85" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/9849a2ef-6ecb-4c10-8ae2-0a850c5d1516" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Foto
 
