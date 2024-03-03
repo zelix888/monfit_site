@@ -1,16 +1,9 @@
-///Mappa con coordinate JSON
+///Mappe con coordinate JSON
 
-const mapID2 = 'map2'
+//Icone per le mappe
 
-if (document.getElementById(mapID2) !== null) {
-  const map2 = L.map(mapID2).setView([45.0815, 8.3895], 14)
-
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-  }).addTo(map2);
-
-  // Green Icon
-var greenIcon = new L.Icon({
+ // Green Icon
+ const greenIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-start.png',
   shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
@@ -20,7 +13,7 @@ var greenIcon = new L.Icon({
 });
 
 // Blue Icon
-var blueIcon = new L.Icon({
+const blueIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-wpt.png',
   shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
@@ -30,7 +23,7 @@ var blueIcon = new L.Icon({
 });
 
 // Red Icon
-var redIcon = new L.Icon({
+const redIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-end.png',
   shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
@@ -38,6 +31,17 @@ var redIcon = new L.Icon({
   popupAnchor: [3, -34],
   shadowSize: [41, 41]
 });
+
+// Mappa Cella Monte - Percorso Cipriano 
+
+const mapID1 = 'map_cellamonte_cipriano'
+
+if (document.getElementById(mapID1) !== null) {
+  const map_cellamonte_cipriano = L.map(mapID1).setView([45.0815, 8.3895], 14)
+
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map_cellamonte_cipriano);
     
   fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Cella_Monte/Cella%20Monte%20-%20Cipriano.geojson")
     .then((response) =>{
@@ -62,7 +66,7 @@ var redIcon = new L.Icon({
           
         }
       }).bindPopup((layer) => {
-          return `${layer.feature.properties.name}`}).addTo(map2);
+          return `${layer.feature.properties.name}`}).addTo(map_cellamonte_cipriano);
   })
   .catch((error) => {
       console.log(`This is the error: ${error}`)
