@@ -85,7 +85,7 @@ Wir verlassen die kleine Kirche auf der rechten Seite und biegen links in die *V
 
 <div id="map_treville_devasini" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/9849a2ef-6ecb-4c10-8ae2-0a850c5d1516" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/0b0741c4-dd4e-4ec4-832f-c5c8ab7debb5" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Fotos
 
