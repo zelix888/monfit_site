@@ -54,32 +54,32 @@ Da qui, proseguiamo dritto per circa 500m fiancheggiando *Piazza Ermanno Devasin
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Continuiamo scendendo lungo il sentiero per circa 1 Km dove ci ritroveremo immersi nella natura fino a giungere sulla *Strada Provinciale 32*. 
+Continuiamo scendendo lungo il sentiero per circa 1 Km e ci ritroveremo immersi nella natura fino a giungere sulla *Strada Provinciale 32*. 
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Giriamo a sinistra e continuiamo sempre lunga la *Strada Provinciale 32* per altri 600 m dove farà capolino la piccola **Chiesa di San Quirico**. 
+Giriamo a sinistra e seguiamo sempre la *Strada Provinciale 32* per altri 600 m dove farà capolino la piccola **Chiesa di San Quirico**. 
 
 <figure class="figure">
   <img src="https://fai-platform.imgix.net/uploads/6613ffad-d9c7-4449-a866-b3545d023064.jpg" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Chiesa di San Quirico - Treville - <a href="https://fondoambiente.it/luoghi/chiesa-di-san-quirico-treville?ldc">FAI</a></figcaption>
 </figure>
 
-Procediamo dritto fino ad arrivare a un bivio e giriamo a sinistra.
+Procediamo dritto fino ad arrivare a un bivio e svoltiamo a sinistra.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
 
-Proseguiamo lungo il sentiero fino ad arrivare a una ampia veduta dove si inizia a intravedere la **Chiesa di Sant'Ambrogio**. 
+Proseguiamo lungo il sentiero fino a raggiungere a un'ampia veduta da cui si scorge in lontananza la **Chiesa di Sant'Ambrogio**. 
 
-Giriamo a destra e risaliamo il sentiero principale fino ad arrivare in *Via Cascinotto*. Da qui la strada torna a essere asfaltata.
+Svoltiamo a destra e risaliamo il sentiero principale fino ad arrivare in *Via Cascinotto*. Da qui la strada torna a essere asfaltata.
 
-Tiriamo dritto per 400 m e giriamo a sinistra in *Via Roma*. 
+Percorriamo 400 m e poi giriamo a sinistra in *Via Roma*. 
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
 Da li a poco si intravederà la **Chiesa di San Giacomo**.
 
-Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonvallazione* fino a giungere alla nostra **Destinazione** situata al piccolo parcheggio da cui siamo partiti.
+Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonvallazione* fino a giungere alla nostra **Destinazione**. nonché il piccolo parcheggio da cui siamo partiti.
 
 ## Mappa
 
