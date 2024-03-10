@@ -14,7 +14,7 @@
 
 // Blue Icon
 const blueIcon = new L.Icon({
-  iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-wpt.png',
+  iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-poi.png',
   shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
   iconAnchor: [12, 41],
