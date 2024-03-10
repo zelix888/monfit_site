@@ -45,55 +45,45 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 ## Route description
 
-The **Start** is located at the small car park in *Via Gian Giacomo Francia 1*. Should there be no parking spaces, as an alternative, you can get down and park at *Via Dante Barbano 10*.
+The **starting point** is in the small car park in *Via Circonvallazione 1* overlooking the beautiful surrounding hills.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709466295205!6m8!1m7!1sncSib8RAxhrSP3p02tHhYQ!2m2!1d45.0974065740284!2d8.361255602548768!3f344.4798568765143!4f-1.1552234942221276!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-From here, continuing towards *Via Dante Barbano*, we head towards the characteristic historic centre of Cella Monte. After walking past the
-Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulietta [^1]** and the **Ecomuseo della Pietra dei Cantoni [^2]** on the right. 
+The route continues straight ahead for about 500 metres, past *Piazza Ermanno Devasini*, and then immediately turns left onto the downhill road.
 
-We continue straight on for about 300 m along *Via Dante Barbano* until we come to a small hill on which stands the small **Church of Saint Quirico [^3]**.
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-We continue along *Via Cipriano Cei* for another 300 m until we reach a small path on the right which enters a wooded area.
+We proceed along the path for about 1 kilometre and enjoy the natural surroundings until we reach the *Strada Provinciale 32*. 
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Descending along the path, we find ourselves completely immersed in the forest vegetation, which leads us to a flat area.
-
-We proceed straight ahead until we reach a steep slope that runs alongside the rows of vines, and then on to the junction between *Strada Calcinara* and *Strada Provinciale 37*.
-
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
-
-We turn right onto *Strada Provinciale 37* and the surrounding countryside amidst the hills of the Rosignano Monferrato area awaits us.
-
-After about 600 m, the **Madonna delle Grazie Church** will peep out on the right.
+We turn left and follow the *Strada Provinciale 32* for another 600 metres, where the small **San Quirico Church** appears. 
 
 <figure class="figure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
-" class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">Madonna delle Grazie Church - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
+  <img src="https://fai-platform.imgix.net/uploads/6613ffad-d9c7-4449-a866-b3545d023064.jpg" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">San Quirico Church - Treville - <a href="https://fondoambiente.it/luoghi/chiesa-di-san-quirico-treville?ldc">FAI</a></figcaption>
 </figure>
 
-After walking past it, we proceed along the slightly elevated *Strada Madonna delle Grazie* for 100 m until we reach our **Destination**, the **Big Bench No. 41 'Rosso Grignolino'**; from there we can enjoy a wonderful view over the rows of vines.
+We keep going straight until we come to a crossroad and turn left.
 
-<figure class="figure">
-  <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">Big Bench No. 41 "Rosso Grignolino" - <a href="https://www.comune.rosignanomonferrato.al.it/it-it/vivere-il-comune/cosa-vedere/big-bench-panchina-gigante-rosso-grignolino-45175-1-00e5f36d1613cd50ea2e0b7caa0c4128">Comune Rosignano Monferrato</a></figcaption>
-</figure>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+
+We continue along the path until we come to a wide view from which we can see the **Church of Sant'Ambrogio** in the distance. 
+
+We turn right and ascend the main path until we reach *Via Cascinotto*. From here the road becomes paved again. 
+
+We walk for 400 metres and then turn left into *Via Roma*.
+
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+
+Shortly afterwards we will catch a glimpse of the **Church of San Giacomo**. 
+
+Leaving the small church on the right, we turn left onto *Via Circonvallazione* until we reach our **destination**, the small car park from which we started.
 
 ## Map
 
 <div id="map_treville_devasini" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/b757977b-6f6b-4370-aa29-8623a3185b85" state="enabled" >}}Download GPX file{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/9849a2ef-6ecb-4c10-8ae2-0a850c5d1516" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Photos
-
-[^1]: Historic church from 1633 that houses works by Pietro Ivaldi and other Italian painters ([Wikipedia](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Quirico_e_Giulitta_(Cella_Monte))).
-
-[^2]: Museum embracing and enhancing the Pietra dei Cantoni and the Monferrato landscape in its building components  ([EcoMuseo Pietra dei Cantoni](https://www.ecomuseopietracantoni.it/)).
-
-[^3]: Saint considered to be the protector of children ([Wikipedia](https://it.wikipedia.org/wiki/Cella_Monte)).
-
-
-
