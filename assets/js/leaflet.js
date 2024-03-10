@@ -5,31 +5,31 @@
  // Green Icon
  const greenIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-start.png',
-  shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
+ // shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
   iconAnchor: [12, 41],
   popupAnchor: [3, -34],
-  shadowSize: [41, 41]
+ // shadowSize: [41, 41]
 });
 
 // Blue Icon
 const blueIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-poi.png',
-  shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
+//  shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
   iconAnchor: [12, 41],
   popupAnchor: [3, -34],
-  shadowSize: [41, 41]
+//  shadowSize: [41, 41]
 });
 
 // Red Icon
 const redIcon = new L.Icon({
   iconUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-icon-end.png',
-  shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
+//  shadowUrl: 'https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Icons/pin-shadow.png',
   iconSize: [30, 41],
   iconAnchor: [12, 41],
   popupAnchor: [3, -34],
-  shadowSize: [41, 41]
+//  shadowSize: [41, 41]
 });
 
 // Mappa Cella Monte - Percorso Cipriano 
@@ -78,7 +78,7 @@ if (document.getElementById(mapID1) !== null) {
 const mapID2 = 'map_treville_devasini'
 
 if (document.getElementById(mapID2) !== null) {
-  const map_treville_devasini = L.map(mapID2).setView([45.1003, 8.3610], 14)
+  const map_treville_devasini = L.map(mapID2).setView([45.0974, 8.36038], 17)
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
