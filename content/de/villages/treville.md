@@ -29,7 +29,7 @@ In der Zeit der mantuanischen Herrschaft ging Treville von den Gonzaga auf Giuli
 
 ## Routen
 
-1. [Cipriano  Route 2.9 Km](https://monfit.netlify.app/de/blog/cellamonte-cipriano-route/)
+1. [Devasini  Route 3.6 Km](https://monfit.netlify.app/de/blog/treville-devasini-route/)
 
 ## Veranstaltungen
 

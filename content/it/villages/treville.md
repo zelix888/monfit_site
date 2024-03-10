@@ -30,7 +30,7 @@ Durante il periodo di dominio mantovano, Treville passò di mano in mano, dai Go
 
 ## Itinerari
 
-1. [Percorso Cipriano 2.9 Km](https://monfit.netlify.app/it/blog/cellamonte-percorso_cipriano/)
+1. [Percorso Devasini 3.6 Km](https://monfit.netlify.app/it/blog/treville-percorso_devasini/)
 
 ## Eventi
 

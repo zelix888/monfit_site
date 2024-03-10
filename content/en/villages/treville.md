@@ -27,7 +27,7 @@ During the period of Mantuan rule, Treville passed from hand to hand, from the G
 
 ## Routes
 
-1. [Cipriano Route 2.9 Km](https://monfit.netlify.app/en/blog/cellamonte-cipriano_track/)
+1. [Devasini Route 3.6 Km](https://monfit.netlify.app/en/blog/treville-devasini_track/)
 
 ## Events
 
