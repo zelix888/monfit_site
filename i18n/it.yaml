@@ -74,7 +74,7 @@
 - id: deprecatedFeature
   translation: "Eliminato in"
 - id: shareLink
-  translation: "Condivi via"
+  translation: "Condividi via"
 - id: copiedToClipboard
   translation: "copiato negli appunti"
 - id: link
