@@ -32,7 +32,7 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 ## Altimetrie 
 
 <figure class="figure">
-  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Treville/Elevation-Treville%20-%20Devasini.png" class="figure-img img-fluid w-100 rounded">
+  <img src="https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Sala%20Monferrato/Elevation-SalaMonferrato%20-%20San%20Grato.png" class="figure-img img-fluid w-100 rounded">
 </figure>
 
 {{< accordion >}}
