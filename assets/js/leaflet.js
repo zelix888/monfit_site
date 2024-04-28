@@ -113,3 +113,44 @@ if (document.getElementById(mapID2) !== null) {
       console.log(`This is the error: ${error}`)
   })
 }
+
+// Mappa Sala Monferrato - Percorso San Grato 
+
+const mapID3 = 'map_salamonferrato_sangrato'
+
+if (document.getElementById(mapID3) !== null) {
+  const map_salamonferrato_sangrato = L.map(mapID3).setView([45.0974, 8.36038], 17)
+
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map_salamonferrato_sangrato);
+    
+  fetch("https://raw.githubusercontent.com/zelix888/monfit_site/main/routes/Sala%20Monferrato/Sala%20Monferrato%20-%20San%20Grato.geojson")
+    .then((response) =>{
+        return response.json()
+    })
+    .then((data) => {
+      L.geoJson(data, {
+        pointToLayer: function (feature, latlng) {
+          if (feature.properties.type == "from") {
+            return L.marker(latlng, {
+              icon: greenIcon 
+            });
+          } else if (feature.properties.type == "to") {
+            return L.marker(latlng, {
+              icon: redIcon 
+            });
+          } else if (feature.properties.type == "via") {
+            return L.marker(latlng, {
+              icon: blueIcon 
+            });
+          }
+          
+        }
+      }).bindPopup((layer) => {
+          return `${layer.feature.properties.name}`}).addTo(map_salamonferrato_sangrato);
+  })
+  .catch((error) => {
+      console.log(`This is the error: ${error}`)
+  })
+}

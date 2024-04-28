@@ -46,9 +46,9 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 ## Descrizione percorso
 
-La **Partenza** è situata presso il piccolo parcheggio di *Via Circonvallazione 1* che si affaccia sulle splendide colline circostanti.
+La **Partenza** è situata in prossimità di *Via Roma 26* accanto al ristorante **Antichi Sapori** e all'ufficio postale.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709466295205!6m8!1m7!1sncSib8RAxhrSP3p02tHhYQ!2m2!1d45.0974065740284!2d8.361255602548768!3f344.4798568765143!4f-1.1552234942221276!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
 Da qui, proseguiamo dritto per circa 500m fiancheggiando *Piazza Ermanno Devasini* e giriamo subito a sinistra verso la strada in discesa.
 
@@ -83,7 +83,7 @@ Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonva
 
 ## Mappa
 
-<div id="map_treville_devasini" class="ratio ratio-16x9 w-100 rounded"></div> </br>
+<div id="map_salamonferrato_sangrato" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
 {{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/a0877da6-c966-413e-8e4c-1f81f77d4d3c" state="enabled" >}}Scarica il file GPX{{< /button >}}
 

@@ -6,12 +6,12 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
  creator="bikerouter.de 2024.13">
- <wpt lat="45.07551702913994" lon="8.35740387439728"><name>Chiesa parrochiale di San Giacomo</name></wpt>
- <wpt lat="45.07666861495294" lon="8.356864750385286"><name>Chiesa di San Francesco</name></wpt>
- <wpt lat="45.06986851728603" lon="8.352058231830599"><name>Chiesa di San Grato</name></wpt>
- <wpt lat="45.07557317384578" lon="8.35763454437256"><name>Castello di Sala Monferrato</name></wpt>
- <wpt lat="45.0749556484395" lon="8.358318507671358"><name>Casa Ricordi</name></wpt>
- <wpt lat="45.070371728970706" lon="8.352841436862947"><name>Panchina Gigante n. 48 "Rosso Barbera"</name></wpt>
+ <wpt lat="45.07551702913994" lon="8.35740387439728"><name>Chiesa parrochiale di San Giacomo</name><type>via</type></wpt>
+ <wpt lat="45.07666861495294" lon="8.356864750385286"><name>Chiesa di San Francesco</name><type>via</type></wpt>
+ <wpt lat="45.06986851728603" lon="8.352058231830599"><name>Chiesa di San Grato</name><type>via</type></wpt>
+ <wpt lat="45.07557317384578" lon="8.35763454437256"><name>Castello di Sala Monferrato</name><type>via</type></wpt>
+ <wpt lat="45.0749556484395" lon="8.358318507671358"><name>Casa Ricordi</name><type>via</type></wpt>
+ <wpt lat="45.070371728970706" lon="8.352841436862947"><name>Panchina Gigante n. 48 "Rosso Barbera"</name><type>via</type></wpt>
  <wpt lat="45.07469650858132" lon="8.35863769054413"><name>Start</name><type>from</type></wpt>
  <wpt lat="45.074561727712634" lon="8.358814716339113"><name>Finish</name><type>to</type></wpt>
  <trk>
@@ -224,3 +224,4 @@
   </trkseg>
  </trk>
 </gpx>
+
