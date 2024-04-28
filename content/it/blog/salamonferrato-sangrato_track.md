@@ -50,25 +50,41 @@ La **Partenza** è situata in prossimità di *Via Roma 26* accanto alla trattori
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Da qui, continuiamo dritto lungo *Via Roma* per circa 75m e svoltiamo a sinistra in discesa verso *Via Asilo* lasciandoci sulla destra la **Chiesa di San Giacomo**.
+Da qui, continuiamo dritto lungo *Via Roma* per circa 75 m e svoltiamo a sinistra in discesa verso *Via Asilo* lasciandoci sulla destra la **Chiesa di San Giacomo**.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Continuiamo scendendo lungo la via per almeno 100m e giriamo a sinistra alla 2a via asfaltata che troveremo.
+Continuiamo scendendo lungo la via per almeno 100 m e giriamo a sinistra alla 2a via asfaltata che troveremo.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Proseguiamo scendendo lunga la strada fino a giungere a bivio e da li svolteremo a destra.
+Proseguiamo scendendo lunga la strada fino a giungere a un bivio e da li svolteremo a destra.
 
-Procediamo dritto fino ad arrivare a un bivio e svoltiamo a sinistra.
-
-Percorriamo 1 Km, continuando a seguire il percorso principale, fino ad arrivare sulla *Strada Provinciale 35* e giriamo a sinistra. 
+Percorriamo 1 Km fino ad arrivare sulla *Strada Provinciale 35* e giriamo a sinistra. 
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Da li a poco si intravederà la **Chiesa di San Giacomo**.
+Dopo circa 300 m, girare a sinistra verso la strada inghiaiata con direzione **Cascina Fontanella**.
 
-Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonvallazione* fino a giungere alla nostra **Destinazione**. nonché il piccolo parcheggio da cui siamo partiti.
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714311970983!6m8!1m7!1sXBXL2ahgSdT2J39m79dvyw!2m2!1d45.08320675557807!2d8.34695974153549!3f278.7119643609555!4f-7.211498228564281!5f1.5053915700246976" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+
+Seguiamo il percorso principale per oltre 1 Km e giunti al bivio, giriamo a sinistra.
+
+Da lì, dopo poco meno di 1 Km, intravvederemo la piccola **Chiesa di San Grato**. 
+
+<figure class="figure">
+  <img src="https://www.lunganottedellechiese.com/wp-content/uploads/2023/06/SAN-GRATO-2-scaled.jpg" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">Chiesa di San Grato - Sala Monferrato - <a href="https://www.lunganottedellechiese.com">Lunga notte delle chiese</a></figcaption>
+</figure>
+
+Poco più in là, sulla sinistra, vedremo la **Panchina Gigante n. 48 "Rosso Barbera"** da cui potremmo godere di una meravigliosa vista sulle colline e il paese di **Sala Monferrato**.
+
+<figure class="figure">
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/7c/4a/49/caption.jpg?w=1200&h=1200&s=1" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">Panchina Gigante n. 48 "Rosso Barbera" - Sala Monferrato - <a href="https://www.tripadvisor.it">Tripadvisor</a></figcaption>
+</figure>
+
+Finita questa breve pausa, ripartiamo girando a sinistra verso il centro del paese per almeno 800 m fino a giungere presso la nostra **Destinazione**, ovvero il punto da cui siamo partiti inizialmente.
 
 ## Mappa
 

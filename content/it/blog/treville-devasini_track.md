@@ -79,7 +79,7 @@ Percorriamo 400 m e poi giriamo a sinistra in *Via Roma*.
 
 Da li a poco si intravederà la **Chiesa di San Giacomo**.
 
-Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonvallazione* fino a giungere alla nostra **Destinazione**. nonché il piccolo parcheggio da cui siamo partiti.
+Lasciando la piccola chiesa sulla destra, giriamo a sinistra sulla *Via Circonvallazione* fino a giungere alla nostra **Destinazione**, nonché il piccolo parcheggio da cui siamo partiti.
 
 ## Mappa
 
