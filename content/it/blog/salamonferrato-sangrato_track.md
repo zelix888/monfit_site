@@ -2,7 +2,7 @@
 author:
   display_name: Marco Aiolo
 slug: "salamonferrato-percorso_sangrato"
-title: "Sala Monferrato - Percorso San Grato 4.3 Km"
+title: "Sala Monferrato - Percorso San Grato 4.5 Km"
 date: 2024-04-27
 tags: ["sala","monferrato", "intermedia", "percorso", "san grato"]
 thumbnail: https://static.meeters.org/p/events/62544f1ae2c029992160d8e9/dc2ede5d-6341-4828-bf94-dcd3fab1fa05.jpg
@@ -14,11 +14,11 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 | Dettaglio | Valore |
 | -- | ----------- |
-| Distanza | 4.3 Km  |
+| Distanza | 4.5 Km  |
 | Difficoltà | Intermedia :warning: (il percorso presenta tratti attraversati da veicoli a motore) |
-| Superficie | 28% Asfalto 67% Terra 5% Ghiaia  |
-| Dislivello  | 110 m :arrow_down: - 110 m :arrow_up: |
-| Durata | 53 min |
+| Superficie | 30% Asfalto 54% Terra 16% Ghiaia  |
+| Dislivello  | 97 m :arrow_down: - 97 m :arrow_up: |
+| Durata | 56 min |
 | Territori attraversati | Sala Monferrato |
 | Stato | Progettato :computer: |
 {.table .table-striped}
@@ -50,32 +50,21 @@ La **Partenza** è situata in prossimità di *Via Roma 26* accanto alla trattori
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Da qui, proseguiamo dritto per circa 500m fiancheggiando *Piazza Ermanno Devasini* e giriamo subito a sinistra verso la strada in discesa.
+Da qui, continuiamo dritto lungo *Via Roma* per circa 75m e svoltiamo a sinistra in discesa verso *Via Asilo* lasciandoci sulla destra la **Chiesa di San Giacomo**.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Continuiamo scendendo lungo il sentiero per circa 1 Km e ci ritroveremo immersi nella natura fino a giungere sulla *Strada Provinciale 32*. 
+Continuiamo scendendo lungo la via per almeno 100m e giriamo a sinistra alla 2a via asfaltata che troveremo.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Giriamo a sinistra e seguiamo sempre la *Strada Provinciale 32* per altri 600 m dove farà capolino la piccola **Chiesa di San Quirico**. 
-
-<figure class="figure">
-  <img src="https://fai-platform.imgix.net/uploads/6613ffad-d9c7-4449-a866-b3545d023064.jpg" class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">Chiesa di San Quirico - Treville - <a href="https://fondoambiente.it/luoghi/chiesa-di-san-quirico-treville?ldc">FAI</a></figcaption>
-</figure>
+Proseguiamo scendendo lunga la strada fino a giungere a bivio e da li svolteremo a destra.
 
 Procediamo dritto fino ad arrivare a un bivio e svoltiamo a sinistra.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+Percorriamo 1 Km, continuando a seguire il percorso principale, fino ad arrivare sulla *Strada Provinciale 35* e giriamo a sinistra. 
 
-Proseguiamo lungo il sentiero fino a raggiungere a un'ampia veduta da cui si scorge in lontananza la **Chiesa di Sant'Ambrogio**. 
-
-Svoltiamo a destra e risaliamo il sentiero principale fino ad arrivare in *Via Cascinotto*. Da qui la strada torna a essere asfaltata.
-
-Percorriamo 400 m e poi giriamo a sinistra in *Via Roma*. 
-
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
 Da li a poco si intravederà la **Chiesa di San Giacomo**.
 
