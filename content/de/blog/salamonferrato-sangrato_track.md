@@ -2,7 +2,7 @@
 author:
   display_name: Marco Aiolo
 slug: "salamonferrato-sangrato-route"
-title: "Sala Monferrato - San Grato-Route 4.3 Km"
+title: "Sala Monferrato - San Grato-Route 4.5 Km"
 date: 2024-04-27
 tags: ["sala","monferrato", "mittel", "route", "san grato"]
 thumbnail: https://static.meeters.org/p/events/62544f1ae2c029992160d8e9/dc2ede5d-6341-4828-bf94-dcd3fab1fa05.jpg
@@ -14,11 +14,11 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 | Detail | Wert |
 | -- | ----------- |
-| Entfernung | 4.3 Km  |
+| Entfernung | 4.5 Km  |
 | Schwierigkeit | Mittel :warning: (die Route hat Abschnitte, die von Kraftfahrzeugen befahren werden) |
-| Oberfläche | 28% Asphalt 67% Erde 5% Schotter |
-| Höhenunterschied  | 110 m :arrow_down: - 110 m :arrow_up: |
-| Dauer | 53 min |
+| Oberfläche | 30% Asphalt 54% Erde 26% Schotter |
+| Höhenunterschied  | 97 m :arrow_down: - 97 m :arrow_up: |
+| Dauer | 56 min |
 | Durchfahrenes Gebiet | Sala Monferrato |
 | Zustand | Entworfen :computer: |
 {.table .table-striped}
