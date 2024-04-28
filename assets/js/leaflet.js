@@ -119,7 +119,7 @@ if (document.getElementById(mapID2) !== null) {
 const mapID3 = 'map_salamonferrato_sangrato'
 
 if (document.getElementById(mapID3) !== null) {
-  const map_salamonferrato_sangrato = L.map(mapID3).setView([45.0974, 8.36038], 17)
+  const map_salamonferrato_sangrato = L.map(mapID3).setView([45.07500, 8.35819], 18)
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'

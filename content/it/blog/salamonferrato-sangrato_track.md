@@ -46,7 +46,7 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 ## Descrizione percorso
 
-La **Partenza** è situata in prossimità di *Via Roma 26* accanto al ristorante **Antichi Sapori** e all'ufficio postale.
+La **Partenza** è situata in prossimità di *Via Roma 26* accanto alla trattoria [Antichi Sapori](https://www.tripadvisor.it/Restaurant_Review-g2168026-d2166669-Reviews-Trattoria_Antichi_Sapori-Sala_Monferrato_Province_of_Alessandria_Piedmont.html) e all'ufficio postale.
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
