@@ -50,9 +50,9 @@ Der **Start** befindet sich auf dem kleinen Parkplatz in *Via Gian Giacomo Franc
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Von hier aus geht es weiter in Richtung *Via Dante Barbano* und in das charakteristische historische Zentrum von Cella Monte. Nachdem wir an der Enoteca degli Infernot vorbeigegangen sind, sehen wir auf der rechten Seite die **Kirche der Heiligen Quirico und Giulietta [^1]** und das **Ecomuseo della Pietra dei Cantoni [^2]**. 
+Von hier aus geht es weiter in Richtung *Via Dante Barbano* und in das charakteristische historische Zentrum von Cella Monte. Nachdem wir an der Enoteca degli Infernot vorbeigegangen sind, sehen wir auf der rechten Seite die **Kirche der Heiligen Quirico und Giulietta** und das **Ecomuseo della Pietra dei Cantoni**. 
 
-Wir gehen etwa 300 m geradeaus auf der *Via Dante Barbano* weiter, bis wir zu einem kleinen Hügel kommen, auf dem die kleine **Kirche S. Quirico [^3]** steht.
+Wir gehen etwa 300 m geradeaus auf der *Via Dante Barbano* weiter, bis wir zu einem kleinen Hügel kommen, auf dem die kleine **Kirche S. Quirico** steht.
 
 Wir folgen der *Via Cipriano Cei* für weitere 300 m, bis wir rechts einen kleinen Pfad erreichen, der in ein Waldgebiet führt.
 
@@ -89,11 +89,6 @@ Nachdem wir an ihr vorbeigegangen sind, gehen wir auf der leicht ansteigenden *S
 
 ## Fotos
 
-[^1]: Historische Kirche aus dem Jahr 1633, in der Werke von Pietro Ivaldi und anderen italienischen Malern aufbewahrt werden ([Wikipedia](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Quirico_e_Giulitta_(Cella_Monte))).
-
-[^2]: Museum, das die Pietra dei Cantoni und die Landschaft des Monferrato in seine Bauelemente einbezieht und aufwertet ([EcoMuseo Pietra dei Cantoni](https://www.ecomuseopietracantoni.it/)).
-
-[^3]: Heiliger, der als Beschützer der Kinder gilt ([Wikipedia](https://it.wikipedia.org/wiki/Cella_Monte)).
 
 
 

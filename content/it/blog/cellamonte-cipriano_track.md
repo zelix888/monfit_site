@@ -50,9 +50,9 @@ La **Partenza** è situata presso il piccolo parcheggio di *Via Gian Giacomo Fra
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Da qui, proseguendo verso *Via Dante Barbano*,  ci inoltreremo verso il caratteristico centro storico di Cella Monte. Dopo aver superato l'Enoteca degli Infernot, osserviamo sulla destra la **Chiesa dei Santi Quirico e Giulietta [^1]** e l'**Ecomuseo della Pietra dei Cantoni [^2]**. 
+Da qui, proseguendo verso *Via Dante Barbano*,  ci inoltreremo verso il caratteristico centro storico di Cella Monte. Dopo aver superato l'Enoteca degli Infernot, osserviamo sulla destra la **Chiesa dei Santi Quirico e Giulietta** e l'**Ecomuseo della Pietra dei Cantoni**. 
 
-Continuiamo dritto per circa 300 m in *Via Dante Barbano* fino a incontrare una piccola altura su cui è posizionata la piccola **Chiesa di San Quirico [^3]**.
+Continuiamo dritto per circa 300 m in *Via Dante Barbano* fino a incontrare una piccola altura su cui è posizionata la piccola **Chiesa di San Quirico**.
 
 Proseguiamo su *Via Cipriano Cei* per altri 300 m fino a quando non raggiungiamo un piccolo sentiero sulla destra che si addentra in un'area boscosa.
 
@@ -89,8 +89,4 @@ Dopo averla superata, procediamo sull'omonima *Strada Madonna delle Grazie* legg
 
 ## Foto
 
-[^1]: Storica chiesa del 1633 che conserva opere di Pietro Ivaldi e altri pittori italiani ([Wikipedia](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Quirico_e_Giulitta_(Cella_Monte))).
 
-[^2]: Museo che abbraccia e valorizza la Pietra dei Cantoni e il paesaggio Monferrino nelle sue componenti edilizie ([EcoMuseo Pietra dei Cantoni](https://www.ecomuseopietracantoni.it/)).
-
-[^3]: Santo considerato protettore dei bambini ([Wikipedia](https://it.wikipedia.org/wiki/Cella_Monte)).

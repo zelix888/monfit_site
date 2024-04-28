@@ -50,9 +50,9 @@ The **Start** is located at the small car park in *Via Gian Giacomo Francia 1*. 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
 From here, continuing towards *Via Dante Barbano*, we head towards the characteristic historic centre of Cella Monte. After walking past the
-Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulietta [^1]** and the **Ecomuseo della Pietra dei Cantoni [^2]** on the right. 
+Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulietta** and the **Ecomuseo della Pietra dei Cantoni** on the right. 
 
-We continue straight on for about 300 m along *Via Dante Barbano* until we come to a small hill on which stands the small **Church of Saint Quirico [^3]**.
+We continue straight on for about 300 m along *Via Dante Barbano* until we come to a small hill on which stands the small **Church of Saint Quirico**.
 
 We continue along *Via Cipriano Cei* for another 300 m until we reach a small path on the right which enters a wooded area.
 
@@ -89,11 +89,6 @@ After walking past it, we proceed along the slightly elevated *Strada Madonna de
 
 ## Photos
 
-[^1]: Historic church from 1633 that houses works by Pietro Ivaldi and other Italian painters ([Wikipedia](https://it.wikipedia.org/wiki/Chiesa_dei_Santi_Quirico_e_Giulitta_(Cella_Monte))).
-
-[^2]: Museum embracing and enhancing the Pietra dei Cantoni and the Monferrato landscape in its building components  ([EcoMuseo Pietra dei Cantoni](https://www.ecomuseopietracantoni.it/)).
-
-[^3]: Saint considered to be the protector of children ([Wikipedia](https://it.wikipedia.org/wiki/Cella_Monte)).
 
 
 
