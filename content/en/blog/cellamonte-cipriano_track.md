@@ -50,7 +50,7 @@ The **Start** is located at the small car park in *Via Gian Giacomo Francia 1*. 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
 From here, continuing towards *Via Dante Barbano*, we head towards the characteristic historic centre of Cella Monte. After walking past the
-Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulietta** and the **Ecomuseo della Pietra dei Cantoni** on the right. 
+Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulitta** and the **Ecomuseo della Pietra dei Cantoni** on the right. 
 
 We continue straight on for about 300 m along *Via Dante Barbano* until we come to a small hill on which stands the small **Church of Saint Quirico**.
 
@@ -85,7 +85,7 @@ After walking past it, we proceed along the slightly elevated *Strada Madonna de
 
 <div id="map_cellamonte_cipriano" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/0a0fc398-1500-43b3-8c89-7521ffee2ba7" state="enabled" >}}Download GPX file{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44 state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Photos
 

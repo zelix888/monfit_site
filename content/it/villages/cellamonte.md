@@ -23,7 +23,7 @@ Tutto il Monferrato e il territorio di Cella Monte in particolare è caratterizz
 
 1. **Il centro storico**: Cella Monte è un borgo medievale con stradine strette e suggestive, che conserva ancora il suo antico fascino. Le case in pietra, le botteghe artigiane e l'atmosfera tranquilla lo rendono un luogo affascinante da visitare.
 
-2. **La Chiesa parrocchiale dei Santi Quirico e Giulietta**: situata in cima a una collina dal verde rigoglioso vanta un'ammirabile facciata, un vero gioiello architettonico, che si apre con un portale adornato da un arco di pietra sormontato da una lunetta.
+2. **La Chiesa parrocchiale dei Santi Quirico e Giulitta**: situata in cima a una collina dal verde rigoglioso vanta un'ammirabile facciata, un vero gioiello architettonico, che si apre con un portale adornato da un arco di pietra sormontato da una lunetta.
 
 3. **Palazzo Volta**: originariamente casa parrocchiale, oggi ospita l'**Ecomuseo della Pietra da Cantoni**, incantevole luogo dove storia e arte si fondono in un connubio perfetto. 
 

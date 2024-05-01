@@ -50,7 +50,7 @@ Der **Start** befindet sich auf dem kleinen Parkplatz in *Via Gian Giacomo Franc
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Von hier aus geht es weiter in Richtung *Via Dante Barbano* und in das charakteristische historische Zentrum von Cella Monte. Nachdem wir an der Enoteca degli Infernot vorbeigegangen sind, sehen wir auf der rechten Seite die **Kirche der Heiligen Quirico und Giulietta** und das **Ecomuseo della Pietra dei Cantoni**. 
+Von hier aus geht es weiter in Richtung *Via Dante Barbano* und in das charakteristische historische Zentrum von Cella Monte. Nachdem wir an der Enoteca degli Infernot vorbeigegangen sind, sehen wir auf der rechten Seite die **Kirche der Heiligen Quirico und Giulitta** und das **Ecomuseo della Pietra dei Cantoni**. 
 
 Wir gehen etwa 300 m geradeaus auf der *Via Dante Barbano* weiter, bis wir zu einem kleinen Hügel kommen, auf dem die kleine **Kirche S. Quirico** steht.
 
@@ -85,7 +85,7 @@ Nachdem wir an ihr vorbeigegangen sind, gehen wir auf der leicht ansteigenden *S
 
 <div id="map_cellamonte_cipriano" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/0a0fc398-1500-43b3-8c89-7521ffee2ba7" state="enabled" >}}GPX-Datei herunterladen{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44" state="enabled" >}}GPX-Datei herunterladen{{< /button >}}
 
 ## Fotos
 

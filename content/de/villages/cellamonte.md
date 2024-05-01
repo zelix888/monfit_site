@@ -27,7 +27,7 @@ Burdigalian-Langhiano (vor 20 bis 14 Millionen Jahren) datiert wurden.
 1. **Das historische Zentrum**: Cella Monte ist ein mittelalterliches Dorf mit engen, malerischen Gassen, das seinen alten Charme bewahrt hat.
 Die Steinhäuser, die Handwerksbetriebe und die ruhige Atmosphäre machen es zu einem faszinierenden Ort, den man unbedingt besuchen sollte.
 
-2. **Die Pfarrkirche der Heiligen Quirico und Giulietta**: Sie befindet sich auf einem üppig grünen Hügel. Ihre Fassade, ein wahres architektonisches Juwel, öffnet sich mit einem Portal, das von einem Steinbogen mit einer Lünette gekrönt wird..
+2. **Die Pfarrkirche der Heiligen Quirico und Giulitta**: Sie befindet sich auf einem üppig grünen Hügel. Ihre Fassade, ein wahres architektonisches Juwel, öffnet sich mit einem Portal, das von einem Steinbogen mit einer Lünette gekrönt wird..
 
 3. **Palazzo Volta**: Ursprünglich ein Pfarrhaus, beherbergt es heute das **Ecomuseo della Pietra da Cantoni**, einen bezaubernden Ort, an dem Geschichte und Kunst eine perfekte Verbindung eingehen. 
 

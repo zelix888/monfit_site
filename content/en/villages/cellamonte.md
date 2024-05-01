@@ -21,7 +21,7 @@ The entire Monferrato region and the Cella Monte area in particular is character
 
 1. **The historic centre**: Cella Monte is a medieval village with narrow, picturesque streets that still retains its ancient charm. The stone houses, craft workshops and quiet atmosphere make it a fascinating place to visit.
 
-2. **The parish church of Saints Quirico and Giulietta**: situated atop a lush green hill, it boasts an impressive façade, a true architectural jewel which opens with a portal adorned by a stone arch surmounted by a lunette.
+2. **The parish church of Saints Quirico and Giulitta**: situated atop a lush green hill, it boasts an impressive façade, a true architectural jewel which opens with a portal adorned by a stone arch surmounted by a lunette.
 
 3. **Palazzo Volta**: originally a parish house, it now houses the **Ecomuseo della Pietra da Cantoni**,  an enchanting place where history and art come together in a perfect harmony. 
 

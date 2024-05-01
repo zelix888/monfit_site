@@ -50,7 +50,7 @@ La **Partenza** è situata presso il piccolo parcheggio di *Via Gian Giacomo Fra
 
 <p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Da qui, proseguendo verso *Via Dante Barbano*,  ci inoltreremo verso il caratteristico centro storico di Cella Monte. Dopo aver superato l'Enoteca degli Infernot, osserviamo sulla destra la **Chiesa dei Santi Quirico e Giulietta** e l'**Ecomuseo della Pietra dei Cantoni**. 
+Da qui, proseguendo verso *Via Dante Barbano*,  ci inoltreremo verso il caratteristico centro storico di Cella Monte. Dopo aver superato l'Enoteca degli Infernot, osserviamo sulla destra la **Chiesa dei Santi Quirico e Giulitta** e l'**Ecomuseo della Pietra dei Cantoni**. 
 
 Continuiamo dritto per circa 300 m in *Via Dante Barbano* fino a incontrare una piccola altura su cui è posizionata la piccola **Chiesa di San Quirico**.
 
@@ -85,7 +85,7 @@ Dopo averla superata, procediamo sull'omonima *Strada Madonna delle Grazie* legg
 
 <div id="map_cellamonte_cipriano" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/0a0fc398-1500-43b3-8c89-7521ffee2ba7" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Foto
 
