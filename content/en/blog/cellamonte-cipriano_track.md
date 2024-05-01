@@ -85,7 +85,7 @@ After walking past it, we proceed along the slightly elevated *Strada Madonna de
 
 <div id="map_cellamonte_cipriano" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44 state="enabled" >}}Download GPX file{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44" state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Photos
 

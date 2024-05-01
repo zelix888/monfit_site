@@ -27,7 +27,9 @@ Tutto il Monferrato e il territorio di Cella Monte in particolare è caratterizz
 
 3. **Palazzo Volta**: originariamente casa parrocchiale, oggi ospita l'**Ecomuseo della Pietra da Cantoni**, incantevole luogo dove storia e arte si fondono in un connubio perfetto. 
 
-4. **Gli "Infernòt"**: piccole camere scavate nella Pietra da Cantoni senza luce né aerazione, che rappresentano una tipicità del territorio del Monferrato. Questi spazi sotterranei, solitamente raggiungibili attraverso una cantina, grazie alle condizioni di temperatura e umidità costanti, sono luoghi ideali per la conservazione del vino imbottigliato.
+4. **Chiesetta di San Quirico**: risalente all'epoca romanica, era la principale chiesa del villaggio e si trovava nel nucleo originario del paese. Presenta una forma rettangolare, un'abside semicircolare e mura realizzate con mattoni e pietre dalle dimensioni generose. In passato, la chiesa era collegata a una struttura rustica e negli anni Ottanta del secolo scorso è stata aggiunta una grande vetrata sulla parete sinistra. Fin dal primo Novecento, questo luogo era meta di pellegrinaggi per ottenere la guarigione dei bambini e per ricevere la benedizione degli abiti che indossavano. Il verde spazio circostante offre una vista panoramica sul vicino abitato di Rosignano Monferrato, distante solo pochi passi in linea d'aria. Di fronte alla chiesetta si erge il monumento ai caduti, con l'alto pennone su cui sventola fieramente la bandiera italiana.
+
+5. **Gli "Infernòt"**: piccole camere scavate nella Pietra da Cantoni senza luce né aerazione, che rappresentano una tipicità del territorio del Monferrato. Questi spazi sotterranei, solitamente raggiungibili attraverso una cantina, grazie alle condizioni di temperatura e umidità costanti, sono luoghi ideali per la conservazione del vino imbottigliato.
 
 ## Itinerari
 
