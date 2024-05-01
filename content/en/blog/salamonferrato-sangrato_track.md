@@ -89,7 +89,7 @@ After this brief pause, we set off again, turning left towards the centre of the
 
 <div id="map_salamonferrato_sangrato" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/a0877da6-c966-413e-8e4c-1f81f77d4d3c" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/698b50ad-904d-4004-8c6e-e44803e22b53" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Photos
 
