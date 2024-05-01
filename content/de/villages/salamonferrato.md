@@ -37,7 +37,7 @@ Noch heute kann man das große Eingangstor des befestigten Geländes sehen, das 
 
 ## Routen
 
-1. [Devasini  Route 3.6 Km](https://monfit.netlify.app/de/blog/treville-devasini-route/)
+1. [San Grato  Route 4.5 Km](https://monfit.netlify.app/de/blog/salamonferrato-sangrato-route/)
 
 ## Veranstaltungen
 

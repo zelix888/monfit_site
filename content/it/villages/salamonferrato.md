@@ -37,7 +37,7 @@ Ancora oggi è possibile vedere la grande porta d'ingresso del recinto fortifica
 
 ## Itinerari
 
-1. [Percorso Devasini 3.6 Km](https://monfit.netlify.app/it/blog/treville-percorso_devasini/)
+1. [Percorso San Grato 4.5 Km](https://monfit.netlify.app/it/blog/salamonferrato-percorso_sangrato/)
 
 ## Eventi
 

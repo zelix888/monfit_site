@@ -37,7 +37,7 @@ Located above the post office in the main street of the village, it houses poste
 
 ## Routes
 
-1. [Devasini Route 3.6 Km](https://monfit.netlify.app/en/blog/treville-devasini_track/)
+1. [San Grato Route 4.5 Km](https://monfit.netlify.app/en/blog/salamonferrato-sangrato_track/)
 
 ## Events
 
