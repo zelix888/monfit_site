@@ -46,47 +46,55 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 ## Routenbeschreibung
 
-Der **Start** befindet sich auf dem kleinen Parkplatz in der *Via Circonvallazione 1* mit Blick auf die schönen umliegenden Hügel.
+Der **Ausgangspunkt** befindet sich in der Nähe der *Via Roma 26* neben der Trattoria [Antichi Sapori](https://www.tripadvisor.it/Restaurant_Review-g2168026-d2166669-Reviews-Trattoria_Antichi_Sapori-Sala_Monferrato_Province_of_Alessandria_Piedmont.html) und dem Postamt.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709466295205!6m8!1m7!1sncSib8RAxhrSP3p02tHhYQ!2m2!1d45.0974065740284!2d8.361255602548768!3f344.4798568765143!4f-1.1552234942221276!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Von hier aus geht es ca. 500 m geradeaus, an der *Piazza Ermanno Devasini* vorbei, und dann sofort links auf die bergab führende Straße.
+Von hier aus gehen wir ca. 75 m geradeaus auf der *Via Roma* weiter und biegen dann links bergab in die *Via Asilo* ein, und lassen die **Kirche San Giacomo** zu unserer Rechten hinter uns.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Wir setzen den Weg etwa 1 km lang fort und sind von der Natur umgeben, bis wir die *Strada Provinciale 32* erreichen.
+Wir gehen mindestens 100 m weiter bergab und biegen an der 2. asphaltierten Straße, die wir erreichen, links ab.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
 
-Wir biegen links ab und folgen der *Strada Provinciale 32* für weitere 600 m, wo die kleine **San Quirico-Kirche** erscheint. 
+Wir folgen der Straße weiter bergab, bis wir zu einer Gabelung kommen, an der wir rechts abbiegen.
+
+Wir bleiben 1 km auf der Straße, bis wir die *Strada Provinciale 35* erreichen und biegen links ab.
+
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+
+Nach etwa 300 m biegen wir links auf die Schotterstraße in Richtung **Cascina Fontanella** ab.
+
+<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714311970983!6m8!1m7!1sXBXL2ahgSdT2J39m79dvyw!2m2!1d45.08320675557807!2d8.34695974153549!3f278.7119643609555!4f-7.211498228564281!5f1.5053915700246976" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+
+Wir folgen der Hauptstraße über 1 km und biegen an der Gabelung links ab.
+
+Von dort aus können wir nach knapp 1 km die kleine **Kirche San Grato** erblicken.
 
 <figure class="figure">
-  <img src="https://fai-platform.imgix.net/uploads/6613ffad-d9c7-4449-a866-b3545d023064.jpg" class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">San Quirico-Kirche - Treville - <a href="https://fondoambiente.it/luoghi/chiesa-di-san-quirico-treville?ldc">FAI</a></figcaption>
+  <img src="https://www.lunganottedellechiese.com/wp-content/uploads/2023/06/SAN-GRATO-2-scaled.jpg" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">Kirche San Grato - Sala Monferrato - <a href="https://www.lunganottedellechiese.com">Lunga notte delle chiese</a></figcaption>
 </figure>
 
-Wir setzen unseren Weg geradeaus fort, bis wir an eine Abzweigung kommen und links abbiegen.
+Kurz darauf sehen wir auf der linken Seite die **Riesenbank Nr. 48 "Rosso Barbera"**, von der aus wir einen herrlichen Blick auf die Hügel und das Dorf **Sala Monferrato** genießen können.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+<figure class="figure">
+  <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/7c/4a/49/caption.jpg?w=1200&h=1200&s=1" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">Riesenbank Nr. 48 "Rosso Barbera" - Sala Monferrato - <a href="https://www.tripadvisor.it">Tripadvisor</a></figcaption>
+</figure>
 
-Wir setzen den Weg fort, bis wir eine weite Aussicht erreichen, von der aus man in der Ferne die **Kirche von Sant'Ambrogio** erblicken kann. 
-
-Wir biegen rechts ab und steigen den Hauptweg hinauf, bis wir die *Via Cascinotto* erreichen. Ab hier wird die Straße wieder asphaltiert.
-
-Wir gehen 400 m geradeaus und biegen dann links in die *Via Roma* ein. 
-
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
-
-Von dort aus können wir schon bald einen Blick auf die *Kirche San Giacomo* erhaschen.
-
-Wir verlassen die kleine Kirche auf der rechten Seite und biegen links in die *Via Circonvallazione* ein, bis wir unser **Ziel** auf dem kleinen Parkplatz erreichen, von dem aus wir aufgebrochen sind.
+Nach dieser kurzen Pause machen wir uns wieder auf den Weg und biegen nach links in Richtung Dorfzentrum ab, bis wir nach mindestens 800 m unser Ziel **erreichen**, d.h. den Punkt, von dem aus wir ursprünglich losgegangen sind.
 
 ## Karte
 
-<div id="map_treville_devasini" class="ratio ratio-16x9 w-100 rounded"></div> </br>
+<div id="map_salamonferrato_sangrato" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
 {{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/a0877da6-c966-413e-8e4c-1f81f77d4d3c" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Fotos
+
+
+
 
 
