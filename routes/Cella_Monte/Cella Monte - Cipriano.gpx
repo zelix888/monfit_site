@@ -6,6 +6,11 @@
  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
  version="1.1" 
  creator="bikerouter.de 2023.20">
+ <wpt lat="45.07496928752855" lon="8.390333354473116"><name>Centro storico</name><type>via</type></wpt>
+ <wpt lat="45.07512077832533" lon="8.391030728816988"><name>Chiesa parrocchiale dei Santi Quirico e Giulietta</name><type>via</type></wpt>
+ <wpt lat="45.07519313937699" lon="8.390671312808992"><name>Palazzo Volta</name><type>via</type></wpt>
+ <wpt lat="45.077109423383135" lon="8.388418257236482"><name>Chiesetta di San Quirico</name><type>via</type></wpt>
+  <wpt lat="45.08456254607632" lon="8.389880061149599"><name>Big Bench n. 41 “Rosso Grignolino”</name><type>via</type></wpt>
  <wpt lat="45.07474205271855" lon="8.391816616058351"><name>Start</name><type>from</type></wpt>
  <wpt lat="45.08447772710751" lon="8.389872014522554"><name>Finish</name><type>to</type></wpt>
  <trk>

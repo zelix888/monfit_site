@@ -85,7 +85,7 @@ Dopo averla superata, procediamo sull'omonima *Strada Madonna delle Grazie* legg
 
 <div id="map_cellamonte_cipriano" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/b757977b-6f6b-4370-aa29-8623a3185b85" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/0a0fc398-1500-43b3-8c89-7521ffee2ba7" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Foto
 
