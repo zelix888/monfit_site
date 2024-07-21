@@ -143,7 +143,7 @@
 # toml-docs-end theme-colors
     themeOpacity = "10"
 # toml-docs-start font
-    themeFont = "Inter"
+    themeFont = "Public Sans,Inter"
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
     themeFontPath = "/fonts" # local path
 # toml-docs-end font
