@@ -8,7 +8,7 @@ modified: 2023-09-09
 showComments: false
 ---
 
-<p class="text-center"><svg class="img-fluid w-50"><use href="/img/logo_var.svg#logo"></use></svg></p>
+<p class="text-center"><img src="/img/logo.png" class="img-fluid w-50 rounded"/></p>
 
 Hi, I'm Marco Aiolo,
 creator of this blog dedicated to finding new routes in the Monferrato area.

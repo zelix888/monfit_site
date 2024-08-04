@@ -9,7 +9,7 @@ modified: 2023-09-09
 showComments: false
 ---
 
-<p class="text-center"><svg class="img-fluid w-50"><use href="/img/logo_var.svg#logo"></use></svg></p>
+<p class="text-center"><img src="/img/logo.png" class="img-fluid w-50 rounded"/></p>
 
 Ciao, sono Marco Aiolo, creatore di questo blog dedicato alla ricerca di nuovi percorsi nel Monferrato.
 
