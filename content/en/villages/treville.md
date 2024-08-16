@@ -2,6 +2,7 @@
 author:
   display_name: Marco Aiolo
 title: "Treville"
+description: The balcony over the Alps
 date: 2024-02-25
 tags: ["treville", "monferrato", "villages"]
 thumbnail: https://www.lunganottedellechiese.com/wp-content/uploads/2022/05/Treville-scaled.jpeg

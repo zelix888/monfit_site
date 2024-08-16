@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "treville"
 title: "Treville"
+description: Il balcone sulle Alpi
 url: "borghi/treville"
 date: 2024-02-25
 tags: ["treville", "monferrato", "borghi"]

@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "treville"
 title: "Treville"
+description: Balkon über den Alpen
 url: "dörfer/treville"
 date: 2024-02-25
 tags: ["treville", "monferrato", "Dörfer"]
