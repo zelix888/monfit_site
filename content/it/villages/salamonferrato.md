@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "salamonferrato"
 title: "Sala Monferrato"
+description: Uno scrigno di suoni e tradizioni
 url: "borghi/salamonferrato"
 date: 2024-03-30
 tags: ["sala", "monferrato", "borghi"]

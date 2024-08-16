@@ -2,6 +2,7 @@
 author:
   display_name: Marco Aiolo
 title: "Sala Monferrato"
+description: A treasure chest of sounds and traditions
 date: 2024-03-30
 tags: ["sala", "monferrato", "villages"]
 thumbnail: https://static.meeters.org/p/events/62544f1ae2c029992160d8e9/dc2ede5d-6341-4828-bf94-dcd3fab1fa05.jpg

@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "salamonferrato"
 title: "Sala Monferrato"
+description: Ein Schrein voller Klänge und Traditionen
 url: "dörfer/salamonferrato"
 date: 2024-03-30
 tags: ["sala", "monferrato", "Dörfer"]
