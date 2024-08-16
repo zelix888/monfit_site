@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte"
 title: "Cella Monte"
+description: Il mare in collina
 url: "borghi/cellamonte"
 date: 2023-10-01
 tags: ["cella monte", "monferrato", "borghi"]

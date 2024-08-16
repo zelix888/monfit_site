@@ -2,6 +2,7 @@
 author:
   display_name: Marco Aiolo
 title: "Cella Monte"
+description: Sea in the hills
 date: 2023-10-01
 tags: ["cella monte", "monferrato", "villages"]
 thumbnail: https://raw.githubusercontent.com/zelix888/monfit_site/main/Images/Thumbnail/Thumbnail_Villages_CellaMonte.jpg

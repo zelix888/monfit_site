@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte"
 title: "Cella Monte"
+description: Das Meer in den Hügeln
 url: "dörfer/cellamonte"
 date: 2023-10-01
 tags: ["cella monte", "monferrato", "Dörfer"]
