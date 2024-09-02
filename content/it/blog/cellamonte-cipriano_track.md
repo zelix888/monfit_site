@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte-percorso_cipriano"
 title: "Cella Monte - Percorso Cipriano 2.9 Km"
+description: Un tratto di Paradiso. Dal fascino storico delle chiese allo sconfinato verde del Monferrato
 date: 2023-11-18
 tags: ["cella monte", "rosignano", "monferrato", "intermedia", "percorso", "cipriano"]
 thumbnail: https://www.italywhere.com/wp-content/uploads/2022/06/shutterstock_2010548228-1200x800.jpg

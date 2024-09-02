@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "treville-percorso_devasini"
 title: "Treville - Percorso Devasini 3.6 Km"
+description: Trame di natura e architettura. Un'avventura nel cuore di Treville
 date: 2024-03-03
 tags: ["treville", "intermedia", "percorso", "devasini"]
 thumbnail: https://www.vitacasalese.it/wp-content/uploads/2020/06/TREVILLE-SAN-QUIRICO.jpeg

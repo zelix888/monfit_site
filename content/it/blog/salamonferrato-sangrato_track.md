@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "salamonferrato-percorso_sangrato"
 title: "Sala Monferrato - Percorso San Grato 4.5 Km"
+description: Dalla Chiesa di San Giacomo alla Panchina Gigante. Un viaggio tra sapori e panorami
 date: 2024-04-27
 tags: ["sala","monferrato", "intermedia", "percorso", "san grato"]
 thumbnail: https://static.meeters.org/p/events/62544f1ae2c029992160d8e9/dc2ede5d-6341-4828-bf94-dcd3fab1fa05.jpg
