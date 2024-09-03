@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "treville-devasini-route"
 title: "Treville - Devasini-Route 3.6 Km"
+description: Natur- und Architekturlandschaften. Ein Abenteuer im Herzen von Treville
 date: 2024-03-03
 tags: ["treville", "mittel", "route", "devasini"]
 thumbnail: https://www.vitacasalese.it/wp-content/uploads/2020/06/TREVILLE-SAN-QUIRICO.jpeg

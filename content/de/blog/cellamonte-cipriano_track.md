@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "cellamonte-cipriano-route"
 title: "Cella Monte - Cipriano-Route 2.9 Km"
+description: Ein Stück vom Paradies. Vom historischen Charme der Kirchen bis zum grenzenlosen Grün des Monferrato
 date: 2023-10-01
 tags: ["cella monte", "rosignano", "monferrato", "mittel", "route", "cipriano"]
 thumbnail: https://www.italywhere.com/wp-content/uploads/2022/06/shutterstock_2010548228-1200x800.jpg

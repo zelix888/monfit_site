@@ -2,6 +2,7 @@
 author:
   display_name: Marco Aiolo
 title: "Sala Monferrato - San Grato route 4.5 Km"
+description: From the Church of San Giacomo to the Big Bench. A journey through tastes and views
 date: 2024-04-27
 tags: ["sala","monferrato","intermediate", "route", "san grato"]
 thumbnail: https://static.meeters.org/p/events/62544f1ae2c029992160d8e9/dc2ede5d-6341-4828-bf94-dcd3fab1fa05.jpg

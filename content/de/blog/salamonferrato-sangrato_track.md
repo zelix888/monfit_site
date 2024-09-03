@@ -3,6 +3,7 @@ author:
   display_name: Marco Aiolo
 slug: "salamonferrato-sangrato-route"
 title: "Sala Monferrato - San Grato-Route 4.5 Km"
+description: Von der Kirche San Giacomo zur Riesenbank. Eine Reise durch Geschmäcker und Ansichten
 date: 2024-04-27
 tags: ["sala","monferrato", "mittel", "route", "san grato"]
 thumbnail: https://static.meeters.org/p/events/62544f1ae2c029992160d8e9/dc2ede5d-6341-4828-bf94-dcd3fab1fa05.jpg

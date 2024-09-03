@@ -2,6 +2,7 @@
 author:
   display_name: Marco Aiolo
 title: "Treville - Devasini route 3.6 Km"
+description: Plots of nature and architecture. An adventure in the heart of Treville
 date: 2024-03-03
 tags: ["treville", "intermediate", "route", "devasini"]
 thumbnail: https://www.vitacasalese.it/wp-content/uploads/2020/06/TREVILLE-SAN-QUIRICO.jpeg
