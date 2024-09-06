@@ -9,9 +9,9 @@
         link = "chi-sono"
         caption = "Chi sono"
     [it.params.footer]
-        license = "Quest'opera è distribuita con Licenza Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+        license = "Quest'opera è distribuita con Licenza Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
         socialTitle = "Seguimi"
-        socialCaption = "Informatico atipico appassionato di viaggi e sport"
+        socialCaption = "Esploratore di mondi e assaggiatore di gelati, con una mappa in una mano e un cucchiaio nell'altra, pronto a scoprire nuovi gusti e nuovi orizzonti"
 
 [en]
     languageName = "English"
@@ -25,9 +25,9 @@
         link = "about"
         caption = "About"
     [en.params.footer]
-        license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+        license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
         socialTitle = "Follow me"
-        socialCaption = "Atypical IT Expert keen on travels and sports"
+        socialCaption = "World explorer and ice cream taster, with a map in one hand and a spoon in the other, ready to discover new tastes and new landscapes"
 
 [de]
     languageName = "Deutsch"
@@ -41,8 +41,8 @@
         link = "über-mich"
         caption = "Über mich"
     [de.params.footer]
-        license = "Lizenziert unter Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)."
+        license = "Lizenziert unter Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
         socialTitle = "Folge mir"
-        socialCaption = "Untypischer IT-Spezialist, reise- und sportbegeistert"
+        socialCaption = "Weltentdecker und Eisverkoster, mit einer Landkarte in der einen und einem Löffel in der anderen Hand, bereit, neue Geschmacksrichtungen und neue Horizonte zu entdecken"
 # toml-docs-end lang-param
 
