@@ -27,7 +27,7 @@
     [en.params.footer]
         license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
         socialTitle = "Follow me"
-        socialCaption = "World explorer and ice cream taster, with a map in one hand and a spoon in the other, ready to discover new tastes and new landscapes"
+        socialCaption = "World explorer and ice cream taster, with a map in one hand and a spoon in the other, eager to discover new tastes and new horizons"
 
 [de]
     languageName = "Deutsch"
@@ -43,6 +43,6 @@
     [de.params.footer]
         license = "Lizenziert unter Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
         socialTitle = "Folge mir"
-        socialCaption = "Weltentdecker und Eisverkoster, mit einer Landkarte in der einen und einem Löffel in der anderen Hand, bereit, neue Geschmacksrichtungen und neue Horizonte zu entdecken"
+        socialCaption = "Weltenbummler und Eisliebhaber, mit einer Landkarte in der einen und einem Löffel in der anderen Hand, bereit, neue Geschmacksrichtungen und neue Horizonte zu entdecken"
 # toml-docs-end lang-param
 
