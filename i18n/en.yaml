@@ -159,3 +159,16 @@
 # Draft
 - id: draft
   translation: "Draft"
+
+# Cookie
+
+- id: cookieMessage
+  translation: "This website uses cookies to enhance user experience. By continuing to browse, you agree to our use of cookies and our"
+- id: privacyPolicy
+  translation: "Privacy Policy"
+- id: acceptCookies
+  translation: "Accept"
+- id: rejectCookies
+  translation: "Reject"
+- id: privacyPolicyURL
+  translation: "/privacy-policy/"  

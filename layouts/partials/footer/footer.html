@@ -3,7 +3,8 @@
         <small class="text-secondary">
             {{- $copyright := printf "%s © %s %s All rights reserved." (i18n "copyright") (dateFormat "2006" now) .Site.Title }}
             {{ cond (gt (len .Site.Copyright) 0) .Site.Copyright $copyright }}
-            {{ .Site.Params.footer.license | safeHTML }}
+            {{ .Site.Params.footer.license | safeHTML }} |
+            <a href="{{ i18n "privacyPolicyURL" | relLangURL }}"> {{ i18n "privacyPolicy" }}</a>
         </small>
     </div>
 </footer>

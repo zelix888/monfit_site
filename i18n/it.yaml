@@ -150,3 +150,15 @@
 # Draft
 - id: draft
   translation: "Bozza"
+
+# Cookie
+- id: cookieMessage
+  translation: "Questo sito utilizza cookie per migliorare l'esperienza utente. Continuando a navigare, accetti l'uso dei cookie e la nostra"
+- id: privacyPolicy
+  translation: "Privacy Policy"
+- id: acceptCookies
+  translation: "Accetta"
+- id: rejectCookies
+  translation: "Rifiuta"
+- id: privacyPolicyURL
+  translation: "/informativa-privacy/"

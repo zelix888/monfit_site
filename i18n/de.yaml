@@ -130,3 +130,16 @@
 # Draft
 - id: draft
   translation: "Entwurf"
+
+#Cookie
+
+- id: cookieMessage
+  translation: "Diese Website verwendet Cookies, um die Nutzererfahrung zu verbessern. Durch weiteres Browsen stimmen Sie der Verwendung von Cookies und unserer"
+- id: privacyPolicy
+  translation: "Datenschutzerklärung"
+- id: acceptCookies
+  translation: "Akzeptieren"
+- id: rejectCookies
+  translation: "Ablehnen"
+- id: privacyPolicyURL
+  translation: "/datenschutzerklärung/"  

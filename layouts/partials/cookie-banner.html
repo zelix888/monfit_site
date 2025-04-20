@@ -1,0 +1,9 @@
+<div id="cookie-banner" class="cookie-banner bg-body-tertiary" style="display: none;">
+  <div class="cookie-content">
+    <p>{{ i18n "cookieMessage" | safeHTML }} <a href="{{ i18n "privacyPolicyURL" | relLangURL }}"> {{ i18n "privacyPolicy" }}</a>.</p>
+    <div class="cookie-buttons">
+      <button id="accept-cookies" class="cookie-btn accept">{{ i18n "acceptCookies" }}</button>
+      <button id="reject-cookies" class="cookie-btn reject">{{ i18n "rejectCookies" }}</button>
+    </div>
+  </div>
+</div>

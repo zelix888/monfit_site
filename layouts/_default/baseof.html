@@ -77,8 +77,12 @@
                 {{- partial "footer/footer.html" . -}}
             </div>
         {{ end }}
-
+        
         {{- partial "footer/toast-container.html" . -}}
+        {{ partial "cookie-banner.html" . }}
+
+{{ $cookieJS := resources.Get "js/cookie-banner.js" | minify | fingerprint }}
+<script src="{{ $cookieJS.Permalink }}" integrity="{{ $cookieJS.Data.Integrity }}"></script>
         {{- partialCached "footer/scripts.html" (dict "header" false "page" .) }}
     </body>
 </html>
