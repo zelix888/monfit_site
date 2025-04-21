@@ -84,5 +84,25 @@
 {{ $cookieJS := resources.Get "js/cookie-banner.js" | minify | fingerprint }}
 <script src="{{ $cookieJS.Permalink }}" integrity="{{ $cookieJS.Data.Integrity }}"></script>
         {{- partialCached "footer/scripts.html" (dict "header" false "page" .) }}
+
+        {{ if .IsTranslated }}
+<script>
+  // Applica immediatamente la lingua salvata
+  (function() {
+    const savedLang = localStorage.getItem('userLang');
+    const defaultLang = '{{ site.Language.Lang }}';
+    const currentLang = '{{ .Lang }}';
+    
+    if (savedLang && savedLang !== currentLang) {
+      const langPrefix = savedLang === defaultLang ? '' : `/${savedLang}`;
+      const newPath = `${langPrefix}${window.location.pathname.replace(/^\/[a-z]{2}\//, '/')}`;
+      
+      if (newPath !== window.location.pathname) {
+        window.location.href = newPath;
+      }
+    }
+  })();
+</script>
+{{ end }}
     </body>
 </html>

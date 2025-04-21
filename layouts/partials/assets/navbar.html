@@ -246,28 +246,40 @@
                     {{- end -}}
     
                     <!-- Insert language switcher if applicable -->
-                    {{- if $enableLanguage -}}
-                        {{- $currentLang := $page.Language.Lang -}}
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle d-{{ $size }}-none" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                {{- partial "assets/icon.html" (dict "icon" "fas globe") }} {{ T "languageSwitcherLabel" }}
-                            </a>
-                            <a class="nav-link dropdown-toggle d-none d-{{ $size }}-block" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                {{- partial "assets/icon.html" (dict "icon" "fas globe") }}
-                            </a>
-                            <ul class="dropdown-menu dropdown-menu-end ">
-                                {{- if $page.IsTranslated -}}
-                                    {{- range $page.AllTranslations -}}
-                                        <li><a class="dropdown-item {{ if eq .Language.Lang $currentLang }}active{{ end }}" href="{{ .Permalink }}">{{ .Language.LanguageName  }}</a></li>
-                                    {{- end -}}
-                                {{- else -}}
-                                    {{- range site.Languages -}}
-                                        <li><a class="dropdown-item" href="/{{ .Lang }}">{{ default .Lang .LanguageName }}</a></li>
-                                    {{- end -}}
-                                {{- end -}}
-                            </ul>
-                        </li>
-                    {{- end -}}
+{{- if $enableLanguage -}}
+{{- $currentLang := $page.Language.Lang -}}
+<li class="nav-item dropdown">
+  <a class="nav-link dropdown-toggle d-{{ $size }}-none" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="language-dropdown">
+    {{- partial "assets/icon.html" (dict "icon" "fas globe") }} {{ T "languageSwitcherLabel" }}
+  </a>
+  <a class="nav-link dropdown-toggle d-none d-{{ $size }}-block" href="#!" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    {{- partial "assets/icon.html" (dict "icon" "fas globe") }}
+  </a>
+  <ul class="dropdown-menu dropdown-menu-end" id="language-dropdown-menu">
+    {{- if $page.IsTranslated -}}
+      {{- range $page.AllTranslations -}}
+        <li>
+          <a class="dropdown-item {{ if eq .Language.Lang $currentLang }}active{{ end }}" 
+             href="{{ .Permalink }}" 
+             data-lang="{{ .Language.Lang }}">
+            {{ .Language.LanguageName }}
+          </a>
+        </li>
+      {{- end -}}
+    {{- else -}}
+      {{- range site.Languages -}}
+        <li>
+          <a class="dropdown-item" 
+             href="/{{ .Lang }}" 
+             data-lang="{{ .Lang }}">
+            {{ default .Lang .LanguageName }}
+          </a>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+</li>
+{{- end -}}
                                     
                     <!-- Insert version switcher -->
                     {{- if $enableVersions -}}

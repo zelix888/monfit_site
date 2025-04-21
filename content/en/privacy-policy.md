@@ -2,8 +2,7 @@
 author:
   display_name: Marco Aiolo
 title: "Privacy Policy"
-date: 2023-08-15
-modified: 2023-09-09
+date: 2025-04-25
 showComments: false
 ---
 
