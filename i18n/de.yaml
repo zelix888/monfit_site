@@ -134,7 +134,7 @@
 #Cookie
 
 - id: cookieMessage
-  translation: "Diese Website verwendet Cookies, um die Nutzererfahrung zu verbessern. Durch weiteres Browsen stimmen Sie der Verwendung von Cookies und unserer"
+  translation: "Diese Website verwendet funktionale Cookies, um eine optimale Nutzererfahrung zu gewährleisten. Wir verwenden auch Google-Cookies, um einige Bilder von Google Street View korrekt anzuzeigen. Wenn Sie auf 'Akzeptieren' klicken, erklären Sie sich mit der Verwendung dieser Cookies einverstanden. Weitere Informationen finden Sie in unserer"
 - id: privacyPolicy
   translation: "Datenschutzerklärung"
 - id: acceptCookies
