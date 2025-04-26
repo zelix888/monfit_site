@@ -49,7 +49,19 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 Der **Start** befindet sich auf dem kleinen Parkplatz in *Via Gian Giacomo Francia 1*. Sollte es dort keine Parkplätze geben, kann man alternativ auch in *Via Dante Barbano 10* parken.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Von hier aus geht es weiter in Richtung *Via Dante Barbano* und in das charakteristische historische Zentrum von Cella Monte. Nachdem wir an der Enoteca degli Infernot vorbeigegangen sind, sehen wir auf der rechten Seite die **Kirche der Heiligen Quirico und Giulitta** und das **Ecomuseo della Pietra dei Cantoni**. 
 
@@ -57,21 +69,44 @@ Wir gehen etwa 300 m geradeaus auf der *Via Dante Barbano* weiter, bis wir zu ei
 
 Wir folgen der *Via Cipriano Cei* für weitere 300 m, bis wir rechts einen kleinen Pfad erreichen, der in ein Waldgebiet führt.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Wir begeben uns auf dem Pfad bergab und tauchen in die Waldvegetation ein, die uns zu einem ebenen Gebiet führt.
 
 Wir gehen geradeaus weiter, bis wir einen steilen Abhang erreichen, der an den Rebzeilen entlangführt, und dann bis zur Abzweigung der *Strada Calcinara* und der *Strada Provinciale 37*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Wir biegen nach rechts in die *Strada Provinciale 37* ein, und die umliegende Landschaft inmitten der Hügel des Rosignano Monferrato erstreckt sich vor uns.
 
 Nach etwa 600 m taucht auf der rechten Seite die **Kirche Madonna delle Grazie** auf. 
 
 <figure class="figure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
-" class="figure-img img-fluid rounded">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Kirche Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
@@ -89,7 +124,3 @@ Nachdem wir an ihr vorbeigegangen sind, gehen wir auf der leicht ansteigenden *S
 {{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44" state="enabled" >}}GPX-Datei herunterladen{{< /button >}}
 
 ## Fotos
-
-
-
-

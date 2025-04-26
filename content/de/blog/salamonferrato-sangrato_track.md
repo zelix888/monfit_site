@@ -49,25 +49,85 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 Der **Ausgangspunkt** befindet sich in der Nähe der *Via Roma 26* neben der Trattoria [Antichi Sapori](https://www.tripadvisor.it/Restaurant_Review-g2168026-d2166669-Reviews-Trattoria_Antichi_Sapori-Sala_Monferrato_Province_of_Alessandria_Piedmont.html) und dem Postamt.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Von hier aus gehen wir ca. 75 m geradeaus auf der *Via Roma* weiter und biegen dann links bergab in die *Via Asilo* ein, und lassen die **Kirche San Giacomo** zu unserer Rechten hinter uns.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Wir gehen mindestens 100 m weiter bergab und biegen an der 2. asphaltierten Straße, die wir erreichen, links ab.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Wir folgen der Straße weiter bergab, bis wir zu einer Gabelung kommen, an der wir rechts abbiegen.
 
 Wir bleiben 1 km auf der Straße, bis wir die *Strada Provinciale 35* erreichen und biegen links ab.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Nach etwa 300 m biegen wir links auf die Schotterstraße in Richtung **Cascina Fontanella** ab.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1714311970983!6m8!1m7!1sXBXL2ahgSdT2J39m79dvyw!2m2!1d45.08320675557807!2d8.34695974153549!3f278.7119643609555!4f-7.211498228564281!5f1.5053915700246976" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1714311970983!6m8!1m7!1sXBXL2ahgSdT2J39m79dvyw!2m2!1d45.08320675557807!2d8.34695974153549!3f278.7119643609555!4f-7.211498228564281!5f1.5053915700246976"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
+            <button class="btn-accept-now">Jetzt akzeptieren</button>
+            <p class="small-text mt-4">(Diese Zustimmung wird alle vorherigen Ablehnungen überschreiben)</p>
+        </div>
+    </div>
+</p>
 
 Wir folgen der Hauptstraße über 1 km und biegen an der Gabelung links ab.
 
@@ -91,11 +151,6 @@ Nach dieser kurzen Pause machen wir uns wieder auf den Weg und biegen nach links
 
 <div id="map_salamonferrato_sangrato" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/698b50ad-904d-4004-8c6e-e44803e22b53" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/698b50ad-904d-4004-8c6e-e44803e22b53" state="enabled" >}}GPX-Datei herunterladen{{< /button >}}
 
 ## Fotos
-
-
-
-
-

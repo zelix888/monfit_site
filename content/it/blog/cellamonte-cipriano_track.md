@@ -49,29 +49,64 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 La **Partenza** è situata presso il piccolo parcheggio di *Via Gian Giacomo Francia 1*. In mancanza di posti, come alternativa, si può scendere e parcheggiare in *Via Dante Barbano 10*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Per visualizzare questa mappa, accetta i cookie</p>
+            <button class="btn-accept-now">Accetta ora</button>
+            <p class="small-text mt-4">(Questa accettazione sovrascriverà eventuali precedenti rifiuti)</p>
+        </div>
+    </div>
+</p>
 
-Da qui, proseguendo verso *Via Dante Barbano*,  ci inoltreremo verso il caratteristico centro storico di Cella Monte. Dopo aver superato l'Enoteca degli Infernot, osserviamo sulla destra la **Chiesa dei Santi Quirico e Giulitta** e l'**Ecomuseo della Pietra dei Cantoni**. 
+Da qui, proseguendo verso *Via Dante Barbano*, ci inoltreremo verso il caratteristico centro storico di Cella Monte. Dopo aver superato l'Enoteca degli Infernot, osserviamo sulla destra la **Chiesa dei Santi Quirico e Giulitta** e l'**Ecomuseo della Pietra dei Cantoni**. 
 
 Continuiamo dritto per circa 300 m in *Via Dante Barbano* fino a incontrare una piccola altura su cui è posizionata la piccola **Chiesa di San Quirico**.
 
 Proseguiamo su *Via Cipriano Cei* per altri 300 m fino a quando non raggiungiamo un piccolo sentiero sulla destra che si addentra in un'area boscosa.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Per visualizzare questa mappa, accetta i cookie</p>
+            <button class="btn-accept-now">Accetta ora</button>
+            <p class="small-text mt-4">(Questa accettazione sovrascriverà eventuali precedenti rifiuti)</p>
+        </div>
+    </div>
+</p>
 
 Scendendo lungo il sentiero ci ritroviamo completamente immersi nella vegetazione boschiva che ci conduce verso una zona pianeggiante.
 
-Procediamo dritto fino ad arrivare a una ripida salita che costeggia i filari, per giungere poi all’incrocio tra *Strada Calcinara* e *Strada Provinciale 37*.
+Procediamo dritto fino ad arrivare a una ripida salita che costeggia i filari, per giungere poi all'incrocio tra *Strada Calcinara* e *Strada Provinciale 37*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>Per visualizzare questa mappa, accetta i cookie</p>
+            <button class="btn-accept-now">Accetta ora</button>
+            <p class="small-text mt-4">(Questa accettazione sovrascriverà eventuali precedenti rifiuti)</p>
+        </div>
+    </div>
+</p>
 
 Giriamo a destra sulla *Strada Provinciale 37* e ad attenderci il paesaggio campestre circostante tra le colline del territorio di Rosignano Monferrato.
 
 Dopo circa 600 m farà capolino sulla destra la **Chiesa Madonna delle Grazie**. 
 
 <figure class="figure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
-" class="figure-img img-fluid rounded">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Chiesa Madonna delle Grazie - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
@@ -79,7 +114,7 @@ Dopo averla superata, procediamo sull'omonima *Strada Madonna delle Grazie* legg
 
 <figure class="figure">
   <img src="https://www.comune.rosignanomonferrato.al.it/it-it/immagine/img-45175-O-36-483-0-0-2f764f791fa0cb3dd3fcb881cd848b48" class="figure-img img-fluid rounded">
-  <figcaption class="figure-caption">Panchina Gigante n. 41 “Rosso Grignolino" - <a href="https://www.comune.rosignanomonferrato.al.it/it-it/vivere-il-comune/cosa-vedere/big-bench-panchina-gigante-rosso-grignolino-45175-1-00e5f36d1613cd50ea2e0b7caa0c4128">Comune Rosignano Monferrato</a></figcaption>
+  <figcaption class="figure-caption">Panchina Gigante n. 41 "Rosso Grignolino" - <a href="https://www.comune.rosignanomonferrato.al.it/it-it/vivere-il-comune/cosa-vedere/big-bench-panchina-gigante-rosso-grignolino-45175-1-00e5f36d1613cd50ea2e0b7caa0c4128">Comune Rosignano Monferrato</a></figcaption>
 </figure>
 
 ## Mappa
@@ -89,5 +124,3 @@ Dopo averla superata, procediamo sull'omonima *Strada Madonna delle Grazie* legg
 {{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44" state="enabled" >}}Scarica il file GPX{{< /button >}}
 
 ## Foto
-
-

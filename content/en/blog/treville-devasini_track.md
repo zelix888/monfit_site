@@ -48,15 +48,51 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 The **starting point** is in the small car park in *Via Circonvallazione 1* overlooking the beautiful surrounding hills.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709466295205!6m8!1m7!1sncSib8RAxhrSP3p02tHhYQ!2m2!1d45.0974065740284!2d8.361255602548768!3f344.4798568765143!4f-1.1552234942221276!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1709466295205!6m8!1m7!1sncSib8RAxhrSP3p02tHhYQ!2m2!1d45.0974065740284!2d8.361255602548768!3f344.4798568765143!4f-1.1552234942221276!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 The route continues straight ahead for about 500 metres, past *Piazza Ermanno Devasini*, and then immediately turns left onto the downhill road.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 We proceed along the path for about 1 kilometre and enjoy the natural surroundings until we reach the *Strada Provinciale 32*. 
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 We turn left and follow the *Strada Provinciale 32* for another 600 metres, where the small **San Quirico Church** appears. 
 
@@ -67,7 +103,19 @@ We turn left and follow the *Strada Provinciale 32* for another 600 metres, wher
 
 We keep going straight until we come to a crossroad and turn left.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 We continue along the path until we come to a wide view from which we can see the **Church of Sant'Ambrogio** in the distance. 
 
@@ -75,7 +123,19 @@ We turn right and ascend the main path until we reach *Via Cascinotto*. From her
 
 We walk for 400 metres and then turn left into *Via Roma*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 Shortly afterwards we will catch a glimpse of the **Church of San Giacomo**. 
 
@@ -85,6 +145,6 @@ Leaving the small church on the right, we turn left onto *Via Circonvallazione* 
 
 <div id="map_treville_devasini" class="ratio ratio-16x9 w-100 rounded"></div> </br>
 
-{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/fc451a1e-dfdb-4710-86e2-a4cd8813f5e1" state="enabled" >}}Scarica il file GPX{{< /button >}}
+{{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/fc451a1e-dfdb-4710-86e2-a4cd8813f5e1" state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Photos

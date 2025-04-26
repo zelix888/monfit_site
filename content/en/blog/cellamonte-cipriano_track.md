@@ -48,30 +48,64 @@ photoSource: <a href="https://unsplash.com/photos/TYIzeCiZ_60">Unsplash</a>
 
 The **Start** is located at the small car park in *Via Gian Giacomo Francia 1*. Should there be no parking spaces, as an alternative, you can get down and park at *Via Dante Barbano 10*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
-From here, continuing towards *Via Dante Barbano*, we head towards the characteristic historic centre of Cella Monte. After walking past the
-Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulitta** and the **Ecomuseo della Pietra dei Cantoni** on the right. 
+From here, continuing towards *Via Dante Barbano*, we head towards the characteristic historic centre of Cella Monte. After walking past the Enoteca degli Infernot, we can see the **Church of Saints Quirico and Giulitta** and the **Ecomuseo della Pietra dei Cantoni** on the right. 
 
 We continue straight on for about 300 m along *Via Dante Barbano* until we come to a small hill on which stands the small **Church of Saint Quirico**.
 
 We continue along *Via Cipriano Cei* for another 300 m until we reach a small path on the right which enters a wooded area.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 Descending along the path, we find ourselves completely immersed in the forest vegetation, which leads us to a flat area.
 
 We proceed straight ahead until we reach a steep slope that runs alongside the rows of vines, and then on to the junction between *Strada Calcinara* and *Strada Provinciale 37*.
 
-<p class="text-center"><iframe src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="text-center w-75 rounded"></iframe></p>
+<p class="text-center">
+    <div class="google-maps-placeholder bg-body-tertiary text-center" 
+         data-src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002"
+         data-width="600"
+         data-height="450"
+         style="width:600px;height:450px;">
+        <div class="placeholder-content">
+            <p>To view this map, please accept cookies</p>
+            <button class="btn-accept-now">Accept now</button>
+            <p class="small-text mt-4">(This acceptance will override any previous refusals)</p>
+        </div>
+    </div>
+</p>
 
 We turn right onto *Strada Provinciale 37* and the surrounding countryside amidst the hills of the Rosignano Monferrato area awaits us.
 
 After about 600 m, the **Madonna delle Grazie Church** will peep out on the right.
 
 <figure class="figure">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg
-" class="figure-img img-fluid rounded">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rosignano_S.Maria_delle_Grazie.jpg/1920px-Rosignano_S.Maria_delle_Grazie.jpg" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">Madonna delle Grazie Church - Rosignano Monferrato - <a href="https://it.wikipedia.org/">Wikipedia</a></figcaption>
 </figure>
 
@@ -89,7 +123,3 @@ After walking past it, we proceed along the slightly elevated *Strada Madonna de
 {{< button color="primary" href="https://kdrive.infomaniak.com/app/share/648509/251cdfe6-309e-4ff7-952f-bd3268cb6f44" state="enabled" >}}Download GPX file{{< /button >}}
 
 ## Photos
-
-
-
-
