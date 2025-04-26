@@ -9,4 +9,10 @@
     {{ if gt (len .Site.Languages) 1}}
     <meta name="lang" content="{{ .Site.Language }}">
     {{ end }}
+
+    <!-- Aggiungi GoatCounter qui (solo in produzione) -->
+    {{ if not .Site.IsServer }}
+    <script data-goatcounter="https://671245.goatcounter.com/count"
+            async src="//gc.zgo.at/count.js"></script>
+    {{ end }}
 {{ end }}
