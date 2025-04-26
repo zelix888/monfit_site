@@ -54,10 +54,19 @@ Non si applica ai dati trattati da terze parti.
   Non usiamo cookie di tracciamento. Puoi disattivarli dal browser o cliccando su 'Rifiuta' nel banner, ma alcune funzioni potrebbero non funzionare correttamente (vedi sezione 3.3).  
 
 
-### 3.3 Contenuti di terze parti (Google) 
+### 3.3 Contenuti di terze parti (Google e OpenStreetMaps) 
 
-- **Gestione**: I contenuti di terze parti (es. mappe di Google Street View) si caricano solo dopo il tuo consenso esplicito (banner iniziale).  
-- **Policy terze parti**: Consulta le loro policy per ulteriori informazioni [Google](https://policies.google.com/?hl=it).  
+1. **Google Street View**  
+
+- Si carica solo dopo il tuo consenso esplicito (banner iniziale).  
+- Policy: [Privacy Policy di Google](https://policies.google.com/?hl=it).  
+
+2. **OpenStreetMap (OSM)**  
+
+- Utilizziamo mappe di OpenStreetMap per visualizzare percorsi e punti d'interesse.  
+- OSM raccoglie l'**indirizzo IP** dell'utente temporaneamente per fornire i tile delle mappe (tile.openstreetmap.org).  
+- Non usiamo cookie o tracciamento aggiuntivo.  
+- Policy: [OpenStreetMap Privacy Policy](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
 
 ---
 

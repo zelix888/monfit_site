@@ -53,10 +53,19 @@ Sie gilt nicht für Daten, die von Dritten verarbeitet werden.
 
   Wir verwenden keine Tracking-Cookies. Deaktivierung ist im Browser oder via Banner („Ablehnen“) möglich, aber einige Funktionen können eingeschränkt sein (siehe Abschnitt 3.3).  
 
-### 3.3 Inhalte Dritter (Google)  
+### 3.3 Inhalte von Drittanbietern (Google und OpenStreetMaps)  
 
-- **Verwaltung**: Inhalte Dritter (z.B. Google Street View) laden nur nach expliziter Zustimmung (Banner).  
-- **Richtlinien Dritter**: Details finden Sie hier [Google](https://policies.google.com/?hl=de).  
+1. **Google Street View**  
+
+- Wird nur nach Ihrer ausdrücklichen Zustimmung (Anfangs-Banner) geladen.  
+- Richtlinie: [Google Datenschutzerklärung](https://policies.google.com/?hl=de).  
+
+2. **OpenStreetMap (OSM)**  
+
+- Wir nutzen OpenStreetMap-Karten zur Anzeige von Routen und Points of Interest.  
+- OSM erfasst vorübergehend die **IP-Adresse** des Nutzers, um Kartentiles bereitzustellen (tile.openstreetmap.org).  
+- Wir verwenden keine Cookies oder zusätzliches Tracking.  
+- Richtlinie: [OpenStreetMap Datenschutzerklärung](https://wiki.osmfoundation.org/wiki/Privacy_Policy).    
 
 ---  
 

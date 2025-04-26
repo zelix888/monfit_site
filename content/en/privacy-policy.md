@@ -51,10 +51,19 @@ It does not apply to data processed by third parties.
 
   We do not use tracking cookies. You can disable them via browser settings or by clicking 'Reject' in the banner, but some features may not work (see Section 3.3).  
 
-### 3.3 Third-Party Content (Google)  
+### 3.3 Third-party content (Google and OpenStreetMaps)  
 
-- **Management**: Third-party content (e.g., Google Street View) loads only after explicit consent (initial banner).  
-- **Third-party policies**: See their policies for details [Google](https://policies.google.com/?hl=en).  
+1. **Google Street View**  
+
+- Loads only after your explicit consent (initial banner).  
+- Policy: [Google Privacy Policy](https://policies.google.com/?hl=en).  
+
+2. **OpenStreetMap (OSM)**  
+
+- We use OpenStreetMap maps to display routes and points of interest.  
+- OSM temporarily collects the user's **IP address** to provide map tiles (tile.openstreetmap.org).  
+- We do not use cookies or additional tracking.  
+- Policy: [OpenStreetMap Privacy Policy](https://wiki.osmfoundation.org/wiki/Privacy_Policy).  
 
 ---  
 

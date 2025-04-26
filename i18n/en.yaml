@@ -163,7 +163,7 @@
 # Cookie
 
 - id: cookieMessage
-  translation: "This site uses functional cookies to ensure an optimal browsing experience. We also use Google cookies to correctly display some Google Street View images. By clicking 'Accept', you consent to the use of these cookies. For more information, please see our"
+  translation: "This website uses functional cookies to ensure an optimal browsing experience. We also use Google cookies to correctly display some Google Street View images and OpenStreetMap maps. By clicking 'Accept', you consent to the use of these cookies. For more information, please see our"
 - id: privacyPolicy
   translation: "Privacy Policy"
 - id: acceptCookies

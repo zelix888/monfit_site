@@ -153,7 +153,7 @@
 
 # Cookie
 - id: cookieMessage
-  translation: "Questo sito utilizza cookie funzionali per garantire un'esperienza di navigazione ottimale. Utilizziamo anche cookie di Google per visualizzare correttamente alcune immagini di Google Street View. Cliccando su 'Accetta', acconsenti all'uso di questi cookie. Per maggiori informazioni, consulta la nostra"
+  translation: "Questo sito utilizza cookie funzionali per garantire un'esperienza di navigazione ottimale. Utilizziamo anche cookie di Google per visualizzare correttamente alcune immagini di Google Street View e mappe di OpenStreetMap. Cliccando su 'Accetta', acconsenti all'uso di questi cookie. Per maggiori informazioni, consulta la nostra"
 - id: privacyPolicy
   translation: "Privacy Policy"
 - id: acceptCookies
