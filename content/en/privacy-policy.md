@@ -6,30 +6,113 @@ date: 2025-04-25
 showComments: false
 ---
 
-## Privacy Policy
+## 1. Introduction  
 
-### 1. Introduction
-Welcome to our privacy policy. This page describes how we collect, use and protect your personal information.
+Monfit ("the Controller") processes your personal data in compliance with the GDPR (EU 2016/679) and the Italian Privacy Code (Legislative Decree 196/2003).  
 
-### 2. Collected Data
-We collect the following types of data:
-- Navigation data (technical cookies)
-- Voluntarily provided data (contact forms)
-- Aggregated analytics data
+This policy:  
 
-### 3. Cookie Usage
-We use cookies to:
-- Ensure proper website functionality
-- Analyze traffic anonymously
-- Improve user experience
+✅ Explains what data we collect via [Monfit](https://www.monfit.com)  
+✅ Outlines how we use and protect it  
+✅ Describes your rights  
 
-### 4. User Rights
-According to GDPR, you have the right to:
-- Access your data
-- Rectification
-- Erasure
-- Data portability
+*Browsing is free and does not require personal data, except for optional services (e.g., contact via social media). For data processed by third parties (e.g., social media, Google), refer to their policies.*  
 
-### 5. Contact
-To exercise your rights or for questions:
-Email: privacy@{{ .Site.Params.domain }}
+---  
+
+## 2. Scope  
+
+This policy applies to data collected through:  
+- The website [www.monfit.com](https://www.monfit.com);  
+- Direct interactions via email or private messages on social media.  
+
+It does not apply to data processed by third parties.  
+
+---  
+
+## 3. Types of Data Processed  
+
+### 3.1 Voluntarily Provided Data (Contact Form)  
+
+| Category | Legal Basis | Purpose | Retention |  
+|-----------|----------------|----------|--------------|  
+| Email, social media messages | Art. 6(1)(b) GDPR (fulfilling requests) | Responding to inquiries | 24 months (legitimate interest for disputes) |  
+{.table .table-striped}  
+
+**Example**: If you email us, we will only use your address to reply. You can request deletion anytime by emailing (privacy@monfit.com).  
+
+### 3.2 Automatic Data (Cookies & Logs)  
+
+1. **Server logs**: Anonymous access records (anonymized IP) for security and statistics. Retained for 7 days.  
+
+2. **Functional cookies**:  
+  * `theme`: Saves light/dark mode preference (no expiration).  
+  * `userLang`: Saves language preference (no expiration).  
+
+  We do not use tracking cookies. You can disable them via browser settings or by clicking 'Reject' in the banner, but some features may not work (see Section 3.3).  
+
+### 3.3 Third-Party Content (Google)  
+
+- **Management**: Third-party content (e.g., Google Street View) loads only after explicit consent (initial banner).  
+- **Third-party policies**: See their policies for details [Google](https://policies.google.com/?hl=en).  
+
+---  
+
+## 4. Processing Methods  
+
+Data is managed via:  
+- Dedicated databases  
+- Electronic/paper records  
+- Automated systems with security measures (antivirus, firewalls).  
+
+---  
+
+## 5. Authorized Parties & Transfers  
+
+### 5.1 Data Recipients  
+- **Internal**: Authorized staff  
+- **External**:  
+  - Hosting provider (Infomaniak, based in Switzerland)  
+  - Analytics (GoatCounter)  
+
+### 5.2 External Recipient Details  
+
+#### 5.2.1 Infomaniak  
+**Infomaniak.com** is a platform enabling the 'Controller' to create, manage, and host this website.  
+
+**Processed Data:** Categories as per the service’s privacy policy.  
+**Processing Location:** Switzerland – [Privacy Policy](https://www.infomaniak.com/en/legal/confidentiality-policy).  
+
+#### 5.2.2 GoatCounter  
+For statistics, we use **GoatCounter**, a privacy-focused web analytics tool. It collects no personal data, uses no cookies, and relies on no external services.  
+Learn more: [GoatCounter](https://www.goatcounter.com).  
+
+---  
+
+## 6. Your Rights  
+
+You may:  
+- Access your data and request processing details  
+- Request deletion or correction  
+- Object to processing for legitimate reasons  
+
+Contact us via email to exercise these rights. We respond within 30 days.  
+
+---  
+
+## 7. Minors  
+
+The site does not intentionally collect minors' data.  
+If you’re a parent/guardian and believe a minor submitted data without consent:  
+
+✉️ Email [privacy@monfit.com](mailto:privacy@monfit.com) for immediate removal.  
+
+---  
+
+## 8. Consent & Third-Party Content  
+
+- **Basic browsing** requires no consent (functional cookies/logs are essential).  
+- **Third-party content** (e.g., Google) requires explicit consent (initial banner).  
+- Revoke cookie consent anytime via browser settings.  
+
+*Questions? Email info@monfit.com*  
