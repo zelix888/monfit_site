@@ -2,82 +2,67 @@ document.addEventListener('DOMContentLoaded', function() {
   const cookieBanner = document.getElementById('cookie-banner');
   const acceptBtn = document.getElementById('accept-cookies');
   const rejectBtn = document.getElementById('reject-cookies');
-  const resetBtn = document.getElementById('reset-consent'); // Aggiungi questo pulsante nel tuo HTML
-
-  // Funzione perfezionata per impostare cookie persistenti
-  function setCookie(name, value, days = 365) {
-    const date = new Date();
-    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-    let cookie = `${name}=${value}; expires=${date.toUTCString()}; path=/; SameSite=Lax`;
-    
-    // Aggiungi Secure se in HTTPS (obbligatorio per SameSite=None)
-    if (window.location.protocol === 'https:' && window.location.hostname !== 'localhost') {
-      cookie += '; Secure';
-    }
-    document.cookie = cookie;
-  }
-
-  // Funzione ottimizzata per leggere i cookie
-  function getCookie(name) {
-    return document.cookie
-      .split('; ')
-      .find(row => row.startsWith(`${name}=`))
-      ?.split('=')[1];
-  }
 
   // Controlla lo stato del consenso
-  function checkConsent() {
-    const consent = getCookie('cookieConsent');
-    const expiry = getCookie('cookieConsentExpiry');
+  const hasAccepted = document.cookie.includes('googleMapsConsent=accepted');
+  const hasRejected = document.cookie.includes('googleMapsConsent=rejected');
 
-    // Elimina cookie scaduti
-    if (expiry && new Date(expiry) < new Date()) {
-      document.cookie = "cookieConsent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-      document.cookie = "cookieConsentExpiry=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-      return false;
+  // Mostra il banner solo se non c'è ancora nessuna scelta
+  if (!hasAccepted && !hasRejected) {
+    cookieBanner.style.display = 'block';
+  } else if (hasAccepted) {
+    loadAllGoogleMaps();
+  }
+
+  // Gestione click su "Accetta"
+  acceptBtn.addEventListener('click', function() {
+    document.cookie = "googleMapsConsent=accepted; max-age=2592000; path=/; SameSite=Lax";
+    document.cookie = "cookieChoiceMade=true; max-age=2592000; path=/; SameSite=Lax";
+    cookieBanner.style.display = 'none';
+    loadAllGoogleMaps();
+  });
+
+  // Gestione click su "Rifiuta" (MODIFICATO)
+  rejectBtn.addEventListener('click', function() {
+    document.cookie = "googleMapsConsent=rejected; max-age=2592000; path=/; SameSite=Lax";
+    document.cookie = "cookieChoiceMade=true; max-age=2592000; path=/; SameSite=Lax";
+    cookieBanner.style.display = 'none';
+  });
+
+  document.addEventListener('click', function(e) {
+    if (e.target.classList.contains('btn-accept-now')) {
+        // Sovrascrive il rifiuto precedente
+        document.cookie = "googleMapsConsent=accepted; max-age=2592000; path=/; SameSite=Lax";
+        document.cookie = "cookieChoiceDismissed=; max-age=0; path=/"; // Rimuove il flag
+        
+        // Ricarica la pagina per applicare i cambiamenti
+        location.reload();
     }
-    return consent;
-  }
-
-  // Mostra/nascondi banner in base al consenso
-  if (!checkConsent()) {
-    cookieBanner.style.display = 'block';
-  } else if (getCookie('cookieConsent') === 'accepted') {
-    loadTrackingScripts();
-  }
-
-  // Gestione eventi
-  acceptBtn.addEventListener('click', () => {
-    const expiryDate = new Date();
-    expiryDate.setFullYear(expiryDate.getFullYear() + 1);
-    
-    setCookie('cookieConsent', 'accepted');
-    setCookie('cookieConsentExpiry', expiryDate.toISOString());
-    cookieBanner.style.display = 'none';
-    loadTrackingScripts();
-  });
-
-  rejectBtn.addEventListener('click', () => {
-    setCookie('cookieConsent', 'rejected');
-    cookieBanner.style.display = 'none';
-  });
-
-  // Opzionale: Pulsante reset consenso
-  resetBtn?.addEventListener('click', () => {
-    document.cookie = "cookieConsent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-    document.cookie = "cookieConsentExpiry=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-    cookieBanner.style.display = 'block';
-  });
 });
 
-// Caricamento condizionale degli script
-function loadTrackingScripts() {
-  if (getCookie('cookieConsent') === 'accepted') {
-    console.log('Caricamento script tracciamento...');
-    // Esempio Google Analytics:
-    // window.dataLayer = window.dataLayer || [];
-    // function gtag(){dataLayer.push(arguments);}
-    // gtag('js', new Date());
-    // gtag('config', 'GA_MEASUREMENT_ID');
+  // Carica tutti gli iframe Google Maps
+  function loadAllGoogleMaps() {
+    document.querySelectorAll('.google-maps-placeholder').forEach(placeholder => {
+      // Crea un wrapper per mantenere l'allineamento
+      const wrapper = document.createElement('p');
+      wrapper.className = 'text-center';
+      
+      // Crea l'iframe con tutti gli attributi
+      const iframe = document.createElement('iframe');
+      iframe.src = placeholder.dataset.src;
+      iframe.width = placeholder.dataset.width;
+      iframe.height = placeholder.dataset.height;
+      iframe.style.border = '0';
+      iframe.loading = 'lazy';
+      iframe.referrerPolicy = 'no-referrer-when-downgrade';
+      iframe.className = 'w-75 rounded';
+      iframe.allowFullscreen = true;
+      
+      // Inserisci iframe nel wrapper
+      wrapper.appendChild(iframe);
+      
+      // Sostituisci il placeholder con il wrapper+iframe
+      placeholder.replaceWith(wrapper);
+    });
   }
-}
+});
