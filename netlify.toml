@@ -24,11 +24,12 @@
         X-XSS-Protection = "1; mode=block"
         Content-Security-Policy = """\
             default-src 'self'; \
+            child-src 'self' app.netlify.com; \
             script-src 'self' \
                 https://*.netlify.app app.netlify.com netlify-cdp-loader.netlify.app \
                 https://utteranc.es/client.js https://cdnjs.cloudflare.com/ \
                 https://gc.zgo.at http://gc.zgo.at https://671245.goatcounter.com; \
-            style-src 'self' 'unsafe-inline' \
+            style-src 'self' \
                 https://*.netlify.app https://utteranc.es https://fonts.googleapis.com \
                 https://www.youtube.com https://raw.githubusercontent.com \
                 https://tile.openstreetmap.org https://www.google.com https://gc.zgo.at; \
@@ -40,7 +41,8 @@
             frame-src 'self' https://utteranc.es https://www.youtube.com https://www.youtube-nocookie.com https://www.google.com; \
             object-src 'none'; \
             base-uri 'self'; \
-            manifest-src 'self' \
+            manifest-src 'self' ; \
+            media-src 'self' ; \
             """
         X-Frame-Options = "SAMEORIGIN"
         Referrer-Policy = "strict-origin"

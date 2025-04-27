@@ -13,7 +13,7 @@
 {{- end -}}
 
 <!doctype html>
-<html lang="{{ .Site.Language.Lang }}" class="no-js">
+<html lang="{{ .Site.Language.Lang }}" class="no-js" data-current-lang="{{ .Lang }}">
     <head>
         {{ block "head" . }}{{ end -}}
     </head>
@@ -86,23 +86,8 @@
         {{- partialCached "footer/scripts.html" (dict "header" false "page" .) }}
 
         {{ if .IsTranslated }}
-<script>
-  // Applica immediatamente la lingua salvata
-  (function() {
-    const savedLang = localStorage.getItem('userLang');
-    const defaultLang = '{{ site.Language.Lang }}';
-    const currentLang = '{{ .Lang }}';
-    
-    if (savedLang && savedLang !== currentLang) {
-      const langPrefix = savedLang === defaultLang ? '' : `/${savedLang}`;
-      const newPath = `${langPrefix}${window.location.pathname.replace(/^\/[a-z]{2}\//, '/')}`;
-      
-      if (newPath !== window.location.pathname) {
-        window.location.href = newPath;
-      }
-    }
-  })();
-</script>
-{{ end }}
+        {{ $langJS := resources.Get "js/language-switcher.js" | minify | fingerprint }}
+        <script src="{{ $langJS.Permalink }}" integrity="{{ $langJS.Data.Integrity }}" defer></script>
+      {{ end }}
     </body>
 </html>
