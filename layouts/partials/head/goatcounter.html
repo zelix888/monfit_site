@@ -1,0 +1,10 @@
+{{ if not .Site.IsServer }}
+<script>
+  window.goatcounter = {
+    endpoint: 'https://671245.goatcounter.com/count',
+    allow_local: false
+  }
+</script>
+<script src="{{ (resources.Get "js/goatcounter.js" | minify).Permalink }}"
+        defer></script>
+{{ end }}
