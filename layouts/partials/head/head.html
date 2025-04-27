@@ -9,7 +9,14 @@
     {{ if gt (len .Site.Languages) 1}}
     <meta name="lang" content="{{ .Site.Language }}">
     {{ end }}
-    <!-- GoatCounter (sempre attivo) -->
-<script data-goatcounter="https://671245.goatcounter.com/count"
-async src="https://gc.zgo.at/count.js"></script>
+   <!-- GoatCounter con hash -->
+   {{ if not .Site.IsServer }}
+   <script>
+   // Questo hash autorizza il seguente script
+   window.goatcounter = { path: function(p) { return p } }
+   </script>
+   <script data-goatcounter="https://671245.goatcounter.com/count"
+           src="https://gc.zgo.at/count.js"
+           async></script>
+   {{ end }}
 {{ end }}

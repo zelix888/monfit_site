@@ -7,12 +7,12 @@ for = '/**'
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = """\
         default-src 'self'; \
-        script-src 'self' 'unsafe-inline' \
+        script-src 'self' 'sha256-iKYT88mC/sPJ1NNY+hT0Qi/8Esurz3uryOozAZ+VEBA=' 'script-dynamic' \
             https://utteranc.es/client.js \
             https://cdnjs.cloudflare.com/ \
             https://gc.zgo.at \
             http://gc.zgo.at \
-            https://671245.goatcounter.com; \
+            https://671245.goatcounter.com ; \
         style-src 'self' 'unsafe-inline' \
             https://utteranc.es \
             https://fonts.googleapis.com \
