@@ -7,7 +7,7 @@ for = '/**'
     X-XSS-Protection = "1; mode=block"
     Content-Security-Policy = """\
         default-src 'self'; \
-        script-src 'self' 'sha256-iKYT88mC/sPJ1NNY+hT0Qi/8Esurz3uryOozAZ+VEBA=' 'script-dynamic' \
+        script-src 'self' 'unsafe-inline' \
             https://utteranc.es/client.js \
             https://cdnjs.cloudflare.com/ \
             https://gc.zgo.at \
