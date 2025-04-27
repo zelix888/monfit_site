@@ -10,9 +10,7 @@
     <meta name="lang" content="{{ .Site.Language }}">
     {{ end }}
    <!-- GoatCounter con hash -->
-    {{ if not .Site.IsServer }}
-    <script data-goatcounter="https://671245.goatcounter.com/count"
-            src="https://gc.zgo.at/count.js"
-            async></script>
-    {{ end }}
+   {{ if not .Site.IsServer }}
+   <script data-goatcounter="https://671245.goatcounter.com/count" src="{{ "js/goatcounter.js" | relURL }}" async></script>
+   {{ end }}
 {{ end }}

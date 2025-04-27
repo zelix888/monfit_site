@@ -25,7 +25,7 @@
         Content-Security-Policy = """\
             default-src 'self'; \
             child-src 'self' app.netlify.com; \
-            script-src 'self' 'unsafe-inline' \
+            script-src 'self' \
                 https://*.netlify.app app.netlify.com netlify-cdp-loader.netlify.app \
                 https://utteranc.es/client.js https://cdnjs.cloudflare.com/ \
                 https://gc.zgo.at http://gc.zgo.at https://671245.goatcounter.com; \
