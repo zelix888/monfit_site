@@ -53,8 +53,7 @@ La **Partenza** è situata in prossimità di *Via Roma 26* accanto alla trattori
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Per visualizzare questa mappa, accetta i cookie</p>
             <button class="btn-accept-now">Accetta ora</button>
@@ -69,8 +68,7 @@ Da qui, continuiamo dritto lungo *Via Roma* per circa 75 m e svoltiamo a sinistr
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Per visualizzare questa mappa, accetta i cookie</p>
             <button class="btn-accept-now">Accetta ora</button>
@@ -85,8 +83,7 @@ Continuiamo scendendo lungo la via per almeno 100 m e giriamo a sinistra alla 2a
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Per visualizzare questa mappa, accetta i cookie</p>
             <button class="btn-accept-now">Accetta ora</button>
@@ -103,8 +100,7 @@ Percorriamo 1 Km fino ad arrivare sulla *Strada Provinciale 35* e giriamo a sini
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Per visualizzare questa mappa, accetta i cookie</p>
             <button class="btn-accept-now">Accetta ora</button>
@@ -119,8 +115,7 @@ Dopo circa 300 m, girare a sinistra verso la strada inghiaiata con direzione **C
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714311970983!6m8!1m7!1sXBXL2ahgSdT2J39m79dvyw!2m2!1d45.08320675557807!2d8.34695974153549!3f278.7119643609555!4f-7.211498228564281!5f1.5053915700246976"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Per visualizzare questa mappa, accetta i cookie</p>
             <button class="btn-accept-now">Accetta ora</button>

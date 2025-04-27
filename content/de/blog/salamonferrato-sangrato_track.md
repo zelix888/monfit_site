@@ -53,8 +53,7 @@ Der **Ausgangspunkt** befindet sich in der Nähe der *Via Roma 26* neben der Tra
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714288216147!6m8!1m7!1sCKS0xQJEZkqKCs0tKUy49g!2m2!1d45.07476736275538!2d8.358616598778124!3f307.50681207316546!4f-1.2113427594599955!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
             <button class="btn-accept-now">Jetzt akzeptieren</button>
@@ -69,8 +68,7 @@ Von hier aus gehen wir ca. 75 m geradeaus auf der *Via Roma* weiter und biegen d
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714308957874!6m8!1m7!1sURWQwuM7YueYKEGa3O81Og!2m2!1d45.07547053861458!2d8.35793742934801!3f246.54618214523182!4f-9.347784602715592!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
             <button class="btn-accept-now">Jetzt akzeptieren</button>
@@ -85,8 +83,7 @@ Wir gehen mindestens 100 m weiter bergab und biegen an der 2. asphaltierten Stra
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714309099768!6m8!1m7!1sE-Rs2sNkfZAqTSnto0dXSg!2m2!1d45.07552551074179!2d8.356810069902096!3f313.4216257443084!4f-7.47073503690757!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
             <button class="btn-accept-now">Jetzt akzeptieren</button>
@@ -103,8 +100,7 @@ Wir bleiben 1 km auf der Straße, bis wir die *Strada Provinciale 35* erreichen 
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714309613337!6m8!1m7!1sg-7D6O3nU1pdoLGzU7NV8Q!2m2!1d45.08217446190287!2d8.3502061649697!3f267.61613499872027!4f3.733370651030782!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
             <button class="btn-accept-now">Jetzt akzeptieren</button>
@@ -119,8 +115,7 @@ Nach etwa 300 m biegen wir links auf die Schotterstraße in Richtung **Cascina F
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1714311970983!6m8!1m7!1sXBXL2ahgSdT2J39m79dvyw!2m2!1d45.08320675557807!2d8.34695974153549!3f278.7119643609555!4f-7.211498228564281!5f1.5053915700246976"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>Um diese Karte anzuzeigen, akzeptieren Sie bitte Cookies</p>
             <button class="btn-accept-now">Jetzt akzeptieren</button>

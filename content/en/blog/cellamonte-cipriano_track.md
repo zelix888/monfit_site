@@ -52,8 +52,7 @@ The **Start** is located at the small car park in *Via Gian Giacomo Francia 1*. 
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1698842932330!6m8!1m7!1sdzQKTot5RmrQwh76gtBi_w!2m2!1d45.07463208458687!2d8.391894109934423!3f334.52968817396345!4f1.396576694714014!5f1.52841521987171"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
@@ -72,8 +71,7 @@ We continue along *Via Cipriano Cei* for another 300 m until we reach a small pa
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1698859155814!6m8!1m7!1s1uzxGKgzXUikJxV6zACyjQ!2m2!1d45.07962149898847!2d8.386153957073663!3f353.1223181010367!4f-1.6720128634095914!5f1.5480664474403407"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
@@ -90,8 +88,7 @@ We proceed straight ahead until we reach a steep slope that runs alongside the r
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1698860274397!6m8!1m7!1sTMrI92M_a8Ili_x-fH0Y3A!2m2!1d45.08845487454641!2d8.388872419549159!3f153.08842724469088!4f-0.21992496389938765!5f0.4000000000000002"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>

@@ -52,8 +52,7 @@ The **starting point** is in the small car park in *Via Circonvallazione 1* over
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1709466295205!6m8!1m7!1sncSib8RAxhrSP3p02tHhYQ!2m2!1d45.0974065740284!2d8.361255602548768!3f344.4798568765143!4f-1.1552234942221276!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
@@ -68,8 +67,7 @@ The route continues straight ahead for about 500 metres, past *Piazza Ermanno De
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1709467347959!6m8!1m7!1sqFFkICzFlJ98TvRSz6MG1g!2m2!1d45.09723361552808!2d8.361387129169414!3f110.00458285432906!4f-10.718181725388291!5f0.5491784560640796"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
@@ -84,8 +82,7 @@ We proceed along the path for about 1 kilometre and enjoy the natural surroundin
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1709467829034!6m8!1m7!1sgAkyigHSBOaEUCPKVW51Sw!2m2!1d45.10334345978892!2d8.359153778941298!3f256.2416976847931!4f-0.1442684900255813!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
@@ -107,8 +104,7 @@ We keep going straight until we come to a crossroad and turn left.
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1709470776348!6m8!1m7!1suSCR2dU8Dvc8NTgQPiG3zA!2m2!1d45.10354041013946!2d8.351162585483003!3f235.12892412952343!4f-10.902282035941184!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
@@ -127,8 +123,7 @@ We walk for 400 metres and then turn left into *Via Roma*.
     <div class="google-maps-placeholder bg-body-tertiary text-center" 
          data-src="https://www.google.com/maps/embed?pb=!4v1709475008923!6m8!1m7!1s-Uzru-nn-CcSYYuqNUNeDQ!2m2!1d45.0971544001119!2d8.358187456311079!3f90.1369869325301!4f-2.5899476705547784!5f0.7820865974627469"
          data-width="600"
-         data-height="450"
-         style="width:600px;height:450px;">
+         data-height="450">
         <div class="placeholder-content">
             <p>To view this map, please accept cookies</p>
             <button class="btn-accept-now">Accept now</button>
