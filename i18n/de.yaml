@@ -70,7 +70,7 @@
 
 # 404 page
 - id: pageNotFound
-  translation: "Diese Seite existiert nicht. Versuche es über die"
+  translation: "Diese Seite existiert nicht"
 - id: pageNotFoundTitle
   translation: "Nicht gefunden"
 - id: pageNotFoundHome
@@ -131,7 +131,7 @@
 - id: draft
   translation: "Entwurf"
 
-#Cookie
+# Cookie
 
 - id: cookieMessage
   translation: "Diese Website verwendet funktionale Cookies, um ein optimales Surf-Erlebnis zu gewährleisten. Wir verwenden auch Google-Cookies, um einige Google Street View-Bilder und OpenStreetMap-Karten korrekt anzuzeigen. Wenn Sie auf 'Akzeptieren' klicken, erklären Sie sich mit der Verwendung dieser Cookies einverstanden. Weitere Informationen finden Sie in unserer"
@@ -143,3 +143,4 @@
   translation: "Ablehnen"
 - id: privacyPolicyURL
   translation: "/datenschutzerklärung/"  
+
