@@ -1,0 +1,173 @@
+# Content
+- id: about
+  translation: "Acerca de"
+- id: postedOnDate
+  translation: "Publicado el {{ . }}"
+- id: lastModified
+  translation: "Última modificación el {{ . }}"
+- id: createdby
+  translation: "Creado por {{ . }} "
+- id: translationsLabel
+  translation: "Otros idiomas: "
+- id: translationsSeparator
+  translation: ", "
+- id: more
+  translation: "Más {{ . }}"
+- id: readMore
+  translation: "Leer más"
+- id: moreBlog
+  translation: "Más publicaciones"
+- id: olderBlog
+  translation: "Publicaciones anteriores"
+- id: recentBlog
+  translation: "Publicaciones recientes"
+- id: newerBlog
+  translation: "Publicaciones más recientes"
+- id: previousBlog
+  translation: "Publicación anterior"
+- id: nextBlog
+  translation: "Siguiente publicación"
+- id: recentProjects
+  translation: "Proyectos"
+- id: moreFeatures
+  translation: "Más características"
+- id: moreGuides
+  translation: "Más guías"
+- id: moreOpensource
+  translation: "Más características"
+- id: moreProjects
+  translation: "Más proyectos"
+- id: moreUsers
+  translation: "Más usuarios"
+- id: read
+  translation: "leer"
+- id: minutesShort
+  translation: "min"
+- id: words
+  translation: "palabras"
+- id: copyright
+  translation: "Copyright"
+- id: photoBy
+  translation: "Foto por"
+- id: photoOn
+  translation: "en"
+- id: article
+  translation: "Artículo"
+- id: articles
+  translation: "Artículos"
+- id: paginationNav
+  translation: "Navegación de página"
+- id: paginationPrevious
+  translation: "Página anterior"
+- id: paginationNext
+  translation: "Página siguiente"
+- id: paginationFirst
+  translation: "Primera página"
+- id: paginationLast
+  translation: "Última página"
+- id: toggleSidebar
+  translation: "Alternar navegación de la barra lateral"
+- id: colorMode
+  translation: "Cambiar tema"
+- id: colorLight
+  translation: "Claro"
+- id: colorDark
+  translation: "Oscuro"
+- id: colorAuto
+  translation: "Automático"
+- id: toggleMainNav
+  translation: "Alternar navegación principal"
+- id: demo
+  translation: "Demostración"
+- id: addedFeature
+  translation: "Añadido en"
+- id: deprecatedFeature
+  translation: "Obsoleto en"
+- id: shareLink
+  translation: "Compartir via"
+- id: copiedToClipboard
+  translation: "copiado al portapapeles"
+- id: link
+  translation: "Enlace"
+- id: code
+  translation: "Código"
+- id: latest
+  translation: "último"
+- id: allVersions
+  translation: "Todas las versiones"
+- id: newerVersionAlert
+  translation: "¡Hay una versión más nueva de {{ . }}!"
+
+# 404 page
+- id: pageNotFound
+  translation: "La página que buscas no existe o ha ocurrido otro error. Intenta volver a nuestra"
+- id: pageNotFoundTitle
+  translation: "Página no encontrada"
+- id: pageNotFoundHome
+  translation: "página de inicio"
+
+# Navigation
+- id: toggleNavigation
+  translation: "Alternar navegación"
+- id: languageSwitcherLabel
+  translation: "Idioma"
+- id: gcseLabelShort
+  translation: "Buscar"
+- id: gcseLabelLong
+  translation: "Buscar en {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Cerrar"
+- id: home
+  translation: "Inicio"
+
+# Staticman
+- id: noComment
+  translation: "Sin comentarios"
+- id: oneComment
+  translation: "comentario"
+- id: moreComment
+  translation: "comentarios"
+- id: useMarkdown
+  translation: "Puedes usar sintaxis Markdown"
+- id: yourName
+  translation: "Tu nombre"
+- id: yourEmail
+  translation: "Tu dirección de correo"
+- id: yourWebsite
+  translation: "Tu sitio web"
+
+# Delayed Disqus
+- id: show
+  translation: "Mostrar"
+- id: comments
+  translation: "comentarios" 
+
+# Related posts
+- id: seeAlso
+  translation: "Ver también"
+
+# Table of contents
+- id: toc
+  translation: "En esta página"
+
+# Search
+- id: ui_search
+  translation: "Buscar en este sitio..."
+- id: ui_no_results
+  translation: "No hay resultados para"
+
+# Draft
+- id: draft
+  translation: "Borrador"
+
+# Cookie
+- id: cookieMessage
+  translation: "Este sitio web utiliza cookies funcionales para garantizar una experiencia óptima de navegación. También utilizamos cookies de Google para mostrar correctamente algunas imágenes de Google Street View y mapas de OpenStreetMap. Al hacer clic en 'Aceptar', das tu consentimiento para el uso de estas cookies. Para más información, consulta nuestra"
+- id: privacyPolicy
+  translation: "Política de Privacidad"
+- id: acceptCookies
+  translation: "Aceptar"
+- id: rejectCookies
+  translation: "Rechazar"
+- id: privacyPolicyURL
+  translation: "/politica-de-privacidad/"

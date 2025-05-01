@@ -70,7 +70,7 @@
 
 # 404 page
 - id: pageNotFound
-  translation: "Diese Seite existiert nicht"
+  translation: "Diese Seite existiert nicht. Versuche es über die"
 - id: pageNotFoundTitle
   translation: "Nicht gefunden"
 - id: pageNotFoundHome
