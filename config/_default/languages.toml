@@ -44,5 +44,21 @@
         license = "Lizenziert unter Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
         socialTitle = "Folge mir"
         socialCaption = "Weltenbummler und Eisliebhaber, mit einer Landkarte in der einen und einem Löffel in der anderen Hand, bereit, neue Geschmacksrichtungen und neue Horizonte zu entdecken"
+
+[es]
+    languageName = "Español"
+    contentDir = "content/es"
+    weight = 4
+# toml-docs-end lang-main
+# toml-docs-start lang-param
+    [es.params.head]
+        tagline = "Descubrir caminando"
+    [es.params.feature]
+        link = "acerca-de"
+        caption = "Acerca de"
+    [es.params.footer]
+        license = "Licenciado bajo Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer'>CC BY-NC-SA 4.0</a>)"
+        socialTitle = "Sígueme"
+        socialCaption = "Explorador del mundo y catador de helados, con un mapa en una mano y una cuchara en la otra, ansioso por descubrir nuevos sabores y nuevos horizontes"
 # toml-docs-end lang-param
 

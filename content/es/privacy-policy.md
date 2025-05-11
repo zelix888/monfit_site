@@ -1,6 +1,7 @@
 ---
 author:
   display_name: Marco Aiolo
+slug: politica-de-privacidad
 title: "Política de Privacidad"
 date: 2025-04-25
 showComments: false
