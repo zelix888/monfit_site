@@ -16,7 +16,7 @@ creador de este blog dedicado a descubrir nuevas rutas en la zona del Monferrato
 
 <p class="text-center"><img src="https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80" class="img-fluid w-50 rounded"/></p>
 
-Esta idea nace de mi profundo deseo de valorar este lugar mostrándote pintorescos pueblos medievales y permitiéndote admirar paisajes encantadores mientras te sientas en los grandes bancos dispersos por la zona.
+Esta idea nace de mi profundo deseo de valorar este lugar mostrándote pintorescos pueblos medievales y permitiéndote admirar paisajes encantadores mientras te sientas en los bancos gigantes dispersos por la zona.
 
 En mi blog encontrarás una serie de artículos sobre los senderos más impresionantes que puedes descargar fácilmente en tu smartphone, con descripciones detalladas de los niveles de dificultad, distancias y puntos de interés a lo largo del camino.
 
